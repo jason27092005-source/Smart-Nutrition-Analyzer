@@ -1,6 +1,7 @@
 # Smart Nutrition Analyzer and Personalized Diet Recommendation System Using Machine Learning
 
-> **Academic Project Level:** B.Sc Data Science (1st Major Project)  
+> **Author:** Jason Lewis  
+> **Degree Program:** B.Sc Data Science (1st Major Project)  
 > **Domain:** Applied Data Science, Machine Learning, Web Development, Health Analytics  
 > **Key Focus:** Simple, Explainable, Realistic, Beginner-Friendly, Viva-Ready  
 

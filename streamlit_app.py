@@ -64,11 +64,15 @@ menu = st.sidebar.radio(
     ["Dashboard", "Analyze My Nutrition", "Food Catalog", "Analytics", "About Project"]
 )
 
-# Persistent Disclaimer in Sidebar
+# Author Credit in Sidebar
 st.sidebar.markdown("---")
-st.sidebar.info(
-    "⚠️ **Educational Disclaimer:**\n\n"
-    "This tool provides general nutrition estimations and is not a substitute for medical or dietary advice."
+st.sidebar.success(
+    "👨‍🎓 **Developed by:**\n\n"
+    "### Jason Lewis\n\n"
+    "*B.Sc Data Science Student*"
+)
+st.sidebar.caption(
+    "⚠️ *General nutrition estimations for educational purposes.*"
 )
 
 # -----------------------------------------------------------
@@ -318,10 +322,12 @@ elif menu == "About Project":
     - Python, Pandas, NumPy, Scikit-learn, Joblib, Streamlit, Flask, Bootstrap 5, MySQL, Excel, Power BI.
     """)
 
-# Global Footer Disclaimer
+# Global Footer Credit & Disclaimer
 st.markdown("""
 <div class="disclaimer-box">
-    <strong>🛡️ Academic & Health Disclaimer:</strong><br>
-    This system provides general nutrition recommendations for educational purposes and is not a substitute for professional medical or dietary advice. It does not diagnose diseases or prescribe clinical treatments.
+    <strong>👨‍🎓 Developed by: Jason Lewis &bull; B.Sc Data Science</strong><br>
+    <em>Smart Nutrition Analyzer and Personalized Diet Recommendation System</em><br>
+    <small class="text-muted">Disclaimer: This system provides general nutrition recommendations for educational purposes and is not a substitute for professional medical or dietary advice.</small>
 </div>
 """, unsafe_allow_html=True)
+
