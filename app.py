@@ -238,7 +238,13 @@ def about():
     return render_template('about.html')
 
 if __name__ == '__main__':
-    print("Starting Smart Nutrition Analyzer Flask Server...")
-    print("Open http://127.0.0.1:5000 in your browser.")
-    app.run(debug=True, host='127.0.0.1', port=5000)
+    import sys
+    # If run via Streamlit Cloud (streamlit run app.py), delegate seamlessly
+    if 'streamlit' in sys.modules or any('streamlit' in arg.lower() for arg in sys.argv):
+        import runpy
+        runpy.run_module('streamlit_app', run_name='__main__')
+    else:
+        print("Starting Smart Nutrition Analyzer Flask Server...")
+        print("Open http://127.0.0.1:5000 in your browser.")
+        app.run(debug=True, host='127.0.0.1', port=5000)
 
