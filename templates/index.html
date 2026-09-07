@@ -1,0 +1,160 @@
+{% extends 'base.html' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<div class="container">
+    <!-- Header Banner -->
+    <div class="p-4 p-md-5 mb-4 rounded-3 bg-light border shadow-sm">
+        <div class="row align-items-center">
+            <div class="col-lg-8">
+                <span class="badge bg-success-subtle text-success border border-success-subtle px-3 py-2 mb-2 rounded-pill">
+                    <i class="bi bi-mortarboard-fill me-1"></i> B.Sc Data Science Project
+                </span>
+                <h1 class="display-6 fw-bold text-dark mb-2">Smart Nutrition Analyzer</h1>
+                <p class="lead text-secondary mb-3">
+                    A machine learning-driven web application to calculate energy requirements, classify user dietary profiles using Random Forest, and provide tailored food recommendations.
+                </p>
+                <div class="d-flex gap-2">
+                    <a href="{{ url_for('analyze') }}" class="btn btn-success px-4 py-2 fw-semibold shadow-sm">
+                        <i class="bi bi-calculator me-2"></i>Analyze My Nutrition
+                    </a>
+                    <a href="{{ url_for('food_data') }}" class="btn btn-outline-secondary px-4 py-2">
+                        <i class="bi bi-search me-2"></i>Explore Food Data
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-4 text-center d-none d-lg-block">
+                <div class="p-3 bg-white rounded-circle shadow-sm border d-inline-block">
+                    <i class="bi bi-pie-chart text-success display-1"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 5 KPI Summary Cards -->
+    <div class="row g-3 mb-4">
+        <div class="col-6 col-md-4 col-lg">
+            <div class="card border-0 shadow-sm rounded-3 h-100 bg-white border-start border-4 border-primary">
+                <div class="card-body p-3">
+                    <div class="text-muted small text-uppercase fw-bold">Total Foods</div>
+                    <div class="h3 fw-bold text-dark my-1">{{ kpis.total_foods | default('0') }}</div>
+                    <div class="small text-muted"><i class="bi bi-database me-1"></i>Curated records</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg">
+            <div class="card border-0 shadow-sm rounded-3 h-100 bg-white border-start border-4 border-warning">
+                <div class="card-body p-3">
+                    <div class="text-muted small text-uppercase fw-bold">Avg Calories</div>
+                    <div class="h3 fw-bold text-dark my-1">{{ kpis.avg_calories | default('0') }} <span class="fs-6 text-muted fw-normal">kcal</span></div>
+                    <div class="small text-muted"><i class="bi bi-fire me-1"></i>Per serving</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg">
+            <div class="card border-0 shadow-sm rounded-3 h-100 bg-white border-start border-4 border-success">
+                <div class="card-body p-3">
+                    <div class="text-muted small text-uppercase fw-bold">Avg Protein</div>
+                    <div class="h3 fw-bold text-dark my-1">{{ kpis.avg_protein | default('0') }} <span class="fs-6 text-muted fw-normal">g</span></div>
+                    <div class="small text-muted"><i class="bi bi-lightning-charge me-1"></i>Per serving</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg">
+            <div class="card border-0 shadow-sm rounded-3 h-100 bg-white border-start border-4 border-info">
+                <div class="card-body p-3">
+                    <div class="text-muted small text-uppercase fw-bold">Avg Fiber</div>
+                    <div class="h3 fw-bold text-dark my-1">{{ kpis.avg_fiber | default('0') }} <span class="fs-6 text-muted fw-normal">g</span></div>
+                    <div class="small text-muted"><i class="bi bi-flower1 me-1"></i>Per serving</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg">
+            <div class="card border-0 shadow-sm rounded-3 h-100 bg-white border-start border-4 border-secondary">
+                <div class="card-body p-3">
+                    <div class="text-muted small text-uppercase fw-bold">Food Categories</div>
+                    <div class="h3 fw-bold text-dark my-1">{{ kpis.total_categories | default('0') }}</div>
+                    <div class="small text-muted"><i class="bi bi-tags me-1"></i>Diverse groups</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 4 Clear Charts -->
+    <div class="row g-4 mb-4">
+        <!-- Chart 1: Calories by Food Category -->
+        <div class="col-lg-6">
+            <div class="card border-0 shadow-sm rounded-3 h-100">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h5 class="card-title mb-0 fw-semibold">
+                        <i class="bi bi-bar-chart-fill text-warning me-2"></i>Calories by Food Category
+                    </h5>
+                    <small class="text-muted">Average energy content per serving across categories</small>
+                </div>
+                <div class="card-body">
+                    <canvas id="chartCalories" height="230"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chart 2: Protein by Food Category -->
+        <div class="col-lg-6">
+            <div class="card border-0 shadow-sm rounded-3 h-100">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h5 class="card-title mb-0 fw-semibold">
+                        <i class="bi bi-bar-chart-line-fill text-success me-2"></i>Protein Content by Category
+                    </h5>
+                    <small class="text-muted">Average protein (grams) per serving across groups</small>
+                </div>
+                <div class="card-body">
+                    <canvas id="chartProtein" height="230"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chart 3: Macronutrient Ratio Distribution -->
+        <div class="col-lg-6">
+            <div class="card border-0 shadow-sm rounded-3 h-100">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h5 class="card-title mb-0 fw-semibold">
+                        <i class="bi bi-pie-chart-fill text-primary me-2"></i>Average Macronutrient Breakdown
+                    </h5>
+                    <small class="text-muted">Dataset-wide average grams of Carbs, Protein, and Fat</small>
+                </div>
+                <div class="card-body d-flex justify-content-center">
+                    <div style="max-width: 320px; width: 100%;">
+                        <canvas id="chartMacros"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chart 4: Food Category Distribution -->
+        <div class="col-lg-6">
+            <div class="card border-0 shadow-sm rounded-3 h-100">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h5 class="card-title mb-0 fw-semibold">
+                        <i class="bi bi-diagram-3-fill text-info me-2"></i>Food Category Distribution
+                    </h5>
+                    <small class="text-muted">Proportion of items across all nutritional categories</small>
+                </div>
+                <div class="card-body d-flex justify-content-center">
+                    <div style="max-width: 320px; width: 100%;">
+                        <canvas id="chartCategoryDist"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Pass Python data to JavaScript safely
+    const chartData = {{ chart_data | tojson }};
+    initDashboardCharts(chartData);
+</script>
+{% endblock %}
+

@@ -1,0 +1,172 @@
+{% extends 'base.html' %}
+
+{% block title %}About This Project{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <!-- Header Card -->
+            <div class="card border-0 shadow-sm rounded-3 mb-4 bg-light">
+                <div class="card-body p-4 text-center">
+                    <span class="badge bg-success px-3 py-2 rounded-pill mb-2">B.Sc Data Science Project</span>
+                    <h2 class="fw-bold text-dark mb-2">Smart Nutrition Analyzer & Personalized Diet Recommendation System</h2>
+                    <p class="text-muted mb-0">
+                        An applied Data Science and Machine Learning project exploring nutritional data analysis, classification modeling, and content-based recommendation heuristics.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Project Objectives -->
+            <div class="card border-0 shadow-sm rounded-3 mb-4">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h5 class="card-title mb-0 fw-bold text-success">
+                        <i class="bi bi-bullseye me-2"></i>1. Project Objectives
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <p>The goal of this system is to bridge everyday wellness nutrition with reproducible Data Science methods:</p>
+                    <ul>
+                        <li><strong>Energy Assessment:</strong> Estimate daily caloric requirements based on validated physiological formulas (Mifflin-St Jeor).</li>
+                        <li><strong>Screening:</strong> Compute Body Mass Index (BMI) as an accessible population screening metric.</li>
+                        <li><strong>Machine Learning Profile Classification:</strong> Categorize user nutritional intake into structured classes (<em>Balanced</em>, <em>High Calorie Intake</em>, <em>Low Nutrition Intake</em>) using a Scikit-learn Random Forest Classifier.</li>
+                        <li><strong>Personalized Recommendation:</strong> Suggest realistic, balanced food choices tailored to user dietary restrictions (Vegetarian/Non-Vegetarian) and fitness goals.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Scientific Formulas -->
+            <div class="card border-0 shadow-sm rounded-3 mb-4">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h5 class="card-title mb-0 fw-bold text-primary">
+                        <i class="bi bi-calculator me-2"></i>2. Mathematical & Physiological Formulas
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <div class="p-3 bg-light rounded-3 h-100 border">
+                                <h6 class="fw-bold text-dark">Body Mass Index (BMI)</h6>
+                                <p class="small text-muted mb-2">The standard WHO anthropometric screening ratio:</p>
+                                <code class="d-block p-2 bg-white rounded border mb-2 text-dark">
+                                    BMI = Weight (kg) / (Height (m))²
+                                </code>
+                                <div class="extra-small text-secondary">
+                                    &bull; &lt; 18.5: Underweight<br>
+                                    &bull; 18.5 – 24.9: Normal weight<br>
+                                    &bull; 25.0 – 29.9: Overweight<br>
+                                    &bull; &ge; 30.0: Obese
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="p-3 bg-light rounded-3 h-100 border">
+                                <h6 class="fw-bold text-dark">Basal Metabolic Rate (Mifflin-St Jeor)</h6>
+                                <p class="small text-muted mb-2">Considered the most accurate BMR formula for healthy adults:</p>
+                                <code class="d-block p-2 bg-white rounded border mb-2 text-dark small">
+                                    Men: 10×W + 6.25×H - 5×Age + 5<br>
+                                    Women: 10×W + 6.25×H - 5×Age - 161
+                                </code>
+                                <div class="extra-small text-secondary">
+                                    TDEE = BMR &times; Physical Activity Factor (1.2 to 1.9)
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Machine Learning Model Architecture -->
+            <div class="card border-0 shadow-sm rounded-3 mb-4">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h5 class="card-title mb-0 fw-bold text-warning">
+                        <i class="bi bi-diagram-3 me-2"></i>3. Machine Learning Architecture
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <h6 class="fw-bold text-dark mb-2">Algorithm: Random Forest Classifier</h6>
+                    <p class="small text-secondary">
+                        A Random Forest ensemble combines multiple decision trees trained on bootstrap samples with random feature subsampling. This prevents overfitting and captures non-linear interactions among nutritional features.
+                    </p>
+                    <div class="table-responsive small">
+                        <table class="table table-bordered mb-3">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Parameter</th>
+                                    <th>Value</th>
+                                    <th>Data Science Rationale</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><strong>Estimators (Trees)</strong></td>
+                                    <td>100</td>
+                                    <td>Provides variance reduction without excessive inference latency.</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Max Depth</strong></td>
+                                    <td>6</td>
+                                    <td>Prevents tree memorization and maintains explainability.</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Input Features</strong></td>
+                                    <td>Age, BMI, Daily Calories, Protein, Carbs, Fat, Fiber</td>
+                                    <td>Avoids target leakage; captures the multidimensional lifestyle profile.</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Target Classes</strong></td>
+                                    <td>Balanced, High Calorie Intake, Low Nutrition Intake</td>
+                                    <td>Clearly defined, non-clinical categories for lifestyle screening.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Technology Stack -->
+            <div class="card border-0 shadow-sm rounded-3 mb-4">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h5 class="card-title mb-0 fw-bold text-info">
+                        <i class="bi bi-layers me-2"></i>4. Technology Stack
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <div class="row g-3 small">
+                        <div class="col-md-3">
+                            <strong>Backend & Web:</strong>
+                            <p class="text-muted mb-0">Python 3.13, Flask 3.1</p>
+                        </div>
+                        <div class="col-md-3">
+                            <strong>Data Science & ML:</strong>
+                            <p class="text-muted mb-0">Pandas, NumPy, Scikit-learn, Joblib</p>
+                        </div>
+                        <div class="col-md-3">
+                            <strong>Frontend:</strong>
+                            <p class="text-muted mb-0">HTML5, CSS3, Bootstrap 5, Chart.js</p>
+                        </div>
+                        <div class="col-md-3">
+                            <strong>Database & BI:</strong>
+                            <p class="text-muted mb-0">MySQL, Excel, Power BI</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Health Disclaimer Alert -->
+            <div class="alert alert-warning border-warning shadow-sm p-4 rounded-3">
+                <div class="d-flex">
+                    <i class="bi bi-exclamation-triangle-fill fs-3 text-warning me-3"></i>
+                    <div>
+                        <h6 class="fw-bold text-dark mb-1">Important Health and Safety Disclaimer</h6>
+                        <p class="small text-dark mb-0">
+                            This web application is developed exclusively for educational and wellness screening demonstrations as part of a B.Sc Data Science curriculum. It is <strong>not</strong> designed to diagnose nutritional deficiencies or chronic illnesses, nor does it prescribe medical treatment. Users requiring specialized therapeutic diets must consult a registered dietitian or physician.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+

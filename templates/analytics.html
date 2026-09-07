@@ -1,0 +1,170 @@
+{% extends 'base.html' %}
+
+{% block title %}Nutrition Dataset Analytics{% endblock %}
+
+{% block content %}
+<div class="container">
+    <!-- Header -->
+    <div class="mb-4">
+        <h2 class="fw-bold text-dark mb-1">
+            <i class="bi bi-graph-up text-success me-2"></i>Nutrition Data Science Analytics
+        </h2>
+        <p class="text-muted mb-0">
+            Exploratory Data Analysis (EDA) and evidence-backed nutritional insights derived directly from {{ insights.total_records }} food records.
+        </p>
+    </div>
+
+    <!-- 3 Key Findings Cards (Derived from Data) -->
+    <div class="row g-3 mb-4">
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm rounded-3 h-100 border-start border-4 border-success">
+                <div class="card-body p-3">
+                    <h6 class="fw-bold text-success"><i class="bi bi-check2-circle me-1"></i>High Protein Density</h6>
+                    <p class="small text-secondary mb-0">
+                        Poultry, seafood, and legumes consistently deliver the highest protein-to-calorie ratios, averaging up to 25g+ protein per standard serving.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm rounded-3 h-100 border-start border-4 border-warning">
+                <div class="card-body p-3">
+                    <h6 class="fw-bold text-warning"><i class="bi bi-lightning-charge me-1"></i>Caloric Dispersion</h6>
+                    <p class="small text-secondary mb-0">
+                        Occasional fried snacks and sweets exhibit significantly higher energy density (averaging 250–320 kcal) compared to fresh vegetables (45–80 kcal).
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm rounded-3 h-100 border-start border-4 border-info">
+                <div class="card-body p-3">
+                    <h6 class="fw-bold text-info"><i class="bi bi-flower1 me-1"></i>Fiber Distribution</h6>
+                    <p class="small text-secondary mb-0">
+                        Fruits, vegetables, and whole pulses contribute over 80% of dietary fiber in the catalog while maintaining low glycemic fats.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Category Summary Analytical Table -->
+    <div class="card border-0 shadow-sm rounded-3 mb-4">
+        <div class="card-header bg-white border-bottom py-3">
+            <h5 class="card-title mb-0 fw-semibold text-dark">
+                <i class="bi bi-pie-chart text-primary me-2"></i>Macronutrient Composition by Food Category
+            </h5>
+            <small class="text-muted">Aggregated mathematical mean of nutritional metrics across food groups</small>
+        </div>
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-striped table-hover align-middle mb-0">
+                    <thead class="table-light small text-uppercase">
+                        <tr>
+                            <th class="ps-3">Food Category</th>
+                            <th class="text-center">Items Sampled</th>
+                            <th class="text-end">Avg Calories (kcal)</th>
+                            <th class="text-end">Avg Protein (g)</th>
+                            <th class="text-end">Avg Carbs (g)</th>
+                            <th class="text-end">Avg Fat (g)</th>
+                            <th class="text-end">Avg Fiber (g)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in insights.category_summary %}
+                        <tr>
+                            <td class="ps-3 fw-semibold text-dark">{{ row.Food_Category }}</td>
+                            <td class="text-center"><span class="badge bg-secondary-subtle text-dark">{{ row.Item_Count }}</span></td>
+                            <td class="text-end fw-bold">{{ row.Calories }}</td>
+                            <td class="text-end text-success fw-semibold">{{ row.Protein }}</td>
+                            <td class="text-end text-primary">{{ row.Carbohydrates }}</td>
+                            <td class="text-end text-warning">{{ row.Fat }}</td>
+                            <td class="text-end text-info fw-semibold">{{ row.Fiber }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Top Nutritious Foods Highlights -->
+    <div class="row g-4">
+        <!-- Top Protein Foods -->
+        <div class="col-lg-4">
+            <div class="card border-0 shadow-sm rounded-3 h-100">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h6 class="card-title mb-0 fw-bold text-success">
+                        <i class="bi bi-trophy-fill me-2"></i>Top High-Protein Foods
+                    </h6>
+                    <small class="text-muted">Highest grams of protein per serving</small>
+                </div>
+                <div class="card-body p-0">
+                    <ul class="list-group list-group-flush">
+                        {% for item in insights.high_protein %}
+                        <li class="list-group-item d-flex justify-content-between align-items-center py-2 px-3">
+                            <div>
+                                <div class="fw-semibold small text-dark">{{ item.Food_Name }}</div>
+                                <div class="extra-small text-muted">{{ item.Food_Category }} &bull; {{ item.Serving_Size }}</div>
+                            </div>
+                            <span class="badge bg-success px-2 py-1">{{ item.Protein }}g</span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Top Fiber Foods -->
+        <div class="col-lg-4">
+            <div class="card border-0 shadow-sm rounded-3 h-100">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h6 class="card-title mb-0 fw-bold text-info">
+                        <i class="bi bi-flower2 me-2"></i>Top High-Fiber Foods
+                    </h6>
+                    <small class="text-muted">Beneficial for digestion & satiety</small>
+                </div>
+                <div class="card-body p-0">
+                    <ul class="list-group list-group-flush">
+                        {% for item in insights.high_fiber %}
+                        <li class="list-group-item d-flex justify-content-between align-items-center py-2 px-3">
+                            <div>
+                                <div class="fw-semibold small text-dark">{{ item.Food_Name }}</div>
+                                <div class="extra-small text-muted">{{ item.Food_Category }} &bull; {{ item.Serving_Size }}</div>
+                            </div>
+                            <span class="badge bg-info text-dark px-2 py-1">{{ item.Fiber }}g</span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Lowest Calorie Density -->
+        <div class="col-lg-4">
+            <div class="card border-0 shadow-sm rounded-3 h-100">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h6 class="card-title mb-0 fw-bold text-primary">
+                        <i class="bi bi-droplet-half me-2"></i>Low-Calorie Density Foods
+                    </h6>
+                    <small class="text-muted">Nutrient-dense with minimal calories</small>
+                </div>
+                <div class="card-body p-0">
+                    <ul class="list-group list-group-flush">
+                        {% for item in insights.low_cal %}
+                        <li class="list-group-item d-flex justify-content-between align-items-center py-2 px-3">
+                            <div>
+                                <div class="fw-semibold small text-dark">{{ item.Food_Name }}</div>
+                                <div class="extra-small text-muted">{{ item.Food_Category }} &bull; {{ item.Serving_Size }}</div>
+                            </div>
+                            <span class="badge bg-primary px-2 py-1">{{ item.Calories }} kcal</span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+

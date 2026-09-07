@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+
+# SQLite database (optional - can keep or exclude, typically exclude if large)
+# database/smart_nutrition.db
+
+# OS specific
+.DS_Store
+Thumbs.db
+

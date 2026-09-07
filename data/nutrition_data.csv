@@ -1,0 +1,1021 @@
+Food_ID,Food_Name,Food_Category,Cuisine,Vegetarian,Serving_Size,Calories,Protein,Carbohydrates,Fat,Fiber,Sugar,Meal_Type,Preparation_Type,User_Preference
+1001,Rolled Oats (cooked),Grains and Cereals,Global,1,1 cup (234g),169,5.9,28.3,3.6,4.0,1.1,Breakfast,Boiled,Weight Loss
+1002,Rolled Oats (cooked) (Light Spiced),Grains and Cereals,Global,1,1 cup (234g),165,5.7,27.3,3.7,4.0,1.1,Breakfast,Boiled,Weight Loss
+1003,Rolled Oats (cooked) (Homestyle),Grains and Cereals,Global,1,1 cup (234g),162,5.9,27.2,3.3,4.1,1.0,Breakfast,Boiled,Weight Loss
+1004,Rolled Oats (cooked) (Low Sodium),Grains and Cereals,Global,1,1 cup (234g),164,5.8,27.4,3.5,3.9,1.1,Breakfast,Boiled,Weight Loss
+1005,Rolled Oats (cooked) (Extra Portion),Grains and Cereals,Global,1,1 cup (234g),214,7.5,35.6,4.6,5.1,1.4,Breakfast,Boiled,Weight Loss
+1006,Rolled Oats (cooked) (Half Portion),Grains and Cereals,Global,1,1 cup (234g),94,3.3,15.6,2.0,2.2,0.6,Breakfast,Boiled,Weight Loss
+1007,Rolled Oats (cooked) (With Olive Oil),Grains and Cereals,Global,1,1 cup (234g),185,6.2,28.8,5.0,4.3,1.1,Breakfast,Boiled,Weight Loss
+1008,Rolled Oats (cooked) (Steamed),Grains and Cereals,Global,1,1 cup (234g),155,6.0,26.0,3.0,4.3,1.0,Breakfast,Boiled,Weight Loss
+1009,Rolled Oats (cooked) (Nutrient Dense),Grains and Cereals,Global,1,1 cup (234g),180,6.9,29.4,3.9,4.8,1.1,Breakfast,Boiled,Weight Loss
+1010,Rolled Oats (cooked) (Mild Flavor),Grains and Cereals,Global,1,1 cup (234g),162,5.7,27.3,3.3,3.9,1.0,Breakfast,Boiled,Weight Loss
+1011,Rolled Oats (cooked) (Herb Infused),Grains and Cereals,Global,1,1 cup (234g),168,6.0,27.9,3.6,4.2,1.1,Breakfast,Boiled,Weight Loss
+1012,Rolled Oats (cooked) (Traditional),Grains and Cereals,Global,1,1 cup (234g),171,5.8,28.7,3.7,3.9,1.1,Breakfast,Boiled,Weight Loss
+1013,Steel Cut Oats,Grains and Cereals,Global,1,1 cup (240g),166,6.8,28.2,2.9,4.9,1.0,Breakfast,Boiled,Weight Loss
+1014,Steel Cut Oats (Light Spiced),Grains and Cereals,Global,1,1 cup (240g),170,6.9,28.5,3.1,5.0,1.0,Breakfast,Boiled,Weight Loss
+1015,Steel Cut Oats (Homestyle),Grains and Cereals,Global,1,1 cup (240g),169,7.2,28.7,2.8,5.3,1.0,Breakfast,Boiled,Weight Loss
+1016,Steel Cut Oats (Low Sodium),Grains and Cereals,Global,1,1 cup (240g),169,7.0,28.8,2.9,5.0,1.0,Breakfast,Boiled,Weight Loss
+1017,Steel Cut Oats (Extra Portion),Grains and Cereals,Global,1,1 cup (240g),210,8.6,35.6,3.7,6.1,1.2,Breakfast,Boiled,Weight Loss
+1018,Steel Cut Oats (Half Portion),Grains and Cereals,Global,1,1 cup (240g),95,3.9,16.0,1.7,2.8,0.6,Breakfast,Boiled,Weight Loss
+1019,Steel Cut Oats (With Olive Oil),Grains and Cereals,Global,1,1 cup (240g),184,7.3,29.5,4.1,5.3,1.0,Breakfast,Boiled,Weight Loss
+1020,Steel Cut Oats (Steamed),Grains and Cereals,Global,1,1 cup (240g),158,7.1,26.7,2.5,5.3,0.9,Breakfast,Boiled,Weight Loss
+1021,Steel Cut Oats (Nutrient Dense),Grains and Cereals,Global,1,1 cup (240g),187,8.4,31.0,3.3,6.1,1.0,Breakfast,Boiled,Weight Loss
+1022,Steel Cut Oats (Mild Flavor),Grains and Cereals,Global,1,1 cup (240g),171,7.0,29.3,2.9,5.1,1.0,Breakfast,Boiled,Weight Loss
+1023,Steel Cut Oats (Herb Infused),Grains and Cereals,Global,1,1 cup (240g),171,7.1,29.0,3.0,5.3,1.0,Breakfast,Boiled,Weight Loss
+1024,Steel Cut Oats (Traditional),Grains and Cereals,Global,1,1 cup (240g),171,6.7,29.0,3.1,4.7,1.0,Breakfast,Boiled,Weight Loss
+1025,Brown Rice (cooked),Grains and Cereals,Indian,1,1 cup (195g),221,4.6,47.1,1.6,3.6,0.7,Lunch,Boiled,Balanced
+1026,Brown Rice (cooked) (Light Spiced),Grains and Cereals,Indian,1,1 cup (195g),215,4.5,45.4,1.7,3.5,0.7,Lunch,Boiled,Balanced
+1027,Brown Rice (cooked) (Homestyle),Grains and Cereals,Indian,1,1 cup (195g),206,4.5,43.8,1.4,3.6,0.6,Lunch,Boiled,Balanced
+1028,Brown Rice (cooked) (Low Sodium),Grains and Cereals,Indian,1,1 cup (195g),208,4.4,44.2,1.5,3.4,0.7,Lunch,Boiled,Balanced
+1029,Brown Rice (cooked) (Extra Portion),Grains and Cereals,Indian,1,1 cup (195g),274,5.7,58.4,2.0,4.5,0.9,Lunch,Boiled,Balanced
+1030,Brown Rice (cooked) (Half Portion),Grains and Cereals,Indian,1,1 cup (195g),119,2.5,25.3,0.9,1.9,0.4,Lunch,Boiled,Balanced
+1031,Brown Rice (cooked) (With Olive Oil),Grains and Cereals,Indian,1,1 cup (195g),225,4.7,46.6,2.2,3.7,0.7,Lunch,Boiled,Balanced
+1032,Brown Rice (cooked) (Steamed),Grains and Cereals,Indian,1,1 cup (195g),208,4.8,44.1,1.4,3.9,0.7,Lunch,Boiled,Balanced
+1033,Brown Rice (cooked) (Nutrient Dense),Grains and Cereals,Indian,1,1 cup (195g),229,5.3,48.2,1.7,4.2,0.7,Lunch,Boiled,Balanced
+1034,Brown Rice (cooked) (Mild Flavor),Grains and Cereals,Indian,1,1 cup (195g),221,4.6,47.1,1.6,3.6,0.7,Lunch,Boiled,Balanced
+1035,Brown Rice (cooked) (Herb Infused),Grains and Cereals,Indian,1,1 cup (195g),216,4.6,45.9,1.6,3.8,0.7,Lunch,Boiled,Balanced
+1036,Brown Rice (cooked) (Traditional),Grains and Cereals,Indian,1,1 cup (195g),220,4.4,46.9,1.7,3.4,0.7,Lunch,Boiled,Balanced
+1037,White Basmati Rice (cooked),Grains and Cereals,Indian,1,1 cup (180g),207,4.4,45.9,0.6,1.0,0.2,Lunch,Boiled,Energy Booster
+1038,White Basmati Rice (cooked) (Light Spiced),Grains and Cereals,Indian,1,1 cup (180g),204,4.3,45.3,0.6,1.0,0.2,Lunch,Boiled,Energy Booster
+1039,White Basmati Rice (cooked) (Homestyle),Grains and Cereals,Indian,1,1 cup (180g),204,4.5,45.1,0.6,1.1,0.2,Lunch,Boiled,Energy Booster
+1040,White Basmati Rice (cooked) (Low Sodium),Grains and Cereals,Indian,1,1 cup (180g),202,4.3,44.8,0.6,1.0,0.2,Lunch,Boiled,Energy Booster
+1041,White Basmati Rice (cooked) (Extra Portion),Grains and Cereals,Indian,1,1 cup (180g),256,5.4,56.9,0.8,1.3,0.3,Lunch,Boiled,Energy Booster
+1042,White Basmati Rice (cooked) (Half Portion),Grains and Cereals,Indian,1,1 cup (180g),108,2.3,24.1,0.3,0.5,0.1,Lunch,Boiled,Energy Booster
+1043,White Basmati Rice (cooked) (With Olive Oil),Grains and Cereals,Indian,1,1 cup (180g),202,4.3,44.3,0.8,1.0,0.2,Lunch,Boiled,Energy Booster
+1044,White Basmati Rice (cooked) (Steamed),Grains and Cereals,Indian,1,1 cup (180g),191,4.5,42.2,0.5,1.1,0.2,Lunch,Boiled,Energy Booster
+1045,White Basmati Rice (cooked) (Nutrient Dense),Grains and Cereals,Indian,1,1 cup (180g),209,4.9,46.1,0.6,1.2,0.2,Lunch,Boiled,Energy Booster
+1046,White Basmati Rice (cooked) (Mild Flavor),Grains and Cereals,Indian,1,1 cup (180g),199,4.2,44.3,0.6,1.0,0.2,Lunch,Boiled,Energy Booster
+1047,White Basmati Rice (cooked) (Herb Infused),Grains and Cereals,Indian,1,1 cup (180g),200,4.3,44.4,0.6,1.1,0.2,Lunch,Boiled,Energy Booster
+1048,White Basmati Rice (cooked) (Traditional),Grains and Cereals,Indian,1,1 cup (180g),203,4.2,45.3,0.6,1.0,0.2,Lunch,Boiled,Energy Booster
+1049,Whole Wheat Roti,Grains and Cereals,Indian,1,1 piece (45g),123,3.8,22.2,2.1,3.2,0.5,Dinner,Cooked,Balanced
+1050,Whole Wheat Roti (Light Spiced),Grains and Cereals,Indian,1,1 piece (45g),122,3.8,21.8,2.2,3.2,0.5,Dinner,Cooked,Balanced
+1051,Whole Wheat Roti (Homestyle),Grains and Cereals,Indian,1,1 piece (45g),118,3.8,21.4,1.9,3.3,0.5,Dinner,Cooked,Balanced
+1052,Whole Wheat Roti (Low Sodium),Grains and Cereals,Indian,1,1 piece (45g),118,3.7,21.4,2.0,3.1,0.5,Dinner,Cooked,Balanced
+1053,Whole Wheat Roti (Extra Portion),Grains and Cereals,Indian,1,1 piece (45g),151,4.7,27.1,2.6,3.9,0.6,Dinner,Cooked,Balanced
+1054,Whole Wheat Roti (Half Portion),Grains and Cereals,Indian,1,1 piece (45g),69,2.1,12.4,1.2,1.8,0.3,Dinner,Cooked,Balanced
+1055,Whole Wheat Roti (With Olive Oil),Grains and Cereals,Indian,1,1 piece (45g),130,3.9,22.2,2.9,3.4,0.5,Dinner,Cooked,Balanced
+1056,Whole Wheat Roti (Steamed),Grains and Cereals,Indian,1,1 piece (45g),116,4.0,21.0,1.8,3.5,0.5,Dinner,Cooked,Balanced
+1057,Whole Wheat Roti (Nutrient Dense),Grains and Cereals,Indian,1,1 piece (45g),128,4.4,22.6,2.2,3.8,0.5,Dinner,Cooked,Balanced
+1058,Whole Wheat Roti (Mild Flavor),Grains and Cereals,Indian,1,1 piece (45g),122,3.8,22.3,2.0,3.2,0.5,Dinner,Cooked,Balanced
+1059,Whole Wheat Roti (Herb Infused),Grains and Cereals,Indian,1,1 piece (45g),121,3.8,21.8,2.1,3.4,0.5,Dinner,Cooked,Balanced
+1060,Whole Wheat Roti (Traditional),Grains and Cereals,Indian,1,1 piece (45g),124,3.7,22.3,2.2,3.1,0.5,Dinner,Cooked,Balanced
+1061,Multigrain Roti,Grains and Cereals,Indian,1,1 piece (50g),137,4.6,24.2,2.4,4.2,0.6,Dinner,Cooked,Weight Loss
+1062,Multigrain Roti (Light Spiced),Grains and Cereals,Indian,1,1 piece (50g),134,4.5,23.7,2.4,4.2,0.6,Dinner,Cooked,Weight Loss
+1063,Multigrain Roti (Homestyle),Grains and Cereals,Indian,1,1 piece (50g),130,4.6,23.1,2.1,4.3,0.6,Dinner,Cooked,Weight Loss
+1064,Multigrain Roti (Low Sodium),Grains and Cereals,Indian,1,1 piece (50g),133,4.5,23.5,2.3,4.1,0.6,Dinner,Cooked,Weight Loss
+1065,Multigrain Roti (Extra Portion),Grains and Cereals,Indian,1,1 piece (50g),169,5.7,30.0,2.9,5.2,0.8,Dinner,Cooked,Weight Loss
+1066,Multigrain Roti (Half Portion),Grains and Cereals,Indian,1,1 piece (50g),74,2.5,13.1,1.3,2.3,0.3,Dinner,Cooked,Weight Loss
+1067,Multigrain Roti (With Olive Oil),Grains and Cereals,Indian,1,1 piece (50g),138,4.5,23.1,3.1,4.2,0.6,Dinner,Cooked,Weight Loss
+1068,Multigrain Roti (Steamed),Grains and Cereals,Indian,1,1 piece (50g),122,4.6,21.7,1.9,4.4,0.5,Dinner,Cooked,Weight Loss
+1069,Multigrain Roti (Nutrient Dense),Grains and Cereals,Indian,1,1 piece (50g),141,5.3,24.4,2.5,4.9,0.6,Dinner,Cooked,Weight Loss
+1070,Multigrain Roti (Mild Flavor),Grains and Cereals,Indian,1,1 piece (50g),130,4.4,23.2,2.2,4.0,0.6,Dinner,Cooked,Weight Loss
+1071,Multigrain Roti (Herb Infused),Grains and Cereals,Indian,1,1 piece (50g),132,4.6,23.3,2.3,4.4,0.6,Dinner,Cooked,Weight Loss
+1072,Multigrain Roti (Traditional),Grains and Cereals,Indian,1,1 piece (50g),139,4.5,24.6,2.5,4.1,0.6,Dinner,Cooked,Weight Loss
+1073,Quinoa (cooked),Grains and Cereals,Global,1,1 cup (185g),228,8.3,40.3,3.7,5.3,1.6,Lunch,Boiled,Muscle Gain
+1074,Quinoa (cooked) (Light Spiced),Grains and Cereals,Global,1,1 cup (185g),221,8.0,39.0,3.7,5.2,1.6,Lunch,Boiled,Muscle Gain
+1075,Quinoa (cooked) (Homestyle),Grains and Cereals,Global,1,1 cup (185g),219,8.3,39.0,3.3,5.5,1.5,Lunch,Boiled,Muscle Gain
+1076,Quinoa (cooked) (Low Sodium),Grains and Cereals,Global,1,1 cup (185g),219,8.0,38.8,3.5,5.2,1.6,Lunch,Boiled,Muscle Gain
+1077,Quinoa (cooked) (Extra Portion),Grains and Cereals,Global,1,1 cup (185g),285,10.4,50.5,4.6,6.7,2.0,Lunch,Boiled,Muscle Gain
+1078,Quinoa (cooked) (Half Portion),Grains and Cereals,Global,1,1 cup (185g),122,4.4,21.6,2.0,2.9,0.9,Lunch,Boiled,Muscle Gain
+1079,Quinoa (cooked) (With Olive Oil),Grains and Cereals,Global,1,1 cup (185g),231,8.1,38.8,4.8,5.4,1.6,Lunch,Boiled,Muscle Gain
+1080,Quinoa (cooked) (Steamed),Grains and Cereals,Global,1,1 cup (185g),208,8.4,36.9,3.0,5.6,1.4,Lunch,Boiled,Muscle Gain
+1081,Quinoa (cooked) (Nutrient Dense),Grains and Cereals,Global,1,1 cup (185g),240,9.6,41.5,3.9,6.3,1.6,Lunch,Boiled,Muscle Gain
+1082,Quinoa (cooked) (Mild Flavor),Grains and Cereals,Global,1,1 cup (185g),217,7.9,38.8,3.4,5.1,1.5,Lunch,Boiled,Muscle Gain
+1083,Quinoa (cooked) (Herb Infused),Grains and Cereals,Global,1,1 cup (185g),227,8.4,40.0,3.7,5.6,1.6,Lunch,Boiled,Muscle Gain
+1084,Quinoa (cooked) (Traditional),Grains and Cereals,Global,1,1 cup (185g),231,8.1,41.1,3.8,5.2,1.7,Lunch,Boiled,Muscle Gain
+1085,Millet Porridge (Ragi),Grains and Cereals,Indian,1,1 cup (220g),154,4.2,30.8,1.5,4.8,0.8,Breakfast,Boiled,Diabetes-Friendly
+1086,Millet Porridge (Ragi) (Light Spiced),Grains and Cereals,Indian,1,1 cup (220g),152,4.1,30.5,1.5,4.8,0.8,Breakfast,Boiled,Diabetes-Friendly
+1087,Millet Porridge (Ragi) (Homestyle),Grains and Cereals,Indian,1,1 cup (220g),155,4.4,31.3,1.4,5.2,0.8,Breakfast,Boiled,Diabetes-Friendly
+1088,Millet Porridge (Ragi) (Low Sodium),Grains and Cereals,Indian,1,1 cup (220g),153,4.2,30.7,1.5,4.8,0.8,Breakfast,Boiled,Diabetes-Friendly
+1089,Millet Porridge (Ragi) (Extra Portion),Grains and Cereals,Indian,1,1 cup (220g),188,5.1,37.8,1.8,5.9,1.0,Breakfast,Boiled,Diabetes-Friendly
+1090,Millet Porridge (Ragi) (Half Portion),Grains and Cereals,Indian,1,1 cup (220g),82,2.2,16.6,0.8,2.6,0.4,Breakfast,Boiled,Diabetes-Friendly
+1091,Millet Porridge (Ragi) (With Olive Oil),Grains and Cereals,Indian,1,1 cup (220g),156,4.2,30.3,2.0,4.9,0.8,Breakfast,Boiled,Diabetes-Friendly
+1092,Millet Porridge (Ragi) (Steamed),Grains and Cereals,Indian,1,1 cup (220g),148,4.4,29.7,1.3,5.3,0.7,Breakfast,Boiled,Diabetes-Friendly
+1093,Millet Porridge (Ragi) (Nutrient Dense),Grains and Cereals,Indian,1,1 cup (220g),167,5.0,33.1,1.6,5.9,0.8,Breakfast,Boiled,Diabetes-Friendly
+1094,Millet Porridge (Ragi) (Mild Flavor),Grains and Cereals,Indian,1,1 cup (220g),153,4.1,30.9,1.4,4.8,0.8,Breakfast,Boiled,Diabetes-Friendly
+1095,Millet Porridge (Ragi) (Herb Infused),Grains and Cereals,Indian,1,1 cup (220g),152,4.2,30.5,1.5,5.0,0.8,Breakfast,Boiled,Diabetes-Friendly
+1096,Millet Porridge (Ragi) (Traditional),Grains and Cereals,Indian,1,1 cup (220g),156,4.1,31.4,1.5,4.6,0.8,Breakfast,Boiled,Diabetes-Friendly
+1097,Vegetable Poha,Grains and Cereals,Indian,1,1 plate (180g),238,4.7,39.1,7.0,3.6,2.3,Breakfast,Cooked,Balanced
+1098,Vegetable Poha (Light Spiced),Grains and Cereals,Indian,1,1 plate (180g),236,4.6,38.1,7.2,3.6,2.2,Breakfast,Cooked,Balanced
+1099,Vegetable Poha (Homestyle),Grains and Cereals,Indian,1,1 plate (180g),230,4.8,38.3,6.4,3.8,2.1,Breakfast,Cooked,Balanced
+1100,Vegetable Poha (Low Sodium),Grains and Cereals,Indian,1,1 plate (180g),234,4.7,38.4,6.8,3.6,2.2,Breakfast,Cooked,Balanced
+1101,Vegetable Poha (Extra Portion),Grains and Cereals,Indian,1,1 plate (180g),282,5.6,46.1,8.3,4.2,2.7,Breakfast,Cooked,Balanced
+1102,Vegetable Poha (Half Portion),Grains and Cereals,Indian,1,1 plate (180g),129,2.6,21.2,3.8,2.0,1.2,Breakfast,Cooked,Balanced
+1103,Vegetable Poha (With Olive Oil),Grains and Cereals,Indian,1,1 plate (180g),256,4.7,38.4,9.3,3.7,2.2,Breakfast,Cooked,Balanced
+1104,Vegetable Poha (Steamed),Grains and Cereals,Indian,1,1 plate (180g),216,4.8,36.2,5.8,3.9,2.0,Breakfast,Cooked,Balanced
+1105,Vegetable Poha (Nutrient Dense),Grains and Cereals,Indian,1,1 plate (180g),244,5.4,39.3,7.2,4.1,2.2,Breakfast,Cooked,Balanced
+1106,Vegetable Poha (Mild Flavor),Grains and Cereals,Indian,1,1 plate (180g),230,4.6,38.3,6.5,3.5,2.2,Breakfast,Cooked,Balanced
+1107,Vegetable Poha (Herb Infused),Grains and Cereals,Indian,1,1 plate (180g),230,4.6,37.5,6.8,3.7,2.2,Breakfast,Cooked,Balanced
+1108,Vegetable Poha (Traditional),Grains and Cereals,Indian,1,1 plate (180g),235,4.5,38.6,7.0,3.4,2.3,Breakfast,Cooked,Balanced
+1109,Vegetable Upma,Grains and Cereals,Indian,1,1 plate (180g),222,5.1,36.4,6.2,3.2,1.8,Breakfast,Cooked,Balanced
+1110,Vegetable Upma (Light Spiced),Grains and Cereals,Indian,1,1 plate (180g),231,5.2,37.5,6.7,3.4,1.8,Breakfast,Cooked,Balanced
+1111,Vegetable Upma (Homestyle),Grains and Cereals,Indian,1,1 plate (180g),220,5.3,36.6,5.8,3.4,1.7,Breakfast,Cooked,Balanced
+1112,Vegetable Upma (Low Sodium),Grains and Cereals,Indian,1,1 plate (180g),216,5.0,35.6,6.0,3.2,1.7,Breakfast,Cooked,Balanced
+1113,Vegetable Upma (Extra Portion),Grains and Cereals,Indian,1,1 plate (180g),278,6.4,45.6,7.8,4.0,2.3,Breakfast,Cooked,Balanced
+1114,Vegetable Upma (Half Portion),Grains and Cereals,Indian,1,1 plate (180g),120,2.8,19.7,3.3,1.7,1.0,Breakfast,Cooked,Balanced
+1115,Vegetable Upma (With Olive Oil),Grains and Cereals,Indian,1,1 plate (180g),248,5.3,37.4,8.6,3.4,1.8,Breakfast,Cooked,Balanced
+1116,Vegetable Upma (Steamed),Grains and Cereals,Indian,1,1 plate (180g),212,5.5,35.4,5.4,3.6,1.7,Breakfast,Cooked,Balanced
+1117,Vegetable Upma (Nutrient Dense),Grains and Cereals,Indian,1,1 plate (180g),235,5.9,37.9,6.6,3.8,1.8,Breakfast,Cooked,Balanced
+1118,Vegetable Upma (Mild Flavor),Grains and Cereals,Indian,1,1 plate (180g),221,5.1,36.8,5.9,3.2,1.8,Breakfast,Cooked,Balanced
+1119,Vegetable Upma (Herb Infused),Grains and Cereals,Indian,1,1 plate (180g),227,5.3,37.1,6.4,3.5,1.8,Breakfast,Cooked,Balanced
+1120,Vegetable Upma (Traditional),Grains and Cereals,Indian,1,1 plate (180g),222,4.9,36.5,6.3,3.0,1.8,Breakfast,Cooked,Balanced
+1121,Steamed Idli (2 pcs),Grains and Cereals,Indian,1,2 pieces (120g),140,4.9,28.4,0.8,2.2,0.4,Breakfast,Steamed,Balanced
+1122,Steamed Idli (2 pcs) (Light Spiced),Grains and Cereals,Indian,1,2 pieces (120g),139,4.8,28.1,0.8,2.2,0.4,Breakfast,Steamed,Balanced
+1123,Steamed Idli (2 pcs) (Homestyle),Grains and Cereals,Indian,1,2 pieces (120g),138,5.0,27.9,0.7,2.3,0.4,Breakfast,Steamed,Balanced
+1124,Steamed Idli (2 pcs) (Low Sodium),Grains and Cereals,Indian,1,2 pieces (120g),138,4.8,27.8,0.8,2.2,0.4,Breakfast,Steamed,Balanced
+1125,Steamed Idli (2 pcs) (Extra Portion),Grains and Cereals,Indian,1,2 pieces (120g),168,5.8,34.0,1.0,2.7,0.5,Breakfast,Steamed,Balanced
+1126,Steamed Idli (2 pcs) (Half Portion),Grains and Cereals,Indian,1,2 pieces (120g),75,2.6,15.2,0.4,1.2,0.2,Breakfast,Steamed,Balanced
+1127,Steamed Idli (2 pcs) (With Olive Oil),Grains and Cereals,Indian,1,2 pieces (120g),137,4.8,27.2,1.0,2.2,0.4,Breakfast,Steamed,Balanced
+1128,Steamed Idli (2 pcs) (Steamed),Grains and Cereals,Indian,1,2 pieces (120g),136,5.2,27.3,0.7,2.5,0.4,Breakfast,Steamed,Balanced
+1129,Steamed Idli (2 pcs) (Nutrient Dense),Grains and Cereals,Indian,1,2 pieces (120g),152,5.8,30.1,0.9,2.7,0.4,Breakfast,Steamed,Balanced
+1130,Steamed Idli (2 pcs) (Mild Flavor),Grains and Cereals,Indian,1,2 pieces (120g),141,4.8,28.6,0.8,2.2,0.4,Breakfast,Steamed,Balanced
+1131,Steamed Idli (2 pcs) (Herb Infused),Grains and Cereals,Indian,1,2 pieces (120g),139,4.9,28.0,0.8,2.3,0.4,Breakfast,Steamed,Balanced
+1132,Steamed Idli (2 pcs) (Traditional),Grains and Cereals,Indian,1,2 pieces (120g),137,4.6,27.8,0.8,2.1,0.4,Breakfast,Steamed,Balanced
+1133,Plain Dosa,Grains and Cereals,Indian,1,1 medium (90g),174,4.0,29.7,4.3,1.8,0.5,Breakfast,Cooked,Energy Booster
+1134,Plain Dosa (Light Spiced),Grains and Cereals,Indian,1,1 medium (90g),176,4.0,29.8,4.5,1.9,0.5,Breakfast,Cooked,Energy Booster
+1135,Plain Dosa (Homestyle),Grains and Cereals,Indian,1,1 medium (90g),161,3.9,27.7,3.8,1.8,0.5,Breakfast,Cooked,Energy Booster
+1136,Plain Dosa (Low Sodium),Grains and Cereals,Indian,1,1 medium (90g),167,3.9,28.7,4.1,1.8,0.5,Breakfast,Cooked,Energy Booster
+1137,Plain Dosa (Extra Portion),Grains and Cereals,Indian,1,1 medium (90g),206,4.7,35.3,5.1,2.2,0.6,Breakfast,Cooked,Energy Booster
+1138,Plain Dosa (Half Portion),Grains and Cereals,Indian,1,1 medium (90g),94,2.2,16.2,2.3,1.0,0.3,Breakfast,Cooked,Energy Booster
+1139,Plain Dosa (With Olive Oil),Grains and Cereals,Indian,1,1 medium (90g),186,4.0,29.5,5.8,1.9,0.5,Breakfast,Cooked,Energy Booster
+1140,Plain Dosa (Steamed),Grains and Cereals,Indian,1,1 medium (90g),155,4.0,26.9,3.5,1.9,0.4,Breakfast,Cooked,Energy Booster
+1141,Plain Dosa (Nutrient Dense),Grains and Cereals,Indian,1,1 medium (90g),180,4.6,30.4,4.5,2.2,0.5,Breakfast,Cooked,Energy Booster
+1142,Plain Dosa (Mild Flavor),Grains and Cereals,Indian,1,1 medium (90g),168,3.9,29.1,4.0,1.8,0.5,Breakfast,Cooked,Energy Booster
+1143,Plain Dosa (Herb Infused),Grains and Cereals,Indian,1,1 medium (90g),169,4.0,28.9,4.2,1.9,0.5,Breakfast,Cooked,Energy Booster
+1144,Plain Dosa (Traditional),Grains and Cereals,Indian,1,1 medium (90g),177,3.9,30.2,4.5,1.8,0.5,Breakfast,Cooked,Energy Booster
+1145,Multigrain Bread Slice,Grains and Cereals,Global,1,1 slice (40g),94,4.2,15.9,1.5,2.8,1.5,Breakfast,Baked,Balanced
+1146,Multigrain Bread Slice (Light Spiced),Grains and Cereals,Global,1,1 slice (40g),93,4.1,15.7,1.5,2.8,1.5,Breakfast,Baked,Balanced
+1147,Multigrain Bread Slice (Homestyle),Grains and Cereals,Global,1,1 slice (40g),93,4.3,15.7,1.4,2.9,1.4,Breakfast,Baked,Balanced
+1148,Multigrain Bread Slice (Low Sodium),Grains and Cereals,Global,1,1 slice (40g),95,4.3,16.1,1.5,2.8,1.5,Breakfast,Baked,Balanced
+1149,Multigrain Bread Slice (Extra Portion),Grains and Cereals,Global,1,1 slice (40g),115,5.2,19.6,1.8,3.4,1.8,Breakfast,Baked,Balanced
+1150,Multigrain Bread Slice (Half Portion),Grains and Cereals,Global,1,1 slice (40g),51,2.3,8.7,0.8,1.5,0.8,Breakfast,Baked,Balanced
+1151,Multigrain Bread Slice (With Olive Oil),Grains and Cereals,Global,1,1 slice (40g),102,4.4,16.5,2.1,3.0,1.5,Breakfast,Baked,Balanced
+1152,Multigrain Bread Slice (Steamed),Grains and Cereals,Global,1,1 slice (40g),91,4.4,15.3,1.3,3.1,1.4,Breakfast,Baked,Balanced
+1153,Multigrain Bread Slice (Nutrient Dense),Grains and Cereals,Global,1,1 slice (40g),101,4.9,16.7,1.6,3.3,1.5,Breakfast,Baked,Balanced
+1154,Multigrain Bread Slice (Mild Flavor),Grains and Cereals,Global,1,1 slice (40g),93,4.2,16.0,1.4,2.8,1.5,Breakfast,Baked,Balanced
+1155,Multigrain Bread Slice (Herb Infused),Grains and Cereals,Global,1,1 slice (40g),94,4.2,15.8,1.5,3.0,1.5,Breakfast,Baked,Balanced
+1156,Multigrain Bread Slice (Traditional),Grains and Cereals,Global,1,1 slice (40g),94,4.0,16.1,1.5,2.7,1.5,Breakfast,Baked,Balanced
+1157,Whole Wheat Pasta,Grains and Cereals,Italian,1,1 cup (140g),183,7.4,36.6,0.8,6.2,1.2,Dinner,Boiled,Muscle Gain
+1158,Whole Wheat Pasta (Light Spiced),Grains and Cereals,Italian,1,1 cup (140g),186,7.5,37.2,0.8,6.5,1.2,Dinner,Boiled,Muscle Gain
+1159,Whole Wheat Pasta (Homestyle),Grains and Cereals,Italian,1,1 cup (140g),179,7.5,35.7,0.7,6.5,1.1,Dinner,Boiled,Muscle Gain
+1160,Whole Wheat Pasta (Low Sodium),Grains and Cereals,Italian,1,1 cup (140g),181,7.4,36.0,0.8,6.2,1.2,Dinner,Boiled,Muscle Gain
+1161,Whole Wheat Pasta (Extra Portion),Grains and Cereals,Italian,1,1 cup (140g),226,9.1,45.1,1.0,7.7,1.5,Dinner,Boiled,Muscle Gain
+1162,Whole Wheat Pasta (Half Portion),Grains and Cereals,Italian,1,1 cup (140g),102,4.2,20.5,0.4,3.5,0.7,Dinner,Boiled,Muscle Gain
+1163,Whole Wheat Pasta (With Olive Oil),Grains and Cereals,Italian,1,1 cup (140g),186,7.5,36.4,1.1,6.5,1.2,Dinner,Boiled,Muscle Gain
+1164,Whole Wheat Pasta (Steamed),Grains and Cereals,Italian,1,1 cup (140g),183,8.1,36.0,0.7,7.1,1.1,Dinner,Boiled,Muscle Gain
+1165,Whole Wheat Pasta (Nutrient Dense),Grains and Cereals,Italian,1,1 cup (140g),203,9.0,39.7,0.9,7.7,1.3,Dinner,Boiled,Muscle Gain
+1166,Whole Wheat Pasta (Mild Flavor),Grains and Cereals,Italian,1,1 cup (140g),179,7.2,36.0,0.7,6.1,1.1,Dinner,Boiled,Muscle Gain
+1167,Whole Wheat Pasta (Herb Infused),Grains and Cereals,Italian,1,1 cup (140g),185,7.6,36.8,0.8,6.7,1.2,Dinner,Boiled,Muscle Gain
+1168,Whole Wheat Pasta (Traditional),Grains and Cereals,Italian,1,1 cup (140g),189,7.4,38.1,0.8,6.2,1.2,Dinner,Boiled,Muscle Gain
+1169,Cornflakes with Milk,Grains and Cereals,Global,1,1 bowl (200g),173,7.1,33.4,1.2,1.5,8.4,Breakfast,Raw,Energy Booster
+1170,Cornflakes with Milk (Light Spiced),Grains and Cereals,Global,1,1 bowl (200g),172,7.0,33.2,1.2,1.5,8.3,Breakfast,Raw,Energy Booster
+1171,Cornflakes with Milk (Homestyle),Grains and Cereals,Global,1,1 bowl (200g),177,7.5,34.2,1.1,1.6,8.3,Breakfast,Raw,Energy Booster
+1172,Cornflakes with Milk (Low Sodium),Grains and Cereals,Global,1,1 bowl (200g),175,7.2,33.8,1.2,1.5,8.4,Breakfast,Raw,Energy Booster
+1173,Cornflakes with Milk (Extra Portion),Grains and Cereals,Global,1,1 bowl (200g),219,9.0,42.4,1.5,1.9,10.6,Breakfast,Raw,Energy Booster
+1174,Cornflakes with Milk (Half Portion),Grains and Cereals,Global,1,1 bowl (200g),98,4.0,19.0,0.7,0.8,4.8,Breakfast,Raw,Energy Booster
+1175,Cornflakes with Milk (With Olive Oil),Grains and Cereals,Global,1,1 bowl (200g),183,7.5,34.6,1.6,1.6,8.7,Breakfast,Raw,Energy Booster
+1176,Cornflakes with Milk (Steamed),Grains and Cereals,Global,1,1 bowl (200g),165,7.4,31.7,1.0,1.6,7.7,Breakfast,Raw,Energy Booster
+1177,Cornflakes with Milk (Nutrient Dense),Grains and Cereals,Global,1,1 bowl (200g),184,8.3,34.8,1.3,1.8,8.5,Breakfast,Raw,Energy Booster
+1178,Cornflakes with Milk (Mild Flavor),Grains and Cereals,Global,1,1 bowl (200g),174,7.1,33.9,1.1,1.5,8.3,Breakfast,Raw,Energy Booster
+1179,Cornflakes with Milk (Herb Infused),Grains and Cereals,Global,1,1 bowl (200g),177,7.4,34.2,1.2,1.6,8.5,Breakfast,Raw,Energy Booster
+1180,Cornflakes with Milk (Traditional),Grains and Cereals,Global,1,1 bowl (200g),177,7.0,34.6,1.2,1.5,8.7,Breakfast,Raw,Energy Booster
+1181,Yellow Moong Dal,Pulses and Legumes,Indian,1,1 katori (150g),149,9.3,22.3,2.5,5.5,1.2,Lunch,Boiled,Balanced
+1182,Yellow Moong Dal (Light Spiced),Pulses and Legumes,Indian,1,1 katori (150g),150,9.3,22.2,2.7,5.6,1.2,Lunch,Boiled,Balanced
+1183,Yellow Moong Dal (Homestyle),Pulses and Legumes,Indian,1,1 katori (150g),149,9.7,22.2,2.4,5.8,1.2,Lunch,Boiled,Balanced
+1184,Yellow Moong Dal (Low Sodium),Pulses and Legumes,Indian,1,1 katori (150g),143,9.0,21.3,2.4,5.3,1.1,Lunch,Boiled,Balanced
+1185,Yellow Moong Dal (Extra Portion),Pulses and Legumes,Indian,1,1 katori (150g),183,11.4,27.3,3.1,6.7,1.5,Lunch,Boiled,Balanced
+1186,Yellow Moong Dal (Half Portion),Pulses and Legumes,Indian,1,1 katori (150g),81,5.0,12.0,1.4,2.9,0.7,Lunch,Boiled,Balanced
+1187,Yellow Moong Dal (With Olive Oil),Pulses and Legumes,Indian,1,1 katori (150g),159,9.6,22.5,3.4,5.8,1.2,Lunch,Boiled,Balanced
+1188,Yellow Moong Dal (Steamed),Pulses and Legumes,Indian,1,1 katori (150g),139,9.5,20.6,2.1,5.9,1.1,Lunch,Boiled,Balanced
+1189,Yellow Moong Dal (Nutrient Dense),Pulses and Legumes,Indian,1,1 katori (150g),157,10.7,22.7,2.6,6.4,1.2,Lunch,Boiled,Balanced
+1190,Yellow Moong Dal (Mild Flavor),Pulses and Legumes,Indian,1,1 katori (150g),146,9.1,21.9,2.4,5.4,1.2,Lunch,Boiled,Balanced
+1191,Yellow Moong Dal (Herb Infused),Pulses and Legumes,Indian,1,1 katori (150g),148,9.4,22.1,2.5,5.8,1.2,Lunch,Boiled,Balanced
+1192,Yellow Moong Dal (Traditional),Pulses and Legumes,Indian,1,1 katori (150g),147,8.9,22.1,2.6,5.2,1.2,Lunch,Boiled,Balanced
+1193,Masoor Dal,Pulses and Legumes,Indian,1,1 katori (150g),154,9.9,23.6,2.2,5.7,1.0,Lunch,Boiled,Muscle Gain
+1194,Masoor Dal (Light Spiced),Pulses and Legumes,Indian,1,1 katori (150g),162,10.4,24.6,2.4,6.1,1.0,Lunch,Boiled,Muscle Gain
+1195,Masoor Dal (Homestyle),Pulses and Legumes,Indian,1,1 katori (150g),153,10.3,23.4,2.0,6.1,0.9,Lunch,Boiled,Muscle Gain
+1196,Masoor Dal (Low Sodium),Pulses and Legumes,Indian,1,1 katori (150g),158,10.3,24.3,2.2,5.9,1.0,Lunch,Boiled,Muscle Gain
+1197,Masoor Dal (Extra Portion),Pulses and Legumes,Indian,1,1 katori (150g),196,12.7,30.1,2.8,7.3,1.3,Lunch,Boiled,Muscle Gain
+1198,Masoor Dal (Half Portion),Pulses and Legumes,Indian,1,1 katori (150g),84,5.4,12.8,1.2,3.1,0.5,Lunch,Boiled,Muscle Gain
+1199,Masoor Dal (With Olive Oil),Pulses and Legumes,Indian,1,1 katori (150g),169,10.6,24.7,3.1,6.3,1.0,Lunch,Boiled,Muscle Gain
+1200,Masoor Dal (Steamed),Pulses and Legumes,Indian,1,1 katori (150g),154,10.8,23.3,1.9,6.5,0.9,Lunch,Boiled,Muscle Gain
+1201,Masoor Dal (Nutrient Dense),Pulses and Legumes,Indian,1,1 katori (150g),174,12.3,25.9,2.4,7.2,1.0,Lunch,Boiled,Muscle Gain
+1202,Masoor Dal (Mild Flavor),Pulses and Legumes,Indian,1,1 katori (150g),159,10.3,24.6,2.1,5.9,1.0,Lunch,Boiled,Muscle Gain
+1203,Masoor Dal (Herb Infused),Pulses and Legumes,Indian,1,1 katori (150g),162,10.6,24.7,2.3,6.4,1.0,Lunch,Boiled,Muscle Gain
+1204,Masoor Dal (Traditional),Pulses and Legumes,Indian,1,1 katori (150g),155,9.7,24.0,2.2,5.5,1.0,Lunch,Boiled,Muscle Gain
+1205,Toor Dal,Pulses and Legumes,Indian,1,1 katori (150g),164,8.8,25.5,3.0,5.0,1.1,Lunch,Boiled,Balanced
+1206,Toor Dal (Light Spiced),Pulses and Legumes,Indian,1,1 katori (150g),163,8.6,25.1,3.1,5.0,1.1,Lunch,Boiled,Balanced
+1207,Toor Dal (Homestyle),Pulses and Legumes,Indian,1,1 katori (150g),159,8.9,24.8,2.7,5.2,1.0,Lunch,Boiled,Balanced
+1208,Toor Dal (Low Sodium),Pulses and Legumes,Indian,1,1 katori (150g),159,8.6,24.6,2.9,4.9,1.0,Lunch,Boiled,Balanced
+1209,Toor Dal (Extra Portion),Pulses and Legumes,Indian,1,1 katori (150g),203,10.9,31.6,3.7,6.2,1.4,Lunch,Boiled,Balanced
+1210,Toor Dal (Half Portion),Pulses and Legumes,Indian,1,1 katori (150g),93,5.0,14.4,1.7,2.8,0.6,Lunch,Boiled,Balanced
+1211,Toor Dal (With Olive Oil),Pulses and Legumes,Indian,1,1 katori (150g),172,8.8,25.1,4.0,5.2,1.1,Lunch,Boiled,Balanced
+1212,Toor Dal (Steamed),Pulses and Legumes,Indian,1,1 katori (150g),159,9.4,24.6,2.6,5.6,1.0,Lunch,Boiled,Balanced
+1213,Toor Dal (Nutrient Dense),Pulses and Legumes,Indian,1,1 katori (150g),177,10.4,26.7,3.2,6.0,1.1,Lunch,Boiled,Balanced
+1214,Toor Dal (Mild Flavor),Pulses and Legumes,Indian,1,1 katori (150g),162,8.7,25.4,2.8,5.0,1.1,Lunch,Boiled,Balanced
+1215,Toor Dal (Herb Infused),Pulses and Legumes,Indian,1,1 katori (150g),171,9.3,26.5,3.1,5.5,1.1,Lunch,Boiled,Balanced
+1216,Toor Dal (Traditional),Pulses and Legumes,Indian,1,1 katori (150g),172,8.9,26.8,3.2,5.0,1.2,Lunch,Boiled,Balanced
+1217,Chana Dal,Pulses and Legumes,Indian,1,1 katori (150g),175,9.8,26.1,3.5,6.2,1.3,Lunch,Boiled,Diabetes-Friendly
+1218,Chana Dal (Light Spiced),Pulses and Legumes,Indian,1,1 katori (150g),178,9.9,26.3,3.7,6.4,1.3,Lunch,Boiled,Diabetes-Friendly
+1219,Chana Dal (Homestyle),Pulses and Legumes,Indian,1,1 katori (150g),168,9.8,25.0,3.2,6.4,1.2,Lunch,Boiled,Diabetes-Friendly
+1220,Chana Dal (Low Sodium),Pulses and Legumes,Indian,1,1 katori (150g),171,9.7,25.4,3.4,6.1,1.3,Lunch,Boiled,Diabetes-Friendly
+1221,Chana Dal (Extra Portion),Pulses and Legumes,Indian,1,1 katori (150g),224,12.6,33.4,4.5,8.0,1.7,Lunch,Boiled,Diabetes-Friendly
+1222,Chana Dal (Half Portion),Pulses and Legumes,Indian,1,1 katori (150g),96,5.4,14.4,1.9,3.4,0.7,Lunch,Boiled,Diabetes-Friendly
+1223,Chana Dal (With Olive Oil),Pulses and Legumes,Indian,1,1 katori (150g),187,10.0,26.1,4.7,6.5,1.3,Lunch,Boiled,Diabetes-Friendly
+1224,Chana Dal (Steamed),Pulses and Legumes,Indian,1,1 katori (150g),169,10.4,25.1,3.0,6.9,1.2,Lunch,Boiled,Diabetes-Friendly
+1225,Chana Dal (Nutrient Dense),Pulses and Legumes,Indian,1,1 katori (150g),185,11.3,26.6,3.7,7.2,1.3,Lunch,Boiled,Diabetes-Friendly
+1226,Chana Dal (Mild Flavor),Pulses and Legumes,Indian,1,1 katori (150g),173,9.8,26.1,3.3,6.2,1.3,Lunch,Boiled,Diabetes-Friendly
+1227,Chana Dal (Herb Infused),Pulses and Legumes,Indian,1,1 katori (150g),178,10.1,26.3,3.6,6.7,1.3,Lunch,Boiled,Diabetes-Friendly
+1228,Chana Dal (Traditional),Pulses and Legumes,Indian,1,1 katori (150g),181,9.8,27.1,3.7,6.1,1.4,Lunch,Boiled,Diabetes-Friendly
+1229,Chickpeas Curry (Chole),Pulses and Legumes,Indian,1,1 cup (200g),236,11.3,33.3,6.4,7.6,2.4,Lunch,Cooked,Muscle Gain
+1230,Chickpeas Curry (Chole) (Light Spiced),Pulses and Legumes,Indian,1,1 cup (200g),250,11.8,34.9,7.0,8.2,2.6,Lunch,Cooked,Muscle Gain
+1231,Chickpeas Curry (Chole) (Homestyle),Pulses and Legumes,Indian,1,1 cup (200g),228,11.4,32.5,5.8,8.0,2.3,Lunch,Cooked,Muscle Gain
+1232,Chickpeas Curry (Chole) (Low Sodium),Pulses and Legumes,Indian,1,1 cup (200g),233,11.3,33.0,6.2,7.7,2.4,Lunch,Cooked,Muscle Gain
+1233,Chickpeas Curry (Chole) (Extra Portion),Pulses and Legumes,Indian,1,1 cup (200g),303,14.5,42.7,8.2,9.8,3.1,Lunch,Cooked,Muscle Gain
+1234,Chickpeas Curry (Chole) (Half Portion),Pulses and Legumes,Indian,1,1 cup (200g),134,6.4,18.9,3.6,4.3,1.4,Lunch,Cooked,Muscle Gain
+1235,Chickpeas Curry (Chole) (With Olive Oil),Pulses and Legumes,Indian,1,1 cup (200g),257,11.5,33.5,8.6,8.1,2.5,Lunch,Cooked,Muscle Gain
+1236,Chickpeas Curry (Chole) (Steamed),Pulses and Legumes,Indian,1,1 cup (200g),222,11.8,31.6,5.4,8.4,2.2,Lunch,Cooked,Muscle Gain
+1237,Chickpeas Curry (Chole) (Nutrient Dense),Pulses and Legumes,Indian,1,1 cup (200g),266,13.9,36.5,7.2,9.6,2.6,Lunch,Cooked,Muscle Gain
+1238,Chickpeas Curry (Chole) (Mild Flavor),Pulses and Legumes,Indian,1,1 cup (200g),234,11.2,33.5,6.1,7.7,2.4,Lunch,Cooked,Muscle Gain
+1239,Chickpeas Curry (Chole) (Herb Infused),Pulses and Legumes,Indian,1,1 cup (200g),246,11.9,34.5,6.7,8.5,2.5,Lunch,Cooked,Muscle Gain
+1240,Chickpeas Curry (Chole) (Traditional),Pulses and Legumes,Indian,1,1 cup (200g),246,11.4,34.9,6.8,7.6,2.6,Lunch,Cooked,Muscle Gain
+1241,Rajma (Kidney Beans),Pulses and Legumes,Indian,1,1 cup (200g),228,11.9,32.8,5.5,8.5,2.1,Lunch,Cooked,Muscle Gain
+1242,Rajma (Kidney Beans) (Light Spiced),Pulses and Legumes,Indian,1,1 cup (200g),233,12.1,33.2,5.8,8.7,2.1,Lunch,Cooked,Muscle Gain
+1243,Rajma (Kidney Beans) (Homestyle),Pulses and Legumes,Indian,1,1 cup (200g),225,12.3,32.4,5.1,8.9,2.0,Lunch,Cooked,Muscle Gain
+1244,Rajma (Kidney Beans) (Low Sodium),Pulses and Legumes,Indian,1,1 cup (200g),233,12.3,33.5,5.5,8.7,2.1,Lunch,Cooked,Muscle Gain
+1245,Rajma (Kidney Beans) (Extra Portion),Pulses and Legumes,Indian,1,1 cup (200g),282,14.7,40.5,6.8,10.4,2.6,Lunch,Cooked,Muscle Gain
+1246,Rajma (Kidney Beans) (Half Portion),Pulses and Legumes,Indian,1,1 cup (200g),128,6.7,18.4,3.1,4.7,1.2,Lunch,Cooked,Muscle Gain
+1247,Rajma (Kidney Beans) (With Olive Oil),Pulses and Legumes,Indian,1,1 cup (200g),244,12.0,32.5,7.3,8.8,2.1,Lunch,Cooked,Muscle Gain
+1248,Rajma (Kidney Beans) (Steamed),Pulses and Legumes,Indian,1,1 cup (200g),216,12.5,31.2,4.6,9.3,1.9,Lunch,Cooked,Muscle Gain
+1249,Rajma (Kidney Beans) (Nutrient Dense),Pulses and Legumes,Indian,1,1 cup (200g),251,14.3,35.0,6.0,10.3,2.2,Lunch,Cooked,Muscle Gain
+1250,Rajma (Kidney Beans) (Mild Flavor),Pulses and Legumes,Indian,1,1 cup (200g),224,11.7,32.6,5.2,8.4,2.0,Lunch,Cooked,Muscle Gain
+1251,Rajma (Kidney Beans) (Herb Infused),Pulses and Legumes,Indian,1,1 cup (200g),230,12.2,33.0,5.5,9.1,2.1,Lunch,Cooked,Muscle Gain
+1252,Rajma (Kidney Beans) (Traditional),Pulses and Legumes,Indian,1,1 cup (200g),237,11.9,34.2,5.8,8.4,2.2,Lunch,Cooked,Muscle Gain
+1253,Black Eyed Peas (Lobia),Pulses and Legumes,Indian,1,1 cup (180g),188,10.7,30.2,2.7,7.0,1.9,Dinner,Boiled,Balanced
+1254,Black Eyed Peas (Lobia) (Light Spiced),Pulses and Legumes,Indian,1,1 cup (180g),194,11.0,30.9,2.9,7.3,2.0,Dinner,Boiled,Balanced
+1255,Black Eyed Peas (Lobia) (Homestyle),Pulses and Legumes,Indian,1,1 cup (180g),196,11.6,31.3,2.7,7.8,2.0,Dinner,Boiled,Balanced
+1256,Black Eyed Peas (Lobia) (Low Sodium),Pulses and Legumes,Indian,1,1 cup (180g),197,11.3,31.6,2.8,7.4,2.0,Dinner,Boiled,Balanced
+1257,Black Eyed Peas (Lobia) (Extra Portion),Pulses and Legumes,Indian,1,1 cup (180g),235,13.4,37.8,3.4,8.8,2.4,Dinner,Boiled,Balanced
+1258,Black Eyed Peas (Lobia) (Half Portion),Pulses and Legumes,Indian,1,1 cup (180g),104,5.9,16.8,1.5,3.9,1.1,Dinner,Boiled,Balanced
+1259,Black Eyed Peas (Lobia) (With Olive Oil),Pulses and Legumes,Indian,1,1 cup (180g),200,11.1,30.6,3.7,7.5,2.0,Dinner,Boiled,Balanced
+1260,Black Eyed Peas (Lobia) (Steamed),Pulses and Legumes,Indian,1,1 cup (180g),190,11.9,30.2,2.4,8.1,1.9,Dinner,Boiled,Balanced
+1261,Black Eyed Peas (Lobia) (Nutrient Dense),Pulses and Legumes,Indian,1,1 cup (180g),214,13.3,33.3,3.1,8.8,2.1,Dinner,Boiled,Balanced
+1262,Black Eyed Peas (Lobia) (Mild Flavor),Pulses and Legumes,Indian,1,1 cup (180g),196,11.1,31.7,2.7,7.4,2.0,Dinner,Boiled,Balanced
+1263,Black Eyed Peas (Lobia) (Herb Infused),Pulses and Legumes,Indian,1,1 cup (180g),194,11.2,31.1,2.8,7.7,2.0,Dinner,Boiled,Balanced
+1264,Black Eyed Peas (Lobia) (Traditional),Pulses and Legumes,Indian,1,1 cup (180g),192,10.6,31.0,2.9,6.8,2.0,Dinner,Boiled,Balanced
+1265,Sprouted Moong Salad,Pulses and Legumes,Indian,1,1 bowl (150g),123,9.7,18.4,1.2,6.6,2.9,Snack,Raw,Weight Loss
+1266,Sprouted Moong Salad (Light Spiced),Pulses and Legumes,Indian,1,1 bowl (150g),123,9.6,18.2,1.3,6.7,2.8,Snack,Raw,Weight Loss
+1267,Sprouted Moong Salad (Homestyle),Pulses and Legumes,Indian,1,1 bowl (150g),120,9.8,17.8,1.1,6.9,2.7,Snack,Raw,Weight Loss
+1268,Sprouted Moong Salad (Low Sodium),Pulses and Legumes,Indian,1,1 bowl (150g),123,9.8,18.3,1.2,6.7,2.8,Snack,Raw,Weight Loss
+1269,Sprouted Moong Salad (Extra Portion),Pulses and Legumes,Indian,1,1 bowl (150g),152,12.0,22.7,1.5,8.2,3.5,Snack,Raw,Weight Loss
+1270,Sprouted Moong Salad (Half Portion),Pulses and Legumes,Indian,1,1 bowl (150g),64,5.1,9.6,0.6,3.5,1.5,Snack,Raw,Weight Loss
+1271,Sprouted Moong Salad (With Olive Oil),Pulses and Legumes,Indian,1,1 bowl (150g),128,9.9,18.3,1.7,7.0,2.9,Snack,Raw,Weight Loss
+1272,Sprouted Moong Salad (Steamed),Pulses and Legumes,Indian,1,1 bowl (150g),116,9.9,16.9,1.0,7.1,2.5,Snack,Raw,Weight Loss
+1273,Sprouted Moong Salad (Nutrient Dense),Pulses and Legumes,Indian,1,1 bowl (150g),133,11.3,19.1,1.3,7.9,2.9,Snack,Raw,Weight Loss
+1274,Sprouted Moong Salad (Mild Flavor),Pulses and Legumes,Indian,1,1 bowl (150g),124,9.7,18.5,1.2,6.7,2.8,Snack,Raw,Weight Loss
+1275,Sprouted Moong Salad (Herb Infused),Pulses and Legumes,Indian,1,1 bowl (150g),120,9.6,17.8,1.2,6.9,2.8,Snack,Raw,Weight Loss
+1276,Sprouted Moong Salad (Traditional),Pulses and Legumes,Indian,1,1 bowl (150g),119,9.1,17.9,1.2,6.2,2.8,Snack,Raw,Weight Loss
+1277,Boiled Green Edamame,Pulses and Legumes,Asian,1,1 cup (155g),197,18.0,13.5,7.9,7.8,3.3,Snack,Boiled,Muscle Gain
+1278,Boiled Green Edamame (Light Spiced),Pulses and Legumes,Asian,1,1 cup (155g),206,18.5,13.8,8.5,8.2,3.4,Snack,Boiled,Muscle Gain
+1279,Boiled Green Edamame (Homestyle),Pulses and Legumes,Asian,1,1 cup (155g),194,18.5,13.3,7.4,8.3,3.2,Snack,Boiled,Muscle Gain
+1280,Boiled Green Edamame (Low Sodium),Pulses and Legumes,Asian,1,1 cup (155g),201,18.5,13.7,8.0,8.1,3.4,Snack,Boiled,Muscle Gain
+1281,Boiled Green Edamame (Extra Portion),Pulses and Legumes,Asian,1,1 cup (155g),256,23.3,17.5,10.3,10.1,4.3,Snack,Boiled,Muscle Gain
+1282,Boiled Green Edamame (Half Portion),Pulses and Legumes,Asian,1,1 cup (155g),109,9.9,7.5,4.4,4.3,1.8,Snack,Boiled,Muscle Gain
+1283,Boiled Green Edamame (With Olive Oil),Pulses and Legumes,Asian,1,1 cup (155g),230,18.9,13.9,11.0,8.5,3.4,Snack,Boiled,Muscle Gain
+1284,Boiled Green Edamame (Steamed),Pulses and Legumes,Asian,1,1 cup (155g),189,19.0,12.9,6.8,8.7,3.1,Snack,Boiled,Muscle Gain
+1285,Boiled Green Edamame (Nutrient Dense),Pulses and Legumes,Asian,1,1 cup (155g),223,21.7,14.5,8.7,9.6,3.5,Snack,Boiled,Muscle Gain
+1286,Boiled Green Edamame (Mild Flavor),Pulses and Legumes,Asian,1,1 cup (155g),202,18.7,14.1,7.9,8.2,3.4,Snack,Boiled,Muscle Gain
+1287,Boiled Green Edamame (Herb Infused),Pulses and Legumes,Asian,1,1 cup (155g),210,19.3,14.2,8.4,8.8,3.5,Snack,Boiled,Muscle Gain
+1288,Boiled Green Edamame (Traditional),Pulses and Legumes,Asian,1,1 cup (155g),199,17.6,13.7,8.2,7.6,3.4,Snack,Boiled,Muscle Gain
+1289,Black Dal Makhani Light,Pulses and Legumes,Indian,1,1 cup (200g),248,10.5,27.9,10.5,6.5,1.8,Dinner,Cooked,Energy Booster
+1290,Black Dal Makhani Light (Light Spiced),Pulses and Legumes,Indian,1,1 cup (200g),250,10.4,27.6,10.9,6.5,1.8,Dinner,Cooked,Energy Booster
+1291,Black Dal Makhani Light (Homestyle),Pulses and Legumes,Indian,1,1 cup (200g),233,10.4,26.6,9.4,6.6,1.7,Dinner,Cooked,Energy Booster
+1292,Black Dal Makhani Light (Low Sodium),Pulses and Legumes,Indian,1,1 cup (200g),250,10.7,28.2,10.5,6.6,1.8,Dinner,Cooked,Energy Booster
+1293,Black Dal Makhani Light (Extra Portion),Pulses and Legumes,Indian,1,1 cup (200g),313,13.2,35.3,13.2,8.2,2.3,Dinner,Cooked,Energy Booster
+1294,Black Dal Makhani Light (Half Portion),Pulses and Legumes,Indian,1,1 cup (200g),135,5.7,15.2,5.7,3.5,1.0,Dinner,Cooked,Energy Booster
+1295,Black Dal Makhani Light (With Olive Oil),Pulses and Legumes,Indian,1,1 cup (200g),287,10.9,28.4,14.4,6.9,1.8,Dinner,Cooked,Energy Booster
+1296,Black Dal Makhani Light (Steamed),Pulses and Legumes,Indian,1,1 cup (200g),232,11.1,26.7,9.0,7.2,1.7,Dinner,Cooked,Energy Booster
+1297,Black Dal Makhani Light (Nutrient Dense),Pulses and Legumes,Indian,1,1 cup (200g),268,12.3,29.3,11.3,7.8,1.8,Dinner,Cooked,Energy Booster
+1298,Black Dal Makhani Light (Mild Flavor),Pulses and Legumes,Indian,1,1 cup (200g),236,10.1,27.2,9.7,6.3,1.7,Dinner,Cooked,Energy Booster
+1299,Black Dal Makhani Light (Herb Infused),Pulses and Legumes,Indian,1,1 cup (200g),246,10.5,27.6,10.4,6.8,1.8,Dinner,Cooked,Energy Booster
+1300,Black Dal Makhani Light (Traditional),Pulses and Legumes,Indian,1,1 cup (200g),260,10.5,29.2,11.2,6.4,1.9,Dinner,Cooked,Energy Booster
+1301,Steamed Broccoli,Vegetables,Global,1,1 cup (150g),67,3.8,11.5,0.6,5.2,2.3,Dinner,Steamed,Weight Loss
+1302,Steamed Broccoli (Light Spiced),Vegetables,Global,1,1 cup (150g),65,3.7,11.2,0.6,5.2,2.2,Dinner,Steamed,Weight Loss
+1303,Steamed Broccoli (Homestyle),Vegetables,Global,1,1 cup (150g),65,3.8,11.2,0.6,5.5,2.1,Dinner,Steamed,Weight Loss
+1304,Steamed Broccoli (Low Sodium),Vegetables,Global,1,1 cup (150g),65,3.7,11.1,0.6,5.1,2.2,Dinner,Steamed,Weight Loss
+1305,Steamed Broccoli (Extra Portion),Vegetables,Global,1,1 cup (150g),79,4.5,13.7,0.7,6.2,2.7,Dinner,Steamed,Weight Loss
+1306,Steamed Broccoli (Half Portion),Vegetables,Global,1,1 cup (150g),35,2.0,6.0,0.3,2.7,1.2,Dinner,Steamed,Weight Loss
+1307,Steamed Broccoli (With Olive Oil),Vegetables,Global,1,1 cup (150g),66,3.7,11.1,0.8,5.3,2.2,Dinner,Steamed,Weight Loss
+1308,Steamed Broccoli (Steamed),Vegetables,Global,1,1 cup (150g),64,4.0,10.9,0.5,5.7,2.1,Dinner,Steamed,Weight Loss
+1309,Steamed Broccoli (Nutrient Dense),Vegetables,Global,1,1 cup (150g),72,4.4,12.0,0.7,6.2,2.3,Dinner,Steamed,Weight Loss
+1310,Steamed Broccoli (Mild Flavor),Vegetables,Global,1,1 cup (150g),66,3.7,11.4,0.6,5.2,2.2,Dinner,Steamed,Weight Loss
+1311,Steamed Broccoli (Herb Infused),Vegetables,Global,1,1 cup (150g),67,3.9,11.6,0.6,5.6,2.3,Dinner,Steamed,Weight Loss
+1312,Steamed Broccoli (Traditional),Vegetables,Global,1,1 cup (150g),65,3.6,11.2,0.6,4.9,2.2,Dinner,Steamed,Weight Loss
+1313,Sauteed Spinach (Palak),Vegetables,Indian,1,1 cup (180g),66,4.1,6.9,2.5,4.2,0.8,Dinner,Cooked,Weight Loss
+1314,Sauteed Spinach (Palak) (Light Spiced),Vegetables,Indian,1,1 cup (180g),67,4.1,6.8,2.6,4.3,0.8,Dinner,Cooked,Weight Loss
+1315,Sauteed Spinach (Palak) (Homestyle),Vegetables,Indian,1,1 cup (180g),66,4.4,7.0,2.3,4.6,0.8,Dinner,Cooked,Weight Loss
+1316,Sauteed Spinach (Palak) (Low Sodium),Vegetables,Indian,1,1 cup (180g),68,4.3,7.1,2.5,4.4,0.8,Dinner,Cooked,Weight Loss
+1317,Sauteed Spinach (Palak) (Extra Portion),Vegetables,Indian,1,1 cup (180g),84,5.2,8.7,3.1,5.3,1.0,Dinner,Cooked,Weight Loss
+1318,Sauteed Spinach (Palak) (Half Portion),Vegetables,Indian,1,1 cup (180g),37,2.3,3.9,1.4,2.4,0.4,Dinner,Cooked,Weight Loss
+1319,Sauteed Spinach (Palak) (With Olive Oil),Vegetables,Indian,1,1 cup (180g),74,4.2,6.9,3.3,4.4,0.8,Dinner,Cooked,Weight Loss
+1320,Sauteed Spinach (Palak) (Steamed),Vegetables,Indian,1,1 cup (180g),65,4.5,6.8,2.2,4.9,0.8,Dinner,Cooked,Weight Loss
+1321,Sauteed Spinach (Palak) (Nutrient Dense),Vegetables,Indian,1,1 cup (180g),76,5.1,7.5,2.8,5.3,0.8,Dinner,Cooked,Weight Loss
+1322,Sauteed Spinach (Palak) (Mild Flavor),Vegetables,Indian,1,1 cup (180g),68,4.3,7.2,2.4,4.4,0.8,Dinner,Cooked,Weight Loss
+1323,Sauteed Spinach (Palak) (Herb Infused),Vegetables,Indian,1,1 cup (180g),70,4.4,7.2,2.6,4.7,0.8,Dinner,Cooked,Weight Loss
+1324,Sauteed Spinach (Palak) (Traditional),Vegetables,Indian,1,1 cup (180g),70,4.2,7.3,2.7,4.3,0.8,Dinner,Cooked,Weight Loss
+1325,Mixed Vegetable Sabzi,Vegetables,Indian,1,1 bowl (180g),120,3.4,15.5,4.9,4.7,3.4,Lunch,Cooked,Balanced
+1326,Mixed Vegetable Sabzi (Light Spiced),Vegetables,Indian,1,1 bowl (180g),126,3.5,16.2,5.3,5.0,3.5,Lunch,Cooked,Balanced
+1327,Mixed Vegetable Sabzi (Homestyle),Vegetables,Indian,1,1 bowl (180g),117,3.5,15.5,4.6,5.0,3.3,Lunch,Cooked,Balanced
+1328,Mixed Vegetable Sabzi (Low Sodium),Vegetables,Indian,1,1 bowl (180g),124,3.6,16.2,5.0,4.9,3.5,Lunch,Cooked,Balanced
+1329,Mixed Vegetable Sabzi (Extra Portion),Vegetables,Indian,1,1 bowl (180g),157,4.5,20.4,6.4,6.1,4.5,Lunch,Cooked,Balanced
+1330,Mixed Vegetable Sabzi (Half Portion),Vegetables,Indian,1,1 bowl (180g),69,2.0,9.0,2.8,2.7,2.0,Lunch,Cooked,Balanced
+1331,Mixed Vegetable Sabzi (With Olive Oil),Vegetables,Indian,1,1 bowl (180g),142,3.6,16.3,6.9,5.1,3.6,Lunch,Cooked,Balanced
+1332,Mixed Vegetable Sabzi (Steamed),Vegetables,Indian,1,1 bowl (180g),112,3.6,15.0,4.2,5.2,3.2,Lunch,Cooked,Balanced
+1333,Mixed Vegetable Sabzi (Nutrient Dense),Vegetables,Indian,1,1 bowl (180g),135,4.2,17.1,5.5,5.9,3.6,Lunch,Cooked,Balanced
+1334,Mixed Vegetable Sabzi (Mild Flavor),Vegetables,Indian,1,1 bowl (180g),117,3.4,15.6,4.6,4.7,3.3,Lunch,Cooked,Balanced
+1335,Mixed Vegetable Sabzi (Herb Infused),Vegetables,Indian,1,1 bowl (180g),128,3.7,16.5,5.2,5.3,3.6,Lunch,Cooked,Balanced
+1336,Mixed Vegetable Sabzi (Traditional),Vegetables,Indian,1,1 bowl (180g),128,3.5,16.7,5.3,4.8,3.7,Lunch,Cooked,Balanced
+1337,Cauliflower Sabzi,Vegetables,Indian,1,1 cup (150g),86,3.0,10.3,3.7,3.4,2.5,Lunch,Cooked,Weight Loss
+1338,Cauliflower Sabzi (Light Spiced),Vegetables,Indian,1,1 cup (150g),92,3.1,10.7,4.1,3.6,2.5,Lunch,Cooked,Weight Loss
+1339,Cauliflower Sabzi (Homestyle),Vegetables,Indian,1,1 cup (150g),85,3.1,10.3,3.5,3.7,2.4,Lunch,Cooked,Weight Loss
+1340,Cauliflower Sabzi (Low Sodium),Vegetables,Indian,1,1 cup (150g),86,3.0,10.3,3.7,3.5,2.4,Lunch,Cooked,Weight Loss
+1341,Cauliflower Sabzi (Extra Portion),Vegetables,Indian,1,1 cup (150g),112,3.8,13.4,4.8,4.5,3.2,Lunch,Cooked,Weight Loss
+1342,Cauliflower Sabzi (Half Portion),Vegetables,Indian,1,1 cup (150g),48,1.6,5.7,2.1,1.9,1.4,Lunch,Cooked,Weight Loss
+1343,Cauliflower Sabzi (With Olive Oil),Vegetables,Indian,1,1 cup (150g),98,3.0,10.2,5.0,3.6,2.4,Lunch,Cooked,Weight Loss
+1344,Cauliflower Sabzi (Steamed),Vegetables,Indian,1,1 cup (150g),80,3.1,9.8,3.2,3.8,2.3,Lunch,Cooked,Weight Loss
+1345,Cauliflower Sabzi (Nutrient Dense),Vegetables,Indian,1,1 cup (150g),94,3.5,10.9,4.1,4.2,2.5,Lunch,Cooked,Weight Loss
+1346,Cauliflower Sabzi (Mild Flavor),Vegetables,Indian,1,1 cup (150g),88,3.0,10.7,3.7,3.6,2.5,Lunch,Cooked,Weight Loss
+1347,Cauliflower Sabzi (Herb Infused),Vegetables,Indian,1,1 cup (150g),92,3.2,10.9,4.0,3.9,2.6,Lunch,Cooked,Weight Loss
+1348,Cauliflower Sabzi (Traditional),Vegetables,Indian,1,1 cup (150g),89,2.9,10.6,3.9,3.4,2.5,Lunch,Cooked,Weight Loss
+1349,Fresh Cucumber Salad,Vegetables,Global,1,1 bowl (150g),26,1.0,5.0,0.2,1.5,2.2,Snack,Raw,Weight Loss
+1350,Fresh Cucumber Salad (Light Spiced),Vegetables,Global,1,1 bowl (150g),26,1.0,5.0,0.2,1.5,2.2,Snack,Raw,Weight Loss
+1351,Fresh Cucumber Salad (Homestyle),Vegetables,Global,1,1 bowl (150g),26,1.0,5.0,0.2,1.6,2.2,Snack,Raw,Weight Loss
+1352,Fresh Cucumber Salad (Low Sodium),Vegetables,Global,1,1 bowl (150g),26,1.0,5.0,0.2,1.5,2.2,Snack,Raw,Weight Loss
+1353,Fresh Cucumber Salad (Extra Portion),Vegetables,Global,1,1 bowl (150g),34,1.3,6.4,0.3,1.9,2.8,Snack,Raw,Weight Loss
+1354,Fresh Cucumber Salad (Half Portion),Vegetables,Global,1,1 bowl (150g),14,0.5,2.7,0.1,0.8,1.2,Snack,Raw,Weight Loss
+1355,Fresh Cucumber Salad (With Olive Oil),Vegetables,Global,1,1 bowl (150g),27,1.0,5.1,0.3,1.6,2.3,Snack,Raw,Weight Loss
+1356,Fresh Cucumber Salad (Steamed),Vegetables,Global,1,1 bowl (150g),25,1.0,4.7,0.2,1.6,2.0,Snack,Raw,Weight Loss
+1357,Fresh Cucumber Salad (Nutrient Dense),Vegetables,Global,1,1 bowl (150g),28,1.2,5.4,0.2,1.8,2.3,Snack,Raw,Weight Loss
+1358,Fresh Cucumber Salad (Mild Flavor),Vegetables,Global,1,1 bowl (150g),25,1.0,4.9,0.2,1.5,2.1,Snack,Raw,Weight Loss
+1359,Fresh Cucumber Salad (Herb Infused),Vegetables,Global,1,1 bowl (150g),25,1.0,4.9,0.2,1.6,2.2,Snack,Raw,Weight Loss
+1360,Fresh Cucumber Salad (Traditional),Vegetables,Global,1,1 bowl (150g),26,1.0,5.1,0.2,1.4,2.3,Snack,Raw,Weight Loss
+1361,Carrot and Beetroot Salad,Vegetables,Indian,1,1 bowl (150g),68,1.8,14.2,0.4,4.3,8.1,Lunch,Raw,Balanced
+1362,Carrot and Beetroot Salad (Light Spiced),Vegetables,Indian,1,1 bowl (150g),66,1.8,13.8,0.4,4.2,7.9,Lunch,Raw,Balanced
+1363,Carrot and Beetroot Salad (Homestyle),Vegetables,Indian,1,1 bowl (150g),66,1.8,13.8,0.4,4.4,7.6,Lunch,Raw,Balanced
+1364,Carrot and Beetroot Salad (Low Sodium),Vegetables,Indian,1,1 bowl (150g),66,1.8,13.9,0.4,4.2,7.8,Lunch,Raw,Balanced
+1365,Carrot and Beetroot Salad (Extra Portion),Vegetables,Indian,1,1 bowl (150g),83,2.2,17.4,0.5,5.2,9.9,Lunch,Raw,Balanced
+1366,Carrot and Beetroot Salad (Half Portion),Vegetables,Indian,1,1 bowl (150g),37,1.0,7.7,0.2,2.3,4.4,Lunch,Raw,Balanced
+1367,Carrot and Beetroot Salad (With Olive Oil),Vegetables,Indian,1,1 bowl (150g),67,1.8,13.8,0.5,4.3,7.9,Lunch,Raw,Balanced
+1368,Carrot and Beetroot Salad (Steamed),Vegetables,Indian,1,1 bowl (150g),64,1.9,13.5,0.3,4.7,7.5,Lunch,Raw,Balanced
+1369,Carrot and Beetroot Salad (Nutrient Dense),Vegetables,Indian,1,1 bowl (150g),69,2.1,14.3,0.4,4.9,7.9,Lunch,Raw,Balanced
+1370,Carrot and Beetroot Salad (Mild Flavor),Vegetables,Indian,1,1 bowl (150g),68,1.8,14.4,0.4,4.3,8.0,Lunch,Raw,Balanced
+1371,Carrot and Beetroot Salad (Herb Infused),Vegetables,Indian,1,1 bowl (150g),68,1.9,14.2,0.4,4.5,8.1,Lunch,Raw,Balanced
+1372,Carrot and Beetroot Salad (Traditional),Vegetables,Indian,1,1 bowl (150g),69,1.8,14.5,0.4,4.1,8.3,Lunch,Raw,Balanced
+1373,Bhindi Masala (Okra),Vegetables,Indian,1,1 cup (150g),110,2.8,12.2,5.6,4.1,2.2,Dinner,Cooked,Diabetes-Friendly
+1374,Bhindi Masala (Okra) (Light Spiced),Vegetables,Indian,1,1 cup (150g),112,2.8,12.1,5.8,4.1,2.2,Dinner,Cooked,Diabetes-Friendly
+1375,Bhindi Masala (Okra) (Homestyle),Vegetables,Indian,1,1 cup (150g),103,2.8,11.7,5.0,4.2,2.1,Dinner,Cooked,Diabetes-Friendly
+1376,Bhindi Masala (Okra) (Low Sodium),Vegetables,Indian,1,1 cup (150g),105,2.7,11.6,5.3,3.9,2.1,Dinner,Cooked,Diabetes-Friendly
+1377,Bhindi Masala (Okra) (Extra Portion),Vegetables,Indian,1,1 cup (150g),136,3.5,15.1,6.9,5.0,2.8,Dinner,Cooked,Diabetes-Friendly
+1378,Bhindi Masala (Okra) (Half Portion),Vegetables,Indian,1,1 cup (150g),59,1.5,6.5,3.0,2.2,1.2,Dinner,Cooked,Diabetes-Friendly
+1379,Bhindi Masala (Okra) (With Olive Oil),Vegetables,Indian,1,1 cup (150g),124,2.8,11.9,7.3,4.2,2.2,Dinner,Cooked,Diabetes-Friendly
+1380,Bhindi Masala (Okra) (Steamed),Vegetables,Indian,1,1 cup (150g),102,3.0,11.6,4.8,4.5,2.1,Dinner,Cooked,Diabetes-Friendly
+1381,Bhindi Masala (Okra) (Nutrient Dense),Vegetables,Indian,1,1 cup (150g),118,3.3,12.8,6.0,4.9,2.3,Dinner,Cooked,Diabetes-Friendly
+1382,Bhindi Masala (Okra) (Mild Flavor),Vegetables,Indian,1,1 cup (150g),105,2.7,11.9,5.2,4.0,2.1,Dinner,Cooked,Diabetes-Friendly
+1383,Bhindi Masala (Okra) (Herb Infused),Vegetables,Indian,1,1 cup (150g),109,2.9,12.0,5.5,4.3,2.2,Dinner,Cooked,Diabetes-Friendly
+1384,Bhindi Masala (Okra) (Traditional),Vegetables,Indian,1,1 cup (150g),111,2.7,12.2,5.7,3.9,2.3,Dinner,Cooked,Diabetes-Friendly
+1385,Roasted Bell Peppers,Vegetables,Mediterranean,1,1 plate (180g),77,2.5,11.9,2.2,3.8,4.5,Dinner,Roasted,Weight Loss
+1386,Roasted Bell Peppers (Light Spiced),Vegetables,Mediterranean,1,1 plate (180g),78,2.5,11.9,2.3,3.8,4.4,Dinner,Roasted,Weight Loss
+1387,Roasted Bell Peppers (Homestyle),Vegetables,Mediterranean,1,1 plate (180g),74,2.5,11.5,2.0,3.9,4.2,Dinner,Roasted,Weight Loss
+1388,Roasted Bell Peppers (Low Sodium),Vegetables,Mediterranean,1,1 plate (180g),76,2.5,11.8,2.1,3.8,4.4,Dinner,Roasted,Weight Loss
+1389,Roasted Bell Peppers (Extra Portion),Vegetables,Mediterranean,1,1 plate (180g),100,3.2,15.4,2.8,4.9,5.8,Dinner,Roasted,Weight Loss
+1390,Roasted Bell Peppers (Half Portion),Vegetables,Mediterranean,1,1 plate (180g),43,1.4,6.7,1.2,2.1,2.5,Dinner,Roasted,Weight Loss
+1391,Roasted Bell Peppers (With Olive Oil),Vegetables,Mediterranean,1,1 plate (180g),87,2.6,12.3,3.0,4.1,4.6,Dinner,Roasted,Weight Loss
+1392,Roasted Bell Peppers (Steamed),Vegetables,Mediterranean,1,1 plate (180g),74,2.6,11.5,1.9,4.2,4.2,Dinner,Roasted,Weight Loss
+1393,Roasted Bell Peppers (Nutrient Dense),Vegetables,Mediterranean,1,1 plate (180g),82,2.9,12.4,2.3,4.5,4.5,Dinner,Roasted,Weight Loss
+1394,Roasted Bell Peppers (Mild Flavor),Vegetables,Mediterranean,1,1 plate (180g),77,2.5,12.0,2.1,3.8,4.4,Dinner,Roasted,Weight Loss
+1395,Roasted Bell Peppers (Herb Infused),Vegetables,Mediterranean,1,1 plate (180g),77,2.5,11.8,2.2,4.0,4.4,Dinner,Roasted,Weight Loss
+1396,Roasted Bell Peppers (Traditional),Vegetables,Mediterranean,1,1 plate (180g),79,2.4,12.1,2.3,3.6,4.6,Dinner,Roasted,Weight Loss
+1397,Grilled Button Mushrooms,Vegetables,Global,1,1 cup (120g),42,3.8,4.5,1.0,2.1,1.8,Dinner,Grilled,Weight Loss
+1398,Grilled Button Mushrooms (Light Spiced),Vegetables,Global,1,1 cup (120g),43,3.8,4.5,1.1,2.2,1.8,Dinner,Grilled,Weight Loss
+1399,Grilled Button Mushrooms (Homestyle),Vegetables,Global,1,1 cup (120g),42,3.9,4.5,0.9,2.2,1.7,Dinner,Grilled,Weight Loss
+1400,Grilled Button Mushrooms (Low Sodium),Vegetables,Global,1,1 cup (120g),42,3.8,4.4,1.0,2.1,1.8,Dinner,Grilled,Weight Loss
+1401,Grilled Button Mushrooms (Extra Portion),Vegetables,Global,1,1 cup (120g),52,4.7,5.6,1.2,2.6,2.2,Dinner,Grilled,Weight Loss
+1402,Grilled Button Mushrooms (Half Portion),Vegetables,Global,1,1 cup (120g),22,2.1,2.4,0.5,1.1,1.0,Dinner,Grilled,Weight Loss
+1403,Grilled Button Mushrooms (With Olive Oil),Vegetables,Global,1,1 cup (120g),45,3.9,4.5,1.3,2.2,1.8,Dinner,Grilled,Weight Loss
+1404,Grilled Button Mushrooms (Steamed),Vegetables,Global,1,1 cup (120g),42,4.1,4.4,0.9,2.4,1.7,Dinner,Grilled,Weight Loss
+1405,Grilled Button Mushrooms (Nutrient Dense),Vegetables,Global,1,1 cup (120g),47,4.6,4.8,1.1,2.6,1.9,Dinner,Grilled,Weight Loss
+1406,Grilled Button Mushrooms (Mild Flavor),Vegetables,Global,1,1 cup (120g),41,3.7,4.4,0.9,2.1,1.7,Dinner,Grilled,Weight Loss
+1407,Grilled Button Mushrooms (Herb Infused),Vegetables,Global,1,1 cup (120g),42,3.8,4.4,1.0,2.2,1.8,Dinner,Grilled,Weight Loss
+1408,Grilled Button Mushrooms (Traditional),Vegetables,Global,1,1 cup (120g),42,3.7,4.6,1.0,2.0,1.9,Dinner,Grilled,Weight Loss
+1409,Boiled Sweet Potato,Vegetables,Global,1,1 medium (130g),114,2.0,26.2,0.1,3.9,5.4,Snack,Boiled,Energy Booster
+1410,Boiled Sweet Potato (Light Spiced),Vegetables,Global,1,1 medium (130g),112,2.0,25.7,0.1,3.9,5.3,Snack,Boiled,Energy Booster
+1411,Boiled Sweet Potato (Homestyle),Vegetables,Global,1,1 medium (130g),113,2.1,26.0,0.1,4.2,5.2,Snack,Boiled,Energy Booster
+1412,Boiled Sweet Potato (Low Sodium),Vegetables,Global,1,1 medium (130g),113,2.0,26.1,0.1,4.0,5.4,Snack,Boiled,Energy Booster
+1413,Boiled Sweet Potato (Extra Portion),Vegetables,Global,1,1 medium (130g),142,2.5,32.8,0.1,4.9,6.8,Snack,Boiled,Energy Booster
+1414,Boiled Sweet Potato (Half Portion),Vegetables,Global,1,1 medium (130g),62,1.1,14.1,0.1,2.1,2.9,Snack,Boiled,Energy Booster
+1415,Boiled Sweet Potato (With Olive Oil),Vegetables,Global,1,1 medium (130g),111,2.0,25.5,0.1,4.0,5.3,Snack,Boiled,Energy Booster
+1416,Boiled Sweet Potato (Steamed),Vegetables,Global,1,1 medium (130g),105,2.0,24.0,0.1,4.2,4.8,Snack,Boiled,Energy Booster
+1417,Boiled Sweet Potato (Nutrient Dense),Vegetables,Global,1,1 medium (130g),118,2.3,26.9,0.1,4.6,5.4,Snack,Boiled,Energy Booster
+1418,Boiled Sweet Potato (Mild Flavor),Vegetables,Global,1,1 medium (130g),113,2.0,26.0,0.1,3.9,5.3,Snack,Boiled,Energy Booster
+1419,Boiled Sweet Potato (Herb Infused),Vegetables,Global,1,1 medium (130g),117,2.1,26.8,0.1,4.3,5.6,Snack,Boiled,Energy Booster
+1420,Boiled Sweet Potato (Traditional),Vegetables,Global,1,1 medium (130g),112,1.9,25.8,0.1,3.7,5.4,Snack,Boiled,Energy Booster
+1421,Karela Sabzi (Bitter Gourd),Vegetables,Indian,1,1 katori (120g),81,2.2,9.0,4.0,3.5,1.5,Lunch,Cooked,Diabetes-Friendly
+1422,Karela Sabzi (Bitter Gourd) (Light Spiced),Vegetables,Indian,1,1 katori (120g),83,2.2,9.1,4.2,3.6,1.5,Lunch,Cooked,Diabetes-Friendly
+1423,Karela Sabzi (Bitter Gourd) (Homestyle),Vegetables,Indian,1,1 katori (120g),76,2.2,8.7,3.6,3.6,1.4,Lunch,Cooked,Diabetes-Friendly
+1424,Karela Sabzi (Bitter Gourd) (Low Sodium),Vegetables,Indian,1,1 katori (120g),81,2.2,9.0,4.0,3.5,1.5,Lunch,Cooked,Diabetes-Friendly
+1425,Karela Sabzi (Bitter Gourd) (Extra Portion),Vegetables,Indian,1,1 katori (120g),101,2.7,11.2,5.0,4.4,1.9,Lunch,Cooked,Diabetes-Friendly
+1426,Karela Sabzi (Bitter Gourd) (Half Portion),Vegetables,Indian,1,1 katori (120g),44,1.2,4.9,2.2,1.9,0.8,Lunch,Cooked,Diabetes-Friendly
+1427,Karela Sabzi (Bitter Gourd) (With Olive Oil),Vegetables,Indian,1,1 katori (120g),95,2.3,9.1,5.5,3.7,1.5,Lunch,Cooked,Diabetes-Friendly
+1428,Karela Sabzi (Bitter Gourd) (Steamed),Vegetables,Indian,1,1 katori (120g),72,2.2,8.3,3.3,3.7,1.3,Lunch,Cooked,Diabetes-Friendly
+1429,Karela Sabzi (Bitter Gourd) (Nutrient Dense),Vegetables,Indian,1,1 katori (120g),88,2.6,9.6,4.4,4.3,1.6,Lunch,Cooked,Diabetes-Friendly
+1430,Karela Sabzi (Bitter Gourd) (Mild Flavor),Vegetables,Indian,1,1 katori (120g),80,2.2,9.1,3.9,3.6,1.5,Lunch,Cooked,Diabetes-Friendly
+1431,Karela Sabzi (Bitter Gourd) (Herb Infused),Vegetables,Indian,1,1 katori (120g),80,2.2,8.9,4.0,3.7,1.5,Lunch,Cooked,Diabetes-Friendly
+1432,Karela Sabzi (Bitter Gourd) (Traditional),Vegetables,Indian,1,1 katori (120g),82,2.1,9.1,4.1,3.4,1.5,Lunch,Cooked,Diabetes-Friendly
+1433,Lauki (Bottle Gourd) Curry,Vegetables,Indian,1,1 cup (180g),68,1.8,8.3,3.1,2.9,2.0,Dinner,Cooked,Weight Loss
+1434,Lauki (Bottle Gourd) Curry (Light Spiced),Vegetables,Indian,1,1 cup (180g),74,1.8,8.7,3.5,3.1,2.1,Dinner,Cooked,Weight Loss
+1435,Lauki (Bottle Gourd) Curry (Homestyle),Vegetables,Indian,1,1 cup (180g),66,1.8,8.3,2.9,3.2,1.9,Dinner,Cooked,Weight Loss
+1436,Lauki (Bottle Gourd) Curry (Low Sodium),Vegetables,Indian,1,1 cup (180g),68,1.8,8.2,3.1,2.9,1.9,Dinner,Cooked,Weight Loss
+1437,Lauki (Bottle Gourd) Curry (Extra Portion),Vegetables,Indian,1,1 cup (180g),86,2.2,10.5,3.9,3.7,2.5,Dinner,Cooked,Weight Loss
+1438,Lauki (Bottle Gourd) Curry (Half Portion),Vegetables,Indian,1,1 cup (180g),39,1.0,4.8,1.8,1.7,1.1,Dinner,Cooked,Weight Loss
+1439,Lauki (Bottle Gourd) Curry (With Olive Oil),Vegetables,Indian,1,1 cup (180g),80,1.8,8.5,4.3,3.1,2.0,Dinner,Cooked,Weight Loss
+1440,Lauki (Bottle Gourd) Curry (Steamed),Vegetables,Indian,1,1 cup (180g),66,1.9,8.2,2.8,3.4,1.9,Dinner,Cooked,Weight Loss
+1441,Lauki (Bottle Gourd) Curry (Nutrient Dense),Vegetables,Indian,1,1 cup (180g),76,2.1,9.0,3.5,3.6,2.1,Dinner,Cooked,Weight Loss
+1442,Lauki (Bottle Gourd) Curry (Mild Flavor),Vegetables,Indian,1,1 cup (180g),70,1.8,8.7,3.1,3.1,2.0,Dinner,Cooked,Weight Loss
+1443,Lauki (Bottle Gourd) Curry (Herb Infused),Vegetables,Indian,1,1 cup (180g),72,1.9,8.6,3.3,3.3,2.0,Dinner,Cooked,Weight Loss
+1444,Lauki (Bottle Gourd) Curry (Traditional),Vegetables,Indian,1,1 cup (180g),73,1.8,8.9,3.4,3.0,2.1,Dinner,Cooked,Weight Loss
+1445,Fresh Apple with Skin,Fruits,Global,1,1 medium (182g),108,0.5,25.7,0.3,4.5,19.3,Snack,Raw,Balanced
+1446,Fresh Apple with Skin (Light Spiced),Fruits,Global,1,1 medium (182g),106,0.5,25.3,0.3,4.5,19.0,Snack,Raw,Balanced
+1447,Fresh Apple with Skin (Homestyle),Fruits,Global,1,1 medium (182g),104,0.5,24.9,0.3,4.7,18.2,Snack,Raw,Balanced
+1448,Fresh Apple with Skin (Low Sodium),Fruits,Global,1,1 medium (182g),104,0.5,24.9,0.3,4.4,18.5,Snack,Raw,Balanced
+1449,Fresh Apple with Skin (Extra Portion),Fruits,Global,1,1 medium (182g),134,0.6,32.0,0.4,5.6,24.1,Snack,Raw,Balanced
+1450,Fresh Apple with Skin (Half Portion),Fruits,Global,1,1 medium (182g),58,0.3,13.8,0.2,2.4,10.4,Snack,Raw,Balanced
+1451,Fresh Apple with Skin (With Olive Oil),Fruits,Global,1,1 medium (182g),108,0.5,25.7,0.4,4.7,19.4,Snack,Raw,Balanced
+1452,Fresh Apple with Skin (Steamed),Fruits,Global,1,1 medium (182g),102,0.5,24.2,0.3,4.9,17.6,Snack,Raw,Balanced
+1453,Fresh Apple with Skin (Nutrient Dense),Fruits,Global,1,1 medium (182g),110,0.6,26.3,0.3,5.3,19.2,Snack,Raw,Balanced
+1454,Fresh Apple with Skin (Mild Flavor),Fruits,Global,1,1 medium (182g),104,0.5,24.7,0.3,4.3,18.3,Snack,Raw,Balanced
+1455,Fresh Apple with Skin (Herb Infused),Fruits,Global,1,1 medium (182g),105,0.5,25.0,0.3,4.7,18.8,Snack,Raw,Balanced
+1456,Fresh Apple with Skin (Traditional),Fruits,Global,1,1 medium (182g),108,0.5,25.8,0.3,4.3,19.6,Snack,Raw,Balanced
+1457,Ripe Banana,Fruits,Global,1,1 medium (118g),118,1.3,27.4,0.4,3.1,14.6,Breakfast,Raw,Energy Booster
+1458,Ripe Banana (Light Spiced),Fruits,Global,1,1 medium (118g),117,1.3,27.0,0.4,3.2,14.4,Breakfast,Raw,Energy Booster
+1459,Ripe Banana (Homestyle),Fruits,Global,1,1 medium (118g),116,1.3,26.7,0.4,3.3,13.8,Breakfast,Raw,Energy Booster
+1460,Ripe Banana (Low Sodium),Fruits,Global,1,1 medium (118g),114,1.3,26.4,0.4,3.1,13.9,Breakfast,Raw,Energy Booster
+1461,Ripe Banana (Extra Portion),Fruits,Global,1,1 medium (118g),142,1.6,32.9,0.5,3.8,17.5,Breakfast,Raw,Energy Booster
+1462,Ripe Banana (Half Portion),Fruits,Global,1,1 medium (118g),63,0.7,14.7,0.2,1.7,7.8,Breakfast,Raw,Energy Booster
+1463,Ripe Banana (With Olive Oil),Fruits,Global,1,1 medium (118g),116,1.3,26.6,0.5,3.2,14.2,Breakfast,Raw,Energy Booster
+1464,Ripe Banana (Steamed),Fruits,Global,1,1 medium (118g),110,1.4,25.4,0.3,3.4,13.1,Breakfast,Raw,Energy Booster
+1465,Ripe Banana (Nutrient Dense),Fruits,Global,1,1 medium (118g),123,1.5,28.4,0.4,3.7,14.7,Breakfast,Raw,Energy Booster
+1466,Ripe Banana (Mild Flavor),Fruits,Global,1,1 medium (118g),114,1.3,26.4,0.4,3.0,13.8,Breakfast,Raw,Energy Booster
+1467,Ripe Banana (Herb Infused),Fruits,Global,1,1 medium (118g),116,1.3,26.8,0.4,3.3,14.3,Breakfast,Raw,Energy Booster
+1468,Ripe Banana (Traditional),Fruits,Global,1,1 medium (118g),120,1.3,27.9,0.4,3.0,15.0,Breakfast,Raw,Energy Booster
+1469,Fresh Orange,Fruits,Global,1,1 medium (131g),69,1.2,15.6,0.2,3.1,12.4,Snack,Raw,Balanced
+1470,Fresh Orange (Light Spiced),Fruits,Global,1,1 medium (131g),67,1.2,15.0,0.2,3.1,11.9,Snack,Raw,Balanced
+1471,Fresh Orange (Homestyle),Fruits,Global,1,1 medium (131g),67,1.2,15.0,0.2,3.2,11.5,Snack,Raw,Balanced
+1472,Fresh Orange (Low Sodium),Fruits,Global,1,1 medium (131g),68,1.2,15.3,0.2,3.1,12.0,Snack,Raw,Balanced
+1473,Fresh Orange (Extra Portion),Fruits,Global,1,1 medium (131g),85,1.5,19.2,0.2,3.9,15.2,Snack,Raw,Balanced
+1474,Fresh Orange (Half Portion),Fruits,Global,1,1 medium (131g),36,0.6,8.3,0.1,1.7,6.6,Snack,Raw,Balanced
+1475,Fresh Orange (With Olive Oil),Fruits,Global,1,1 medium (131g),69,1.2,15.3,0.3,3.2,12.1,Snack,Raw,Balanced
+1476,Fresh Orange (Steamed),Fruits,Global,1,1 medium (131g),67,1.3,15.0,0.2,3.5,11.5,Snack,Raw,Balanced
+1477,Fresh Orange (Nutrient Dense),Fruits,Global,1,1 medium (131g),73,1.4,16.3,0.2,3.7,12.5,Snack,Raw,Balanced
+1478,Fresh Orange (Mild Flavor),Fruits,Global,1,1 medium (131g),69,1.2,15.6,0.2,3.1,12.1,Snack,Raw,Balanced
+1479,Fresh Orange (Herb Infused),Fruits,Global,1,1 medium (131g),71,1.3,15.9,0.2,3.4,12.6,Snack,Raw,Balanced
+1480,Fresh Orange (Traditional),Fruits,Global,1,1 medium (131g),71,1.2,16.0,0.2,3.1,12.8,Snack,Raw,Balanced
+1481,Fresh Papaya Cubes,Fruits,Tropical,1,1 cup (145g),69,0.7,15.6,0.4,2.5,11.2,Breakfast,Raw,Weight Loss
+1482,Fresh Papaya Cubes (Light Spiced),Fruits,Tropical,1,1 cup (145g),67,0.7,15.2,0.4,2.5,11.0,Breakfast,Raw,Weight Loss
+1483,Fresh Papaya Cubes (Homestyle),Fruits,Tropical,1,1 cup (145g),67,0.7,15.2,0.4,2.6,10.6,Breakfast,Raw,Weight Loss
+1484,Fresh Papaya Cubes (Low Sodium),Fruits,Tropical,1,1 cup (145g),70,0.7,15.8,0.4,2.5,11.2,Breakfast,Raw,Weight Loss
+1485,Fresh Papaya Cubes (Extra Portion),Fruits,Tropical,1,1 cup (145g),88,0.9,20.0,0.5,3.2,14.4,Breakfast,Raw,Weight Loss
+1486,Fresh Papaya Cubes (Half Portion),Fruits,Tropical,1,1 cup (145g),39,0.4,8.9,0.2,1.4,6.4,Breakfast,Raw,Weight Loss
+1487,Fresh Papaya Cubes (With Olive Oil),Fruits,Tropical,1,1 cup (145g),70,0.7,15.6,0.5,2.6,11.2,Breakfast,Raw,Weight Loss
+1488,Fresh Papaya Cubes (Steamed),Fruits,Tropical,1,1 cup (145g),66,0.7,15.1,0.3,2.8,10.6,Breakfast,Raw,Weight Loss
+1489,Fresh Papaya Cubes (Nutrient Dense),Fruits,Tropical,1,1 cup (145g),73,0.8,16.5,0.4,3.0,11.6,Breakfast,Raw,Weight Loss
+1490,Fresh Papaya Cubes (Mild Flavor),Fruits,Tropical,1,1 cup (145g),70,0.7,15.8,0.4,2.5,11.1,Breakfast,Raw,Weight Loss
+1491,Fresh Papaya Cubes (Herb Infused),Fruits,Tropical,1,1 cup (145g),69,0.7,15.6,0.4,2.7,11.2,Breakfast,Raw,Weight Loss
+1492,Fresh Papaya Cubes (Traditional),Fruits,Tropical,1,1 cup (145g),69,0.7,15.7,0.4,2.4,11.4,Breakfast,Raw,Weight Loss
+1493,Pomegranate Arils,Fruits,Indian,1,0.5 cup (87g),80,1.5,16.2,1.0,3.5,11.9,Snack,Raw,Balanced
+1494,Pomegranate Arils (Light Spiced),Fruits,Indian,1,0.5 cup (87g),78,1.5,15.8,1.0,3.5,11.6,Snack,Raw,Balanced
+1495,Pomegranate Arils (Homestyle),Fruits,Indian,1,0.5 cup (87g),77,1.5,15.8,0.9,3.6,11.2,Snack,Raw,Balanced
+1496,Pomegranate Arils (Low Sodium),Fruits,Indian,1,0.5 cup (87g),80,1.5,16.3,1.0,3.5,11.8,Snack,Raw,Balanced
+1497,Pomegranate Arils (Extra Portion),Fruits,Indian,1,0.5 cup (87g),100,1.9,20.3,1.2,4.3,14.8,Snack,Raw,Balanced
+1498,Pomegranate Arils (Half Portion),Fruits,Indian,1,0.5 cup (87g),43,0.8,8.8,0.5,1.9,6.4,Snack,Raw,Balanced
+1499,Pomegranate Arils (With Olive Oil),Fruits,Indian,1,0.5 cup (87g),83,1.5,16.3,1.3,3.7,11.9,Snack,Raw,Balanced
+1500,Pomegranate Arils (Steamed),Fruits,Indian,1,0.5 cup (87g),74,1.5,15.1,0.8,3.8,10.7,Snack,Raw,Balanced
+1501,Pomegranate Arils (Nutrient Dense),Fruits,Indian,1,0.5 cup (87g),86,1.8,17.2,1.1,4.2,12.2,Snack,Raw,Balanced
+1502,Pomegranate Arils (Mild Flavor),Fruits,Indian,1,0.5 cup (87g),77,1.4,15.8,0.9,3.4,11.3,Snack,Raw,Balanced
+1503,Pomegranate Arils (Herb Infused),Fruits,Indian,1,0.5 cup (87g),81,1.5,16.4,1.0,3.8,11.9,Snack,Raw,Balanced
+1504,Pomegranate Arils (Traditional),Fruits,Indian,1,0.5 cup (87g),82,1.5,16.7,1.0,3.4,12.3,Snack,Raw,Balanced
+1505,Watermelon Slices,Fruits,Global,1,1 bowl (200g),66,1.2,14.6,0.3,0.8,11.7,Snack,Raw,Weight Loss
+1506,Watermelon Slices (Light Spiced),Fruits,Global,1,1 bowl (200g),68,1.2,15.1,0.3,0.8,12.1,Snack,Raw,Weight Loss
+1507,Watermelon Slices (Homestyle),Fruits,Global,1,1 bowl (200g),65,1.2,14.4,0.3,0.8,11.2,Snack,Raw,Weight Loss
+1508,Watermelon Slices (Low Sodium),Fruits,Global,1,1 bowl (200g),67,1.2,14.8,0.3,0.8,11.7,Snack,Raw,Weight Loss
+1509,Watermelon Slices (Extra Portion),Fruits,Global,1,1 bowl (200g),82,1.5,18.2,0.4,1.0,14.6,Snack,Raw,Weight Loss
+1510,Watermelon Slices (Half Portion),Fruits,Global,1,1 bowl (200g),37,0.7,8.2,0.2,0.4,6.6,Snack,Raw,Weight Loss
+1511,Watermelon Slices (With Olive Oil),Fruits,Global,1,1 bowl (200g),67,1.2,14.7,0.4,0.8,11.8,Snack,Raw,Weight Loss
+1512,Watermelon Slices (Steamed),Fruits,Global,1,1 bowl (200g),64,1.2,14.1,0.3,0.9,10.9,Snack,Raw,Weight Loss
+1513,Watermelon Slices (Nutrient Dense),Fruits,Global,1,1 bowl (200g),72,1.4,16.0,0.3,1.0,12.4,Snack,Raw,Weight Loss
+1514,Watermelon Slices (Mild Flavor),Fruits,Global,1,1 bowl (200g),67,1.2,14.9,0.3,0.8,11.7,Snack,Raw,Weight Loss
+1515,Watermelon Slices (Herb Infused),Fruits,Global,1,1 bowl (200g),70,1.3,15.4,0.3,0.9,12.3,Snack,Raw,Weight Loss
+1516,Watermelon Slices (Traditional),Fruits,Global,1,1 bowl (200g),70,1.2,15.6,0.3,0.8,12.6,Snack,Raw,Weight Loss
+1517,Fresh Guava,Fruits,Indian,1,1 medium (100g),76,2.6,14.1,1.0,5.3,8.8,Snack,Raw,Diabetes-Friendly
+1518,Fresh Guava (Light Spiced),Fruits,Indian,1,1 medium (100g),75,2.5,13.9,1.0,5.4,8.7,Snack,Raw,Diabetes-Friendly
+1519,Fresh Guava (Homestyle),Fruits,Indian,1,1 medium (100g),73,2.6,13.6,0.9,5.5,8.2,Snack,Raw,Diabetes-Friendly
+1520,Fresh Guava (Low Sodium),Fruits,Indian,1,1 medium (100g),76,2.6,14.2,1.0,5.4,8.7,Snack,Raw,Diabetes-Friendly
+1521,Fresh Guava (Extra Portion),Fruits,Indian,1,1 medium (100g),98,3.3,18.4,1.3,7.0,11.5,Snack,Raw,Diabetes-Friendly
+1522,Fresh Guava (Half Portion),Fruits,Indian,1,1 medium (100g),41,1.4,7.8,0.5,2.9,4.9,Snack,Raw,Diabetes-Friendly
+1523,Fresh Guava (With Olive Oil),Fruits,Indian,1,1 medium (100g),81,2.7,14.4,1.4,5.7,9.0,Snack,Raw,Diabetes-Friendly
+1524,Fresh Guava (Steamed),Fruits,Indian,1,1 medium (100g),74,2.8,13.8,0.9,6.0,8.3,Snack,Raw,Diabetes-Friendly
+1525,Fresh Guava (Nutrient Dense),Fruits,Indian,1,1 medium (100g),83,3.1,15.2,1.1,6.5,9.2,Snack,Raw,Diabetes-Friendly
+1526,Fresh Guava (Mild Flavor),Fruits,Indian,1,1 medium (100g),77,2.6,14.5,1.0,5.5,8.9,Snack,Raw,Diabetes-Friendly
+1527,Fresh Guava (Herb Infused),Fruits,Indian,1,1 medium (100g),79,2.8,14.8,1.0,6.0,9.2,Snack,Raw,Diabetes-Friendly
+1528,Fresh Guava (Traditional),Fruits,Indian,1,1 medium (100g),76,2.5,14.3,1.0,5.1,9.0,Snack,Raw,Diabetes-Friendly
+1529,Strawberries,Fruits,Global,1,1 cup (152g),54,1.0,11.4,0.5,2.9,7.2,Breakfast,Raw,Weight Loss
+1530,Strawberries (Light Spiced),Fruits,Global,1,1 cup (152g),54,1.0,11.5,0.5,3.0,7.2,Breakfast,Raw,Weight Loss
+1531,Strawberries (Homestyle),Fruits,Global,1,1 cup (152g),52,1.0,11.2,0.4,3.1,6.9,Breakfast,Raw,Weight Loss
+1532,Strawberries (Low Sodium),Fruits,Global,1,1 cup (152g),55,1.0,11.7,0.5,3.0,7.3,Breakfast,Raw,Weight Loss
+1533,Strawberries (Extra Portion),Fruits,Global,1,1 cup (152g),69,1.3,14.7,0.6,3.8,9.3,Breakfast,Raw,Weight Loss
+1534,Strawberries (Half Portion),Fruits,Global,1,1 cup (152g),30,0.5,6.3,0.3,1.6,4.0,Breakfast,Raw,Weight Loss
+1535,Strawberries (With Olive Oil),Fruits,Global,1,1 cup (152g),58,1.0,11.8,0.7,3.2,7.5,Breakfast,Raw,Weight Loss
+1536,Strawberries (Steamed),Fruits,Global,1,1 cup (152g),53,1.1,11.3,0.4,3.4,6.9,Breakfast,Raw,Weight Loss
+1537,Strawberries (Nutrient Dense),Fruits,Global,1,1 cup (152g),57,1.2,12.0,0.5,3.5,7.4,Breakfast,Raw,Weight Loss
+1538,Strawberries (Mild Flavor),Fruits,Global,1,1 cup (152g),56,1.0,11.8,0.5,3.0,7.3,Breakfast,Raw,Weight Loss
+1539,Strawberries (Herb Infused),Fruits,Global,1,1 cup (152g),56,1.0,12.0,0.5,3.3,7.6,Breakfast,Raw,Weight Loss
+1540,Strawberries (Traditional),Fruits,Global,1,1 cup (152g),55,1.0,11.7,0.5,2.8,7.4,Breakfast,Raw,Weight Loss
+1541,Blueberries,Fruits,Global,1,1 cup (148g),96,1.1,21.8,0.5,3.7,15.0,Breakfast,Raw,Balanced
+1542,Blueberries (Light Spiced),Fruits,Global,1,1 cup (148g),97,1.1,22.0,0.5,3.8,15.1,Breakfast,Raw,Balanced
+1543,Blueberries (Homestyle),Fruits,Global,1,1 cup (148g),90,1.1,20.5,0.4,3.7,13.6,Breakfast,Raw,Balanced
+1544,Blueberries (Low Sodium),Fruits,Global,1,1 cup (148g),91,1.1,20.6,0.5,3.5,14.0,Breakfast,Raw,Balanced
+1545,Blueberries (Extra Portion),Fruits,Global,1,1 cup (148g),117,1.4,26.4,0.6,4.4,18.2,Breakfast,Raw,Balanced
+1546,Blueberries (Half Portion),Fruits,Global,1,1 cup (148g),53,0.6,11.9,0.3,2.0,8.2,Breakfast,Raw,Balanced
+1547,Blueberries (With Olive Oil),Fruits,Global,1,1 cup (148g),99,1.2,22.0,0.7,3.9,15.1,Breakfast,Raw,Balanced
+1548,Blueberries (Steamed),Fruits,Global,1,1 cup (148g),89,1.1,20.2,0.4,3.9,13.4,Breakfast,Raw,Balanced
+1549,Blueberries (Nutrient Dense),Fruits,Global,1,1 cup (148g),101,1.3,22.8,0.5,4.4,15.2,Breakfast,Raw,Balanced
+1550,Blueberries (Mild Flavor),Fruits,Global,1,1 cup (148g),92,1.1,20.9,0.5,3.5,14.0,Breakfast,Raw,Balanced
+1551,Blueberries (Herb Infused),Fruits,Global,1,1 cup (148g),96,1.1,21.9,0.5,3.9,15.0,Breakfast,Raw,Balanced
+1552,Blueberries (Traditional),Fruits,Global,1,1 cup (148g),97,1.1,22.0,0.5,3.5,15.3,Breakfast,Raw,Balanced
+1553,Fresh Kiwi Fruit,Fruits,Global,1,1 piece (69g),46,0.8,9.9,0.4,2.0,6.1,Snack,Raw,Balanced
+1554,Fresh Kiwi Fruit (Light Spiced),Fruits,Global,1,1 piece (69g),48,0.8,10.3,0.4,2.2,6.3,Snack,Raw,Balanced
+1555,Fresh Kiwi Fruit (Homestyle),Fruits,Global,1,1 piece (69g),47,0.8,10.1,0.4,2.3,6.0,Snack,Raw,Balanced
+1556,Fresh Kiwi Fruit (Low Sodium),Fruits,Global,1,1 piece (69g),47,0.8,10.1,0.4,2.1,6.1,Snack,Raw,Balanced
+1557,Fresh Kiwi Fruit (Extra Portion),Fruits,Global,1,1 piece (69g),58,1.0,12.3,0.5,2.6,7.6,Snack,Raw,Balanced
+1558,Fresh Kiwi Fruit (Half Portion),Fruits,Global,1,1 piece (69g),27,0.5,5.7,0.2,1.2,3.5,Snack,Raw,Balanced
+1559,Fresh Kiwi Fruit (With Olive Oil),Fruits,Global,1,1 piece (69g),49,0.8,10.3,0.5,2.2,6.3,Snack,Raw,Balanced
+1560,Fresh Kiwi Fruit (Steamed),Fruits,Global,1,1 piece (69g),44,0.8,9.5,0.3,2.3,5.7,Snack,Raw,Balanced
+1561,Fresh Kiwi Fruit (Nutrient Dense),Fruits,Global,1,1 piece (69g),50,0.9,10.6,0.4,2.5,6.3,Snack,Raw,Balanced
+1562,Fresh Kiwi Fruit (Mild Flavor),Fruits,Global,1,1 piece (69g),47,0.8,10.0,0.4,2.1,6.0,Snack,Raw,Balanced
+1563,Fresh Kiwi Fruit (Herb Infused),Fruits,Global,1,1 piece (69g),48,0.8,10.2,0.4,2.3,6.3,Snack,Raw,Balanced
+1564,Fresh Kiwi Fruit (Traditional),Fruits,Global,1,1 piece (69g),48,0.8,10.2,0.4,2.0,6.3,Snack,Raw,Balanced
+1565,Ripe Mango Slices,Fruits,Indian,1,1 cup (165g),112,1.4,25.2,0.6,2.7,23.0,Snack,Raw,Energy Booster
+1566,Ripe Mango Slices (Light Spiced),Fruits,Indian,1,1 cup (165g),112,1.4,25.2,0.6,2.7,22.9,Snack,Raw,Energy Booster
+1567,Ripe Mango Slices (Homestyle),Fruits,Indian,1,1 cup (165g),104,1.4,23.6,0.5,2.7,20.9,Snack,Raw,Energy Booster
+1568,Ripe Mango Slices (Low Sodium),Fruits,Indian,1,1 cup (165g),111,1.4,25.1,0.6,2.7,22.7,Snack,Raw,Energy Booster
+1569,Ripe Mango Slices (Extra Portion),Fruits,Indian,1,1 cup (165g),139,1.8,31.1,0.8,3.3,28.4,Snack,Raw,Energy Booster
+1570,Ripe Mango Slices (Half Portion),Fruits,Indian,1,1 cup (165g),62,0.8,13.9,0.3,1.5,12.6,Snack,Raw,Energy Booster
+1571,Ripe Mango Slices (With Olive Oil),Fruits,Indian,1,1 cup (165g),113,1.4,25.0,0.8,2.8,22.8,Snack,Raw,Energy Booster
+1572,Ripe Mango Slices (Steamed),Fruits,Indian,1,1 cup (165g),104,1.5,23.4,0.5,2.8,20.6,Snack,Raw,Energy Booster
+1573,Ripe Mango Slices (Nutrient Dense),Fruits,Indian,1,1 cup (165g),118,1.7,26.3,0.7,3.2,23.3,Snack,Raw,Energy Booster
+1574,Ripe Mango Slices (Mild Flavor),Fruits,Indian,1,1 cup (165g),113,1.4,25.4,0.6,2.7,22.7,Snack,Raw,Energy Booster
+1575,Ripe Mango Slices (Herb Infused),Fruits,Indian,1,1 cup (165g),109,1.4,24.6,0.6,2.8,22.4,Snack,Raw,Energy Booster
+1576,Ripe Mango Slices (Traditional),Fruits,Indian,1,1 cup (165g),114,1.4,25.7,0.6,2.6,23.6,Snack,Raw,Energy Booster
+1577,Low-fat Cow Milk,Dairy and Alternatives,Global,1,1 glass (240ml),103,8.2,12.2,2.4,0.0,12.0,Breakfast,Boiled,Balanced
+1578,Low-fat Cow Milk (Light Spiced),Dairy and Alternatives,Global,1,1 glass (240ml),104,8.2,12.2,2.5,0.0,12.0,Breakfast,Boiled,Balanced
+1579,Low-fat Cow Milk (Homestyle),Dairy and Alternatives,Global,1,1 glass (240ml),101,8.3,11.9,2.2,0.0,11.4,Breakfast,Boiled,Balanced
+1580,Low-fat Cow Milk (Low Sodium),Dairy and Alternatives,Global,1,1 glass (240ml),104,8.3,12.2,2.4,0.0,11.9,Breakfast,Boiled,Balanced
+1581,Low-fat Cow Milk (Extra Portion),Dairy and Alternatives,Global,1,1 glass (240ml),127,10.1,15.0,3.0,0.0,14.8,Breakfast,Boiled,Balanced
+1582,Low-fat Cow Milk (Half Portion),Dairy and Alternatives,Global,1,1 glass (240ml),58,4.6,6.9,1.3,0.0,6.7,Breakfast,Boiled,Balanced
+1583,Low-fat Cow Milk (With Olive Oil),Dairy and Alternatives,Global,1,1 glass (240ml),113,8.5,12.4,3.3,0.0,12.2,Breakfast,Boiled,Balanced
+1584,Low-fat Cow Milk (Steamed),Dairy and Alternatives,Global,1,1 glass (240ml),97,8.4,11.3,2.0,0.0,10.8,Breakfast,Boiled,Balanced
+1585,Low-fat Cow Milk (Nutrient Dense),Dairy and Alternatives,Global,1,1 glass (240ml),116,9.9,13.1,2.7,0.0,12.5,Breakfast,Boiled,Balanced
+1586,Low-fat Cow Milk (Mild Flavor),Dairy and Alternatives,Global,1,1 glass (240ml),100,8.0,12.0,2.2,0.0,11.6,Breakfast,Boiled,Balanced
+1587,Low-fat Cow Milk (Herb Infused),Dairy and Alternatives,Global,1,1 glass (240ml),104,8.4,12.3,2.4,0.0,12.1,Breakfast,Boiled,Balanced
+1588,Low-fat Cow Milk (Traditional),Dairy and Alternatives,Global,1,1 glass (240ml),105,8.1,12.5,2.5,0.0,12.4,Breakfast,Boiled,Balanced
+1589,Plain Curd (Dahi),Dairy and Alternatives,Indian,1,1 cup (200g),117,6.9,8.9,6.0,0.0,7.9,Lunch,Raw,Balanced
+1590,Plain Curd (Dahi) (Light Spiced),Dairy and Alternatives,Indian,1,1 cup (200g),117,6.8,8.7,6.1,0.0,7.8,Lunch,Raw,Balanced
+1591,Plain Curd (Dahi) (Homestyle),Dairy and Alternatives,Indian,1,1 cup (200g),116,7.3,9.0,5.6,0.0,7.8,Lunch,Raw,Balanced
+1592,Plain Curd (Dahi) (Low Sodium),Dairy and Alternatives,Indian,1,1 cup (200g),115,6.9,8.7,5.8,0.0,7.7,Lunch,Raw,Balanced
+1593,Plain Curd (Dahi) (Extra Portion),Dairy and Alternatives,Indian,1,1 cup (200g),145,8.6,11.1,7.4,0.0,9.8,Lunch,Raw,Balanced
+1594,Plain Curd (Dahi) (Half Portion),Dairy and Alternatives,Indian,1,1 cup (200g),66,3.9,5.0,3.4,0.0,4.5,Lunch,Raw,Balanced
+1595,Plain Curd (Dahi) (With Olive Oil),Dairy and Alternatives,Indian,1,1 cup (200g),136,7.1,8.9,8.0,0.0,7.9,Lunch,Raw,Balanced
+1596,Plain Curd (Dahi) (Steamed),Dairy and Alternatives,Indian,1,1 cup (200g),112,7.5,8.7,5.2,0.0,7.5,Lunch,Raw,Balanced
+1597,Plain Curd (Dahi) (Nutrient Dense),Dairy and Alternatives,Indian,1,1 cup (200g),131,8.4,9.6,6.6,0.0,8.3,Lunch,Raw,Balanced
+1598,Plain Curd (Dahi) (Mild Flavor),Dairy and Alternatives,Indian,1,1 cup (200g),113,6.8,8.9,5.6,0.0,7.7,Lunch,Raw,Balanced
+1599,Plain Curd (Dahi) (Herb Infused),Dairy and Alternatives,Indian,1,1 cup (200g),116,7.0,8.8,5.9,0.0,7.8,Lunch,Raw,Balanced
+1600,Plain Curd (Dahi) (Traditional),Dairy and Alternatives,Indian,1,1 cup (200g),123,7.0,9.4,6.4,0.0,8.5,Lunch,Raw,Balanced
+1601,Low-fat Greek Yogurt,Dairy and Alternatives,Global,1,1 cup (170g),112,16.6,5.9,2.4,0.0,4.9,Snack,Raw,Muscle Gain
+1602,Low-fat Greek Yogurt (Light Spiced),Dairy and Alternatives,Global,1,1 cup (170g),117,17.2,6.1,2.7,0.0,5.1,Snack,Raw,Muscle Gain
+1603,Low-fat Greek Yogurt (Homestyle),Dairy and Alternatives,Global,1,1 cup (170g),114,17.3,5.9,2.3,0.0,4.7,Snack,Raw,Muscle Gain
+1604,Low-fat Greek Yogurt (Low Sodium),Dairy and Alternatives,Global,1,1 cup (170g),116,17.3,6.0,2.5,0.0,5.0,Snack,Raw,Muscle Gain
+1605,Low-fat Greek Yogurt (Extra Portion),Dairy and Alternatives,Global,1,1 cup (170g),145,21.5,7.6,3.2,0.0,6.3,Snack,Raw,Muscle Gain
+1606,Low-fat Greek Yogurt (Half Portion),Dairy and Alternatives,Global,1,1 cup (170g),63,9.4,3.3,1.4,0.0,2.8,Snack,Raw,Muscle Gain
+1607,Low-fat Greek Yogurt (With Olive Oil),Dairy and Alternatives,Global,1,1 cup (170g),124,17.3,6.0,3.4,0.0,5.0,Snack,Raw,Muscle Gain
+1608,Low-fat Greek Yogurt (Steamed),Dairy and Alternatives,Global,1,1 cup (170g),116,18.2,5.8,2.2,0.0,4.7,Snack,Raw,Muscle Gain
+1609,Low-fat Greek Yogurt (Nutrient Dense),Dairy and Alternatives,Global,1,1 cup (170g),126,19.6,6.1,2.6,0.0,5.0,Snack,Raw,Muscle Gain
+1610,Low-fat Greek Yogurt (Mild Flavor),Dairy and Alternatives,Global,1,1 cup (170g),110,16.5,5.9,2.3,0.0,4.8,Snack,Raw,Muscle Gain
+1611,Low-fat Greek Yogurt (Herb Infused),Dairy and Alternatives,Global,1,1 cup (170g),119,17.7,6.1,2.6,0.0,5.1,Snack,Raw,Muscle Gain
+1612,Low-fat Greek Yogurt (Traditional),Dairy and Alternatives,Global,1,1 cup (170g),113,16.5,6.0,2.6,0.0,5.1,Snack,Raw,Muscle Gain
+1613,Paneer (Fresh Cottage Cheese),Dairy and Alternatives,Indian,1,100g,276,18.4,3.6,20.9,0.0,2.5,Lunch,Raw,Muscle Gain
+1614,Paneer (Fresh Cottage Cheese) (Light Spiced),Dairy and Alternatives,Indian,1,100g,284,18.3,3.6,21.8,0.0,2.5,Lunch,Raw,Muscle Gain
+1615,Paneer (Fresh Cottage Cheese) (Homestyle),Dairy and Alternatives,Indian,1,100g,262,18.7,3.5,19.2,0.0,2.4,Lunch,Raw,Muscle Gain
+1616,Paneer (Fresh Cottage Cheese) (Low Sodium),Dairy and Alternatives,Indian,1,100g,270,18.2,3.5,20.3,0.0,2.4,Lunch,Raw,Muscle Gain
+1617,Paneer (Fresh Cottage Cheese) (Extra Portion),Dairy and Alternatives,Indian,1,100g,349,23.2,4.6,26.4,0.0,3.2,Lunch,Raw,Muscle Gain
+1618,Paneer (Fresh Cottage Cheese) (Half Portion),Dairy and Alternatives,Indian,1,100g,150,10.0,2.0,11.3,0.0,1.4,Lunch,Raw,Muscle Gain
+1619,Paneer (Fresh Cottage Cheese) (With Olive Oil),Dairy and Alternatives,Indian,1,100g,346,18.9,3.6,28.4,0.0,2.5,Lunch,Raw,Muscle Gain
+1620,Paneer (Fresh Cottage Cheese) (Steamed),Dairy and Alternatives,Indian,1,100g,246,19.0,3.4,17.4,0.0,2.3,Lunch,Raw,Muscle Gain
+1621,Paneer (Fresh Cottage Cheese) (Nutrient Dense),Dairy and Alternatives,Indian,1,100g,299,21.3,3.7,22.1,0.0,2.5,Lunch,Raw,Muscle Gain
+1622,Paneer (Fresh Cottage Cheese) (Mild Flavor),Dairy and Alternatives,Indian,1,100g,258,17.7,3.5,19.3,0.0,2.4,Lunch,Raw,Muscle Gain
+1623,Paneer (Fresh Cottage Cheese) (Herb Infused),Dairy and Alternatives,Indian,1,100g,276,18.5,3.6,20.8,0.0,2.5,Lunch,Raw,Muscle Gain
+1624,Paneer (Fresh Cottage Cheese) (Traditional),Dairy and Alternatives,Indian,1,100g,274,17.5,3.6,21.1,0.0,2.5,Lunch,Raw,Muscle Gain
+1625,Grilled Paneer Tikka,Dairy and Alternatives,Indian,1,1 plate (150g),272,19.5,8.0,18.0,2.0,3.0,Dinner,Grilled,Muscle Gain
+1626,Grilled Paneer Tikka (Light Spiced),Dairy and Alternatives,Indian,1,1 plate (150g),284,19.8,8.1,19.2,2.1,3.0,Dinner,Grilled,Muscle Gain
+1627,Grilled Paneer Tikka (Homestyle),Dairy and Alternatives,Indian,1,1 plate (150g),255,19.5,7.7,16.2,2.1,2.8,Dinner,Grilled,Muscle Gain
+1628,Grilled Paneer Tikka (Low Sodium),Dairy and Alternatives,Indian,1,1 plate (150g),264,19.2,7.8,17.3,2.0,2.9,Dinner,Grilled,Muscle Gain
+1629,Grilled Paneer Tikka (Extra Portion),Dairy and Alternatives,Indian,1,1 plate (150g),340,24.4,10.0,22.5,2.5,3.7,Dinner,Grilled,Muscle Gain
+1630,Grilled Paneer Tikka (Half Portion),Dairy and Alternatives,Indian,1,1 plate (150g),152,10.9,4.5,10.0,1.1,1.7,Dinner,Grilled,Muscle Gain
+1631,Grilled Paneer Tikka (With Olive Oil),Dairy and Alternatives,Indian,1,1 plate (150g),340,20.5,8.2,25.0,2.2,3.1,Dinner,Grilled,Muscle Gain
+1632,Grilled Paneer Tikka (Steamed),Dairy and Alternatives,Indian,1,1 plate (150g),250,20.5,7.6,15.3,2.2,2.8,Dinner,Grilled,Muscle Gain
+1633,Grilled Paneer Tikka (Nutrient Dense),Dairy and Alternatives,Indian,1,1 plate (150g),297,22.7,8.3,19.2,2.4,3.0,Dinner,Grilled,Muscle Gain
+1634,Grilled Paneer Tikka (Mild Flavor),Dairy and Alternatives,Indian,1,1 plate (150g),257,18.8,7.8,16.7,2.0,2.9,Dinner,Grilled,Muscle Gain
+1635,Grilled Paneer Tikka (Herb Infused),Dairy and Alternatives,Indian,1,1 plate (150g),272,19.7,7.9,18.0,2.1,3.0,Dinner,Grilled,Muscle Gain
+1636,Grilled Paneer Tikka (Traditional),Dairy and Alternatives,Indian,1,1 plate (150g),273,18.8,8.0,18.4,1.9,3.0,Dinner,Grilled,Muscle Gain
+1637,Firm Tofu,Dairy and Alternatives,Asian,1,100g,94,9.8,2.1,5.2,1.2,0.6,Lunch,Cooked,Weight Loss
+1638,Firm Tofu (Light Spiced),Dairy and Alternatives,Asian,1,100g,95,9.7,2.0,5.4,1.2,0.6,Lunch,Cooked,Weight Loss
+1639,Firm Tofu (Homestyle),Dairy and Alternatives,Asian,1,100g,93,10.2,2.1,4.9,1.3,0.6,Lunch,Cooked,Weight Loss
+1640,Firm Tofu (Low Sodium),Dairy and Alternatives,Asian,1,100g,94,9.9,2.1,5.1,1.2,0.6,Lunch,Cooked,Weight Loss
+1641,Firm Tofu (Extra Portion),Dairy and Alternatives,Asian,1,100g,124,12.9,2.7,6.8,1.5,0.8,Lunch,Cooked,Weight Loss
+1642,Firm Tofu (Half Portion),Dairy and Alternatives,Asian,1,100g,53,5.5,1.2,2.9,0.7,0.3,Lunch,Cooked,Weight Loss
+1643,Firm Tofu (With Olive Oil),Dairy and Alternatives,Asian,1,100g,114,10.3,2.1,7.2,1.3,0.6,Lunch,Cooked,Weight Loss
+1644,Firm Tofu (Steamed),Dairy and Alternatives,Asian,1,100g,89,10.3,2.0,4.4,1.3,0.5,Lunch,Cooked,Weight Loss
+1645,Firm Tofu (Nutrient Dense),Dairy and Alternatives,Asian,1,100g,111,12.1,2.3,5.9,1.5,0.6,Lunch,Cooked,Weight Loss
+1646,Firm Tofu (Mild Flavor),Dairy and Alternatives,Asian,1,100g,93,9.9,2.1,5.0,1.2,0.6,Lunch,Cooked,Weight Loss
+1647,Firm Tofu (Herb Infused),Dairy and Alternatives,Asian,1,100g,100,10.5,2.2,5.5,1.3,0.6,Lunch,Cooked,Weight Loss
+1648,Firm Tofu (Traditional),Dairy and Alternatives,Asian,1,100g,98,9.8,2.2,5.5,1.2,0.6,Lunch,Cooked,Weight Loss
+1649,Unsweetened Soy Milk,Dairy and Alternatives,Global,1,1 glass (240ml),80,7.0,4.0,4.0,2.0,1.0,Breakfast,Raw,Muscle Gain
+1650,Unsweetened Soy Milk (Light Spiced),Dairy and Alternatives,Global,1,1 glass (240ml),82,7.0,4.0,4.2,2.0,1.0,Breakfast,Raw,Muscle Gain
+1651,Unsweetened Soy Milk (Homestyle),Dairy and Alternatives,Global,1,1 glass (240ml),76,7.0,3.8,3.6,2.1,0.9,Breakfast,Raw,Muscle Gain
+1652,Unsweetened Soy Milk (Low Sodium),Dairy and Alternatives,Global,1,1 glass (240ml),77,6.8,3.9,3.8,1.9,1.0,Breakfast,Raw,Muscle Gain
+1653,Unsweetened Soy Milk (Extra Portion),Dairy and Alternatives,Global,1,1 glass (240ml),102,9.0,5.1,5.1,2.6,1.3,Breakfast,Raw,Muscle Gain
+1654,Unsweetened Soy Milk (Half Portion),Dairy and Alternatives,Global,1,1 glass (240ml),44,3.8,2.2,2.2,1.1,0.5,Breakfast,Raw,Muscle Gain
+1655,Unsweetened Soy Milk (With Olive Oil),Dairy and Alternatives,Global,1,1 glass (240ml),95,7.3,4.1,5.5,2.1,1.0,Breakfast,Raw,Muscle Gain
+1656,Unsweetened Soy Milk (Steamed),Dairy and Alternatives,Global,1,1 glass (240ml),75,7.3,3.8,3.4,2.2,0.9,Breakfast,Raw,Muscle Gain
+1657,Unsweetened Soy Milk (Nutrient Dense),Dairy and Alternatives,Global,1,1 glass (240ml),86,8.0,4.1,4.2,2.3,1.0,Breakfast,Raw,Muscle Gain
+1658,Unsweetened Soy Milk (Mild Flavor),Dairy and Alternatives,Global,1,1 glass (240ml),78,7.0,4.0,3.8,2.0,1.0,Breakfast,Raw,Muscle Gain
+1659,Unsweetened Soy Milk (Herb Infused),Dairy and Alternatives,Global,1,1 glass (240ml),80,7.0,3.9,4.0,2.1,1.0,Breakfast,Raw,Muscle Gain
+1660,Unsweetened Soy Milk (Traditional),Dairy and Alternatives,Global,1,1 glass (240ml),80,6.7,4.0,4.1,1.9,1.0,Breakfast,Raw,Muscle Gain
+1661,Unsweetened Almond Milk,Dairy and Alternatives,Global,1,1 glass (240ml),36,1.2,1.5,2.8,1.0,0.2,Breakfast,Raw,Weight Loss
+1662,Unsweetened Almond Milk (Light Spiced),Dairy and Alternatives,Global,1,1 glass (240ml),37,1.2,1.5,2.9,1.0,0.2,Breakfast,Raw,Weight Loss
+1663,Unsweetened Almond Milk (Homestyle),Dairy and Alternatives,Global,1,1 glass (240ml),36,1.3,1.5,2.7,1.1,0.2,Breakfast,Raw,Weight Loss
+1664,Unsweetened Almond Milk (Low Sodium),Dairy and Alternatives,Global,1,1 glass (240ml),35,1.2,1.5,2.7,1.0,0.2,Breakfast,Raw,Weight Loss
+1665,Unsweetened Almond Milk (Extra Portion),Dairy and Alternatives,Global,1,1 glass (240ml),46,1.5,1.9,3.6,1.3,0.3,Breakfast,Raw,Weight Loss
+1666,Unsweetened Almond Milk (Half Portion),Dairy and Alternatives,Global,1,1 glass (240ml),20,0.7,0.8,1.5,0.6,0.1,Breakfast,Raw,Weight Loss
+1667,Unsweetened Almond Milk (With Olive Oil),Dairy and Alternatives,Global,1,1 glass (240ml),45,1.2,1.5,3.8,1.1,0.2,Breakfast,Raw,Weight Loss
+1668,Unsweetened Almond Milk (Steamed),Dairy and Alternatives,Global,1,1 glass (240ml),31,1.2,1.4,2.3,1.1,0.2,Breakfast,Raw,Weight Loss
+1669,Unsweetened Almond Milk (Nutrient Dense),Dairy and Alternatives,Global,1,1 glass (240ml),39,1.4,1.6,3.0,1.2,0.2,Breakfast,Raw,Weight Loss
+1670,Unsweetened Almond Milk (Mild Flavor),Dairy and Alternatives,Global,1,1 glass (240ml),35,1.2,1.5,2.7,1.0,0.2,Breakfast,Raw,Weight Loss
+1671,Unsweetened Almond Milk (Herb Infused),Dairy and Alternatives,Global,1,1 glass (240ml),36,1.2,1.5,2.8,1.1,0.2,Breakfast,Raw,Weight Loss
+1672,Unsweetened Almond Milk (Traditional),Dairy and Alternatives,Global,1,1 glass (240ml),38,1.2,1.6,3.0,1.0,0.2,Breakfast,Raw,Weight Loss
+1673,Spiced Buttermilk (Chaas),Dairy and Alternatives,Indian,1,1 glass (250ml),44,2.9,4.6,1.5,0.2,4.1,Lunch,Raw,Weight Loss
+1674,Spiced Buttermilk (Chaas) (Light Spiced),Dairy and Alternatives,Indian,1,1 glass (250ml),43,2.8,4.4,1.6,0.2,4.0,Lunch,Raw,Weight Loss
+1675,Spiced Buttermilk (Chaas) (Homestyle),Dairy and Alternatives,Indian,1,1 glass (250ml),42,2.9,4.4,1.4,0.2,3.8,Lunch,Raw,Weight Loss
+1676,Spiced Buttermilk (Chaas) (Low Sodium),Dairy and Alternatives,Indian,1,1 glass (250ml),43,2.8,4.5,1.5,0.2,3.9,Lunch,Raw,Weight Loss
+1677,Spiced Buttermilk (Chaas) (Extra Portion),Dairy and Alternatives,Indian,1,1 glass (250ml),54,3.6,5.7,1.9,0.3,5.1,Lunch,Raw,Weight Loss
+1678,Spiced Buttermilk (Chaas) (Half Portion),Dairy and Alternatives,Indian,1,1 glass (250ml),24,1.6,2.5,0.8,0.1,2.3,Lunch,Raw,Weight Loss
+1679,Spiced Buttermilk (Chaas) (With Olive Oil),Dairy and Alternatives,Indian,1,1 glass (250ml),47,2.8,4.4,2.0,0.2,3.9,Lunch,Raw,Weight Loss
+1680,Spiced Buttermilk (Chaas) (Steamed),Dairy and Alternatives,Indian,1,1 glass (250ml),40,2.9,4.2,1.3,0.2,3.6,Lunch,Raw,Weight Loss
+1681,Spiced Buttermilk (Chaas) (Nutrient Dense),Dairy and Alternatives,Indian,1,1 glass (250ml),47,3.3,4.8,1.6,0.2,4.1,Lunch,Raw,Weight Loss
+1682,Spiced Buttermilk (Chaas) (Mild Flavor),Dairy and Alternatives,Indian,1,1 glass (250ml),41,2.7,4.4,1.4,0.2,3.8,Lunch,Raw,Weight Loss
+1683,Spiced Buttermilk (Chaas) (Herb Infused),Dairy and Alternatives,Indian,1,1 glass (250ml),43,2.8,4.5,1.5,0.2,4.0,Lunch,Raw,Weight Loss
+1684,Spiced Buttermilk (Chaas) (Traditional),Dairy and Alternatives,Indian,1,1 glass (250ml),42,2.7,4.5,1.5,0.2,4.0,Lunch,Raw,Weight Loss
+1685,Hard Boiled Egg,Poultry and Seafood,Global,0,1 large (50g),73,6.1,0.6,5.1,0.0,0.6,Breakfast,Boiled,Balanced
+1686,Hard Boiled Egg (Light Spiced),Poultry and Seafood,Global,0,1 large (50g),77,6.3,0.6,5.5,0.0,0.6,Breakfast,Boiled,Balanced
+1687,Hard Boiled Egg (Homestyle),Poultry and Seafood,Global,0,1 large (50g),72,6.5,0.6,4.9,0.0,0.6,Breakfast,Boiled,Balanced
+1688,Hard Boiled Egg (Low Sodium),Poultry and Seafood,Global,0,1 large (50g),73,6.2,0.6,5.1,0.0,0.6,Breakfast,Boiled,Balanced
+1689,Hard Boiled Egg (Extra Portion),Poultry and Seafood,Global,0,1 large (50g),92,7.7,0.7,6.5,0.0,0.7,Breakfast,Boiled,Balanced
+1690,Hard Boiled Egg (Half Portion),Poultry and Seafood,Global,0,1 large (50g),42,3.5,0.3,3.0,0.0,0.3,Breakfast,Boiled,Balanced
+1691,Hard Boiled Egg (With Olive Oil),Poultry and Seafood,Global,0,1 large (50g),93,6.5,0.6,7.2,0.0,0.6,Breakfast,Boiled,Balanced
+1692,Hard Boiled Egg (Steamed),Poultry and Seafood,Global,0,1 large (50g),69,6.6,0.6,4.5,0.0,0.6,Breakfast,Boiled,Balanced
+1693,Hard Boiled Egg (Nutrient Dense),Poultry and Seafood,Global,0,1 large (50g),85,7.5,0.6,5.8,0.0,0.6,Breakfast,Boiled,Balanced
+1694,Hard Boiled Egg (Mild Flavor),Poultry and Seafood,Global,0,1 large (50g),75,6.4,0.6,5.2,0.0,0.6,Breakfast,Boiled,Balanced
+1695,Hard Boiled Egg (Herb Infused),Poultry and Seafood,Global,0,1 large (50g),78,6.6,0.6,5.5,0.0,0.6,Breakfast,Boiled,Balanced
+1696,Hard Boiled Egg (Traditional),Poultry and Seafood,Global,0,1 large (50g),78,6.2,0.6,5.6,0.0,0.6,Breakfast,Boiled,Balanced
+1697,Boiled Egg Whites (3 eggs),Poultry and Seafood,Global,0,3 whites (100g),49,11.1,0.7,0.2,0.0,0.7,Breakfast,Boiled,Muscle Gain
+1698,Boiled Egg Whites (3 eggs) (Light Spiced),Poultry and Seafood,Global,0,3 whites (100g),50,11.3,0.7,0.2,0.0,0.7,Breakfast,Boiled,Muscle Gain
+1699,Boiled Egg Whites (3 eggs) (Homestyle),Poultry and Seafood,Global,0,3 whites (100g),49,11.2,0.7,0.2,0.0,0.7,Breakfast,Boiled,Muscle Gain
+1700,Boiled Egg Whites (3 eggs) (Low Sodium),Poultry and Seafood,Global,0,3 whites (100g),49,11.0,0.7,0.2,0.0,0.7,Breakfast,Boiled,Muscle Gain
+1701,Boiled Egg Whites (3 eggs) (Extra Portion),Poultry and Seafood,Global,0,3 whites (100g),62,13.9,0.9,0.3,0.0,0.9,Breakfast,Boiled,Muscle Gain
+1702,Boiled Egg Whites (3 eggs) (Half Portion),Poultry and Seafood,Global,0,3 whites (100g),27,6.2,0.4,0.1,0.0,0.4,Breakfast,Boiled,Muscle Gain
+1703,Boiled Egg Whites (3 eggs) (With Olive Oil),Poultry and Seafood,Global,0,3 whites (100g),51,11.4,0.7,0.3,0.0,0.7,Breakfast,Boiled,Muscle Gain
+1704,Boiled Egg Whites (3 eggs) (Steamed),Poultry and Seafood,Global,0,3 whites (100g),49,11.3,0.6,0.2,0.0,0.6,Breakfast,Boiled,Muscle Gain
+1705,Boiled Egg Whites (3 eggs) (Nutrient Dense),Poultry and Seafood,Global,0,3 whites (100g),55,12.7,0.7,0.2,0.0,0.7,Breakfast,Boiled,Muscle Gain
+1706,Boiled Egg Whites (3 eggs) (Mild Flavor),Poultry and Seafood,Global,0,3 whites (100g),48,10.8,0.7,0.2,0.0,0.7,Breakfast,Boiled,Muscle Gain
+1707,Boiled Egg Whites (3 eggs) (Herb Infused),Poultry and Seafood,Global,0,3 whites (100g),51,11.5,0.7,0.2,0.0,0.7,Breakfast,Boiled,Muscle Gain
+1708,Boiled Egg Whites (3 eggs) (Traditional),Poultry and Seafood,Global,0,3 whites (100g),48,10.8,0.7,0.2,0.0,0.7,Breakfast,Boiled,Muscle Gain
+1709,Vegetable Egg Omelette,Poultry and Seafood,Global,0,2 eggs (140g),182,13.3,3.5,12.8,1.0,1.5,Breakfast,Cooked,Muscle Gain
+1710,Vegetable Egg Omelette (Light Spiced),Poultry and Seafood,Global,0,2 eggs (140g),186,13.2,3.4,13.3,1.0,1.5,Breakfast,Cooked,Muscle Gain
+1711,Vegetable Egg Omelette (Homestyle),Poultry and Seafood,Global,0,2 eggs (140g),178,13.9,3.5,12.1,1.1,1.4,Breakfast,Cooked,Muscle Gain
+1712,Vegetable Egg Omelette (Low Sodium),Poultry and Seafood,Global,0,2 eggs (140g),185,13.7,3.5,12.9,1.0,1.5,Breakfast,Cooked,Muscle Gain
+1713,Vegetable Egg Omelette (Extra Portion),Poultry and Seafood,Global,0,2 eggs (140g),238,17.3,4.5,16.7,1.3,1.9,Breakfast,Cooked,Muscle Gain
+1714,Vegetable Egg Omelette (Half Portion),Poultry and Seafood,Global,0,2 eggs (140g),102,7.4,1.9,7.2,0.6,0.8,Breakfast,Cooked,Muscle Gain
+1715,Vegetable Egg Omelette (With Olive Oil),Poultry and Seafood,Global,0,2 eggs (140g),227,13.8,3.5,17.5,1.0,1.5,Breakfast,Cooked,Muscle Gain
+1716,Vegetable Egg Omelette (Steamed),Poultry and Seafood,Global,0,2 eggs (140g),165,13.8,3.2,10.8,1.1,1.3,Breakfast,Cooked,Muscle Gain
+1717,Vegetable Egg Omelette (Nutrient Dense),Poultry and Seafood,Global,0,2 eggs (140g),200,15.5,3.6,13.7,1.2,1.5,Breakfast,Cooked,Muscle Gain
+1718,Vegetable Egg Omelette (Mild Flavor),Poultry and Seafood,Global,0,2 eggs (140g),178,13.3,3.5,12.3,1.0,1.5,Breakfast,Cooked,Muscle Gain
+1719,Vegetable Egg Omelette (Herb Infused),Poultry and Seafood,Global,0,2 eggs (140g),187,13.8,3.5,13.1,1.1,1.5,Breakfast,Cooked,Muscle Gain
+1720,Vegetable Egg Omelette (Traditional),Poultry and Seafood,Global,0,2 eggs (140g),186,13.0,3.5,13.3,1.0,1.5,Breakfast,Cooked,Muscle Gain
+1721,Grilled Chicken Breast,Poultry and Seafood,Global,0,150g,197,37.1,0.0,5.4,0.0,0.0,Dinner,Grilled,Muscle Gain
+1722,Grilled Chicken Breast (Light Spiced),Poultry and Seafood,Global,0,150g,210,39.1,0.0,5.9,0.0,0.0,Dinner,Grilled,Muscle Gain
+1723,Grilled Chicken Breast (Homestyle),Poultry and Seafood,Global,0,150g,205,39.5,0.0,5.2,0.0,0.0,Dinner,Grilled,Muscle Gain
+1724,Grilled Chicken Breast (Low Sodium),Poultry and Seafood,Global,0,150g,201,38.2,0.0,5.4,0.0,0.0,Dinner,Grilled,Muscle Gain
+1725,Grilled Chicken Breast (Extra Portion),Poultry and Seafood,Global,0,150g,259,48.8,0.0,7.1,0.0,0.0,Dinner,Grilled,Muscle Gain
+1726,Grilled Chicken Breast (Half Portion),Poultry and Seafood,Global,0,150g,114,21.5,0.0,3.1,0.0,0.0,Dinner,Grilled,Muscle Gain
+1727,Grilled Chicken Breast (With Olive Oil),Poultry and Seafood,Global,0,150g,224,39.2,0.0,7.5,0.0,0.0,Dinner,Grilled,Muscle Gain
+1728,Grilled Chicken Breast (Steamed),Poultry and Seafood,Global,0,150g,199,39.3,0.0,4.6,0.0,0.0,Dinner,Grilled,Muscle Gain
+1729,Grilled Chicken Breast (Nutrient Dense),Poultry and Seafood,Global,0,150g,227,43.6,0.0,5.8,0.0,0.0,Dinner,Grilled,Muscle Gain
+1730,Grilled Chicken Breast (Mild Flavor),Poultry and Seafood,Global,0,150g,200,38.2,0.0,5.3,0.0,0.0,Dinner,Grilled,Muscle Gain
+1731,Grilled Chicken Breast (Herb Infused),Poultry and Seafood,Global,0,150g,207,39.1,0.0,5.6,0.0,0.0,Dinner,Grilled,Muscle Gain
+1732,Grilled Chicken Breast (Traditional),Poultry and Seafood,Global,0,150g,203,37.6,0.0,5.8,0.0,0.0,Dinner,Grilled,Muscle Gain
+1733,Homestyle Chicken Curry,Poultry and Seafood,Indian,0,1 bowl (200g),273,28.7,6.1,14.9,1.8,1.5,Lunch,Cooked,Muscle Gain
+1734,Homestyle Chicken Curry (Light Spiced),Poultry and Seafood,Indian,0,1 bowl (200g),268,27.5,5.9,14.9,1.8,1.5,Lunch,Cooked,Muscle Gain
+1735,Homestyle Chicken Curry (Homestyle),Poultry and Seafood,Indian,0,1 bowl (200g),259,28.7,5.9,13.4,1.9,1.4,Lunch,Cooked,Muscle Gain
+1736,Homestyle Chicken Curry (Low Sodium),Poultry and Seafood,Indian,0,1 bowl (200g),266,28.2,6.0,14.3,1.8,1.5,Lunch,Cooked,Muscle Gain
+1737,Homestyle Chicken Curry (Extra Portion),Poultry and Seafood,Indian,0,1 bowl (200g),333,35.0,7.5,18.1,2.2,1.9,Lunch,Cooked,Muscle Gain
+1738,Homestyle Chicken Curry (Half Portion),Poultry and Seafood,Indian,0,1 bowl (200g),143,15.0,3.2,7.8,1.0,0.8,Lunch,Cooked,Muscle Gain
+1739,Homestyle Chicken Curry (With Olive Oil),Poultry and Seafood,Indian,0,1 bowl (200g),311,28.3,5.9,19.4,1.9,1.5,Lunch,Cooked,Muscle Gain
+1740,Homestyle Chicken Curry (Steamed),Poultry and Seafood,Indian,0,1 bowl (200g),249,29.1,5.6,12.2,2.0,1.4,Lunch,Cooked,Muscle Gain
+1741,Homestyle Chicken Curry (Nutrient Dense),Poultry and Seafood,Indian,0,1 bowl (200g),301,33.4,6.4,15.8,2.2,1.5,Lunch,Cooked,Muscle Gain
+1742,Homestyle Chicken Curry (Mild Flavor),Poultry and Seafood,Indian,0,1 bowl (200g),264,28.3,6.1,14.1,1.8,1.5,Lunch,Cooked,Muscle Gain
+1743,Homestyle Chicken Curry (Herb Infused),Poultry and Seafood,Indian,0,1 bowl (200g),269,28.5,6.0,14.6,1.9,1.5,Lunch,Cooked,Muscle Gain
+1744,Homestyle Chicken Curry (Traditional),Poultry and Seafood,Indian,0,1 bowl (200g),274,27.8,6.2,15.3,1.8,1.6,Lunch,Cooked,Muscle Gain
+1745,Grilled Salmon Fillet,Poultry and Seafood,Global,0,150g,269,31.6,0.0,15.8,0.0,0.0,Dinner,Grilled,Muscle Gain
+1746,Grilled Salmon Fillet (Light Spiced),Poultry and Seafood,Global,0,150g,286,32.9,0.0,17.2,0.0,0.0,Dinner,Grilled,Muscle Gain
+1747,Grilled Salmon Fillet (Homestyle),Poultry and Seafood,Global,0,150g,268,33.3,0.0,15.0,0.0,0.0,Dinner,Grilled,Muscle Gain
+1748,Grilled Salmon Fillet (Low Sodium),Poultry and Seafood,Global,0,150g,270,32.1,0.0,15.7,0.0,0.0,Dinner,Grilled,Muscle Gain
+1749,Grilled Salmon Fillet (Extra Portion),Poultry and Seafood,Global,0,150g,339,39.9,0.0,19.9,0.0,0.0,Dinner,Grilled,Muscle Gain
+1750,Grilled Salmon Fillet (Half Portion),Poultry and Seafood,Global,0,150g,148,17.4,0.0,8.7,0.0,0.0,Dinner,Grilled,Muscle Gain
+1751,Grilled Salmon Fillet (With Olive Oil),Poultry and Seafood,Global,0,150g,322,32.3,0.0,21.4,0.0,0.0,Dinner,Grilled,Muscle Gain
+1752,Grilled Salmon Fillet (Steamed),Poultry and Seafood,Global,0,150g,264,34.5,0.0,14.0,0.0,0.0,Dinner,Grilled,Muscle Gain
+1753,Grilled Salmon Fillet (Nutrient Dense),Poultry and Seafood,Global,0,150g,305,37.5,0.0,17.2,0.0,0.0,Dinner,Grilled,Muscle Gain
+1754,Grilled Salmon Fillet (Mild Flavor),Poultry and Seafood,Global,0,150g,264,31.7,0.0,15.2,0.0,0.0,Dinner,Grilled,Muscle Gain
+1755,Grilled Salmon Fillet (Herb Infused),Poultry and Seafood,Global,0,150g,287,33.9,0.0,16.8,0.0,0.0,Dinner,Grilled,Muscle Gain
+1756,Grilled Salmon Fillet (Traditional),Poultry and Seafood,Global,0,150g,278,31.7,0.0,16.8,0.0,0.0,Dinner,Grilled,Muscle Gain
+1757,Fish Tikka Tandoori,Poultry and Seafood,Indian,0,150g,209,29.1,4.0,8.5,1.0,1.0,Dinner,Grilled,Weight Loss
+1758,Fish Tikka Tandoori (Light Spiced),Poultry and Seafood,Indian,0,150g,211,28.8,4.0,8.9,1.0,1.0,Dinner,Grilled,Weight Loss
+1759,Fish Tikka Tandoori (Homestyle),Poultry and Seafood,Indian,0,150g,200,29.0,3.8,7.7,1.0,0.9,Dinner,Grilled,Weight Loss
+1760,Fish Tikka Tandoori (Low Sodium),Poultry and Seafood,Indian,0,150g,206,28.8,3.9,8.3,1.0,1.0,Dinner,Grilled,Weight Loss
+1761,Fish Tikka Tandoori (Extra Portion),Poultry and Seafood,Indian,0,150g,265,36.8,5.1,10.8,1.3,1.3,Dinner,Grilled,Weight Loss
+1762,Fish Tikka Tandoori (Half Portion),Poultry and Seafood,Indian,0,150g,116,16.1,2.2,4.7,0.6,0.6,Dinner,Grilled,Weight Loss
+1763,Fish Tikka Tandoori (With Olive Oil),Poultry and Seafood,Indian,0,150g,242,30.0,4.1,11.7,1.1,1.0,Dinner,Grilled,Weight Loss
+1764,Fish Tikka Tandoori (Steamed),Poultry and Seafood,Indian,0,150g,198,29.9,3.7,7.1,1.1,0.9,Dinner,Grilled,Weight Loss
+1765,Fish Tikka Tandoori (Nutrient Dense),Poultry and Seafood,Indian,0,150g,237,34.3,4.2,9.2,1.2,1.0,Dinner,Grilled,Weight Loss
+1766,Fish Tikka Tandoori (Mild Flavor),Poultry and Seafood,Indian,0,150g,209,29.4,4.1,8.3,1.0,1.0,Dinner,Grilled,Weight Loss
+1767,Fish Tikka Tandoori (Herb Infused),Poultry and Seafood,Indian,0,150g,213,29.8,4.0,8.6,1.1,1.0,Dinner,Grilled,Weight Loss
+1768,Fish Tikka Tandoori (Traditional),Poultry and Seafood,Indian,0,150g,212,28.8,4.1,8.9,1.0,1.0,Dinner,Grilled,Weight Loss
+1769,Tuna Salad Light,Poultry and Seafood,Global,0,1 bowl (180g),179,25.4,4.9,6.4,2.0,1.2,Lunch,Raw,Weight Loss
+1770,Tuna Salad Light (Light Spiced),Poultry and Seafood,Global,0,1 bowl (180g),190,26.7,5.1,7.0,2.1,1.2,Lunch,Raw,Weight Loss
+1771,Tuna Salad Light (Homestyle),Poultry and Seafood,Global,0,1 bowl (180g),180,26.7,4.9,6.0,2.1,1.1,Lunch,Raw,Weight Loss
+1772,Tuna Salad Light (Low Sodium),Poultry and Seafood,Global,0,1 bowl (180g),179,25.6,4.9,6.3,2.0,1.2,Lunch,Raw,Weight Loss
+1773,Tuna Salad Light (Extra Portion),Poultry and Seafood,Global,0,1 bowl (180g),224,31.8,6.1,8.0,2.4,1.5,Lunch,Raw,Weight Loss
+1774,Tuna Salad Light (Half Portion),Poultry and Seafood,Global,0,1 bowl (180g),101,14.3,2.8,3.6,1.1,0.7,Lunch,Raw,Weight Loss
+1775,Tuna Salad Light (With Olive Oil),Poultry and Seafood,Global,0,1 bowl (180g),206,26.6,5.0,8.8,2.1,1.2,Lunch,Raw,Weight Loss
+1776,Tuna Salad Light (Steamed),Poultry and Seafood,Global,0,1 bowl (180g),173,26.6,4.6,5.4,2.1,1.1,Lunch,Raw,Weight Loss
+1777,Tuna Salad Light (Nutrient Dense),Poultry and Seafood,Global,0,1 bowl (180g),213,31.6,5.4,7.2,2.5,1.3,Lunch,Raw,Weight Loss
+1778,Tuna Salad Light (Mild Flavor),Poultry and Seafood,Global,0,1 bowl (180g),183,26.4,5.1,6.3,2.0,1.2,Lunch,Raw,Weight Loss
+1779,Tuna Salad Light (Herb Infused),Poultry and Seafood,Global,0,1 bowl (180g),186,26.7,5.0,6.6,2.2,1.2,Lunch,Raw,Weight Loss
+1780,Tuna Salad Light (Traditional),Poultry and Seafood,Global,0,1 bowl (180g),179,24.9,5.0,6.6,1.9,1.2,Lunch,Raw,Weight Loss
+1781,Boiled Shrimp,Poultry and Seafood,Global,0,100g,102,24.5,0.2,0.3,0.0,0.0,Dinner,Boiled,Weight Loss
+1782,Boiled Shrimp (Light Spiced),Poultry and Seafood,Global,0,100g,100,24.0,0.2,0.3,0.0,0.0,Dinner,Boiled,Weight Loss
+1783,Boiled Shrimp (Homestyle),Poultry and Seafood,Global,0,100g,103,24.8,0.2,0.3,0.0,0.0,Dinner,Boiled,Weight Loss
+1784,Boiled Shrimp (Low Sodium),Poultry and Seafood,Global,0,100g,100,24.0,0.2,0.3,0.0,0.0,Dinner,Boiled,Weight Loss
+1785,Boiled Shrimp (Extra Portion),Poultry and Seafood,Global,0,100g,123,29.6,0.2,0.4,0.0,0.0,Dinner,Boiled,Weight Loss
+1786,Boiled Shrimp (Half Portion),Poultry and Seafood,Global,0,100g,56,13.5,0.1,0.2,0.0,0.0,Dinner,Boiled,Weight Loss
+1787,Boiled Shrimp (With Olive Oil),Poultry and Seafood,Global,0,100g,105,25.2,0.2,0.4,0.0,0.0,Dinner,Boiled,Weight Loss
+1788,Boiled Shrimp (Steamed),Poultry and Seafood,Global,0,100g,103,24.8,0.2,0.3,0.0,0.0,Dinner,Boiled,Weight Loss
+1789,Boiled Shrimp (Nutrient Dense),Poultry and Seafood,Global,0,100g,117,28.4,0.2,0.3,0.0,0.0,Dinner,Boiled,Weight Loss
+1790,Boiled Shrimp (Mild Flavor),Poultry and Seafood,Global,0,100g,98,23.6,0.2,0.3,0.0,0.0,Dinner,Boiled,Weight Loss
+1791,Boiled Shrimp (Herb Infused),Poultry and Seafood,Global,0,100g,105,25.3,0.2,0.3,0.0,0.0,Dinner,Boiled,Weight Loss
+1792,Boiled Shrimp (Traditional),Poultry and Seafood,Global,0,100g,98,23.5,0.2,0.3,0.0,0.0,Dinner,Boiled,Weight Loss
+1793,Raw Almonds,Nuts and Seeds,Global,1,1 handful (28g),180,6.1,6.2,14.5,3.6,1.2,Snack,Raw,Balanced
+1794,Raw Almonds (Light Spiced),Nuts and Seeds,Global,1,1 handful (28g),186,6.1,6.2,15.2,3.6,1.2,Snack,Raw,Balanced
+1795,Raw Almonds (Homestyle),Nuts and Seeds,Global,1,1 handful (28g),164,6.0,5.9,12.9,3.6,1.1,Snack,Raw,Balanced
+1796,Raw Almonds (Low Sodium),Nuts and Seeds,Global,1,1 handful (28g),177,6.1,6.1,14.2,3.6,1.2,Snack,Raw,Balanced
+1797,Raw Almonds (Extra Portion),Nuts and Seeds,Global,1,1 handful (28g),220,7.5,7.6,17.7,4.4,1.5,Snack,Raw,Balanced
+1798,Raw Almonds (Half Portion),Nuts and Seeds,Global,1,1 handful (28g),99,3.4,3.4,8.0,2.0,0.7,Snack,Raw,Balanced
+1799,Raw Almonds (With Olive Oil),Nuts and Seeds,Global,1,1 handful (28g),222,6.1,6.1,19.2,3.7,1.2,Snack,Raw,Balanced
+1800,Raw Almonds (Steamed),Nuts and Seeds,Global,1,1 handful (28g),160,6.4,5.9,12.3,3.9,1.1,Snack,Raw,Balanced
+1801,Raw Almonds (Nutrient Dense),Nuts and Seeds,Global,1,1 handful (28g),189,7.0,6.3,15.1,4.1,1.2,Snack,Raw,Balanced
+1802,Raw Almonds (Mild Flavor),Nuts and Seeds,Global,1,1 handful (28g),167,5.9,6.0,13.3,3.5,1.2,Snack,Raw,Balanced
+1803,Raw Almonds (Herb Infused),Nuts and Seeds,Global,1,1 handful (28g),181,6.2,6.2,14.6,3.8,1.2,Snack,Raw,Balanced
+1804,Raw Almonds (Traditional),Nuts and Seeds,Global,1,1 handful (28g),187,6.1,6.4,15.2,3.5,1.3,Snack,Raw,Balanced
+1805,Walnut Halves,Nuts and Seeds,Global,1,1 handful (28g),199,4.3,3.9,18.5,1.9,0.7,Snack,Raw,Balanced
+1806,Walnut Halves (Light Spiced),Nuts and Seeds,Global,1,1 handful (28g),203,4.2,3.8,19.0,1.9,0.7,Snack,Raw,Balanced
+1807,Walnut Halves (Homestyle),Nuts and Seeds,Global,1,1 handful (28g),187,4.4,3.8,17.1,2.0,0.7,Snack,Raw,Balanced
+1808,Walnut Halves (Low Sodium),Nuts and Seeds,Global,1,1 handful (28g),194,4.3,3.8,18.0,1.9,0.7,Snack,Raw,Balanced
+1809,Walnut Halves (Extra Portion),Nuts and Seeds,Global,1,1 handful (28g),250,5.4,4.9,23.2,2.4,0.9,Snack,Raw,Balanced
+1810,Walnut Halves (Half Portion),Nuts and Seeds,Global,1,1 handful (28g),110,2.4,2.2,10.2,1.0,0.4,Snack,Raw,Balanced
+1811,Walnut Halves (With Olive Oil),Nuts and Seeds,Global,1,1 handful (28g),257,4.4,3.9,24.9,2.0,0.7,Snack,Raw,Balanced
+1812,Walnut Halves (Steamed),Nuts and Seeds,Global,1,1 handful (28g),173,4.5,3.7,15.6,2.1,0.6,Snack,Raw,Balanced
+1813,Walnut Halves (Nutrient Dense),Nuts and Seeds,Global,1,1 handful (28g),212,5.0,4.0,19.6,2.2,0.7,Snack,Raw,Balanced
+1814,Walnut Halves (Mild Flavor),Nuts and Seeds,Global,1,1 handful (28g),193,4.3,3.9,17.8,1.9,0.7,Snack,Raw,Balanced
+1815,Walnut Halves (Herb Infused),Nuts and Seeds,Global,1,1 handful (28g),205,4.4,4.0,19.0,2.1,0.7,Snack,Raw,Balanced
+1816,Walnut Halves (Traditional),Nuts and Seeds,Global,1,1 handful (28g),202,4.1,3.9,18.9,1.8,0.7,Snack,Raw,Balanced
+1817,Chia Seeds,Nuts and Seeds,Global,1,1 tbsp (15g),78,2.5,6.4,4.7,5.2,0.1,Breakfast,Raw,Weight Loss
+1818,Chia Seeds (Light Spiced),Nuts and Seeds,Global,1,1 tbsp (15g),76,2.4,6.1,4.7,5.1,0.1,Breakfast,Raw,Weight Loss
+1819,Chia Seeds (Homestyle),Nuts and Seeds,Global,1,1 tbsp (15g),74,2.6,6.3,4.3,5.4,0.1,Breakfast,Raw,Weight Loss
+1820,Chia Seeds (Low Sodium),Nuts and Seeds,Global,1,1 tbsp (15g),77,2.5,6.3,4.6,5.2,0.1,Breakfast,Raw,Weight Loss
+1821,Chia Seeds (Extra Portion),Nuts and Seeds,Global,1,1 tbsp (15g),98,3.2,8.0,5.9,6.5,0.1,Breakfast,Raw,Weight Loss
+1822,Chia Seeds (Half Portion),Nuts and Seeds,Global,1,1 tbsp (15g),42,1.4,3.4,2.5,2.8,0.1,Breakfast,Raw,Weight Loss
+1823,Chia Seeds (With Olive Oil),Nuts and Seeds,Global,1,1 tbsp (15g),93,2.6,6.4,6.3,5.4,0.1,Breakfast,Raw,Weight Loss
+1824,Chia Seeds (Steamed),Nuts and Seeds,Global,1,1 tbsp (15g),71,2.7,6.1,4.0,5.7,0.1,Breakfast,Raw,Weight Loss
+1825,Chia Seeds (Nutrient Dense),Nuts and Seeds,Global,1,1 tbsp (15g),85,3.0,6.8,5.1,6.3,0.1,Breakfast,Raw,Weight Loss
+1826,Chia Seeds (Mild Flavor),Nuts and Seeds,Global,1,1 tbsp (15g),75,2.5,6.3,4.4,5.1,0.1,Breakfast,Raw,Weight Loss
+1827,Chia Seeds (Herb Infused),Nuts and Seeds,Global,1,1 tbsp (15g),76,2.5,6.2,4.6,5.4,0.1,Breakfast,Raw,Weight Loss
+1828,Chia Seeds (Traditional),Nuts and Seeds,Global,1,1 tbsp (15g),79,2.5,6.4,4.8,4.9,0.1,Breakfast,Raw,Weight Loss
+1829,Ground Flaxseeds,Nuts and Seeds,Global,1,1 tbsp (10g),57,1.9,3.0,4.2,2.8,0.2,Breakfast,Raw,Balanced
+1830,Ground Flaxseeds (Light Spiced),Nuts and Seeds,Global,1,1 tbsp (10g),60,1.9,3.1,4.5,2.9,0.2,Breakfast,Raw,Balanced
+1831,Ground Flaxseeds (Homestyle),Nuts and Seeds,Global,1,1 tbsp (10g),56,2.0,3.0,4.0,3.0,0.2,Breakfast,Raw,Balanced
+1832,Ground Flaxseeds (Low Sodium),Nuts and Seeds,Global,1,1 tbsp (10g),56,1.9,3.0,4.1,2.8,0.2,Breakfast,Raw,Balanced
+1833,Ground Flaxseeds (Extra Portion),Nuts and Seeds,Global,1,1 tbsp (10g),72,2.4,3.8,5.3,3.5,0.3,Breakfast,Raw,Balanced
+1834,Ground Flaxseeds (Half Portion),Nuts and Seeds,Global,1,1 tbsp (10g),31,1.0,1.6,2.3,1.5,0.1,Breakfast,Raw,Balanced
+1835,Ground Flaxseeds (With Olive Oil),Nuts and Seeds,Global,1,1 tbsp (10g),71,2.0,3.0,5.7,3.0,0.2,Breakfast,Raw,Balanced
+1836,Ground Flaxseeds (Steamed),Nuts and Seeds,Global,1,1 tbsp (10g),52,2.0,2.8,3.6,3.1,0.2,Breakfast,Raw,Balanced
+1837,Ground Flaxseeds (Nutrient Dense),Nuts and Seeds,Global,1,1 tbsp (10g),63,2.3,3.2,4.6,3.4,0.2,Breakfast,Raw,Balanced
+1838,Ground Flaxseeds (Mild Flavor),Nuts and Seeds,Global,1,1 tbsp (10g),54,1.8,2.9,3.9,2.7,0.2,Breakfast,Raw,Balanced
+1839,Ground Flaxseeds (Herb Infused),Nuts and Seeds,Global,1,1 tbsp (10g),59,2.0,3.0,4.3,3.0,0.2,Breakfast,Raw,Balanced
+1840,Ground Flaxseeds (Traditional),Nuts and Seeds,Global,1,1 tbsp (10g),60,1.9,3.1,4.5,2.8,0.2,Breakfast,Raw,Balanced
+1841,Roasted Pumpkin Seeds,Nuts and Seeds,Global,1,1 handful (28g),175,8.5,4.2,13.8,1.8,0.4,Snack,Roasted,Muscle Gain
+1842,Roasted Pumpkin Seeds (Light Spiced),Nuts and Seeds,Global,1,1 handful (28g),185,8.7,4.2,14.8,1.9,0.4,Snack,Roasted,Muscle Gain
+1843,Roasted Pumpkin Seeds (Homestyle),Nuts and Seeds,Global,1,1 handful (28g),168,8.9,4.2,12.9,1.9,0.4,Snack,Roasted,Muscle Gain
+1844,Roasted Pumpkin Seeds (Low Sodium),Nuts and Seeds,Global,1,1 handful (28g),177,8.8,4.2,13.9,1.8,0.4,Snack,Roasted,Muscle Gain
+1845,Roasted Pumpkin Seeds (Extra Portion),Nuts and Seeds,Global,1,1 handful (28g),225,11.0,5.4,17.7,2.3,0.5,Snack,Roasted,Muscle Gain
+1846,Roasted Pumpkin Seeds (Half Portion),Nuts and Seeds,Global,1,1 handful (28g),99,4.8,2.4,7.8,1.0,0.2,Snack,Roasted,Muscle Gain
+1847,Roasted Pumpkin Seeds (With Olive Oil),Nuts and Seeds,Global,1,1 handful (28g),219,8.7,4.2,18.6,1.9,0.4,Snack,Roasted,Muscle Gain
+1848,Roasted Pumpkin Seeds (Steamed),Nuts and Seeds,Global,1,1 handful (28g),156,8.9,3.9,11.7,2.0,0.4,Snack,Roasted,Muscle Gain
+1849,Roasted Pumpkin Seeds (Nutrient Dense),Nuts and Seeds,Global,1,1 handful (28g),196,10.3,4.5,15.2,2.2,0.4,Snack,Roasted,Muscle Gain
+1850,Roasted Pumpkin Seeds (Mild Flavor),Nuts and Seeds,Global,1,1 handful (28g),172,8.6,4.3,13.4,1.8,0.4,Snack,Roasted,Muscle Gain
+1851,Roasted Pumpkin Seeds (Herb Infused),Nuts and Seeds,Global,1,1 handful (28g),184,9.1,4.3,14.5,2.0,0.4,Snack,Roasted,Muscle Gain
+1852,Roasted Pumpkin Seeds (Traditional),Nuts and Seeds,Global,1,1 handful (28g),176,8.2,4.2,14.1,1.7,0.4,Snack,Roasted,Muscle Gain
+1853,Natural Peanut Butter,Nuts and Seeds,Global,1,1 tbsp (16g),99,3.9,3.0,7.9,1.0,1.1,Breakfast,Raw,Energy Booster
+1854,Natural Peanut Butter (Light Spiced),Nuts and Seeds,Global,1,1 tbsp (16g),106,4.0,3.1,8.6,1.0,1.1,Breakfast,Raw,Energy Booster
+1855,Natural Peanut Butter (Homestyle),Nuts and Seeds,Global,1,1 tbsp (16g),98,4.2,3.1,7.6,1.1,1.1,Breakfast,Raw,Energy Booster
+1856,Natural Peanut Butter (Low Sodium),Nuts and Seeds,Global,1,1 tbsp (16g),103,4.1,3.2,8.2,1.0,1.1,Breakfast,Raw,Energy Booster
+1857,Natural Peanut Butter (Extra Portion),Nuts and Seeds,Global,1,1 tbsp (16g),129,5.1,3.9,10.3,1.3,1.4,Breakfast,Raw,Energy Booster
+1858,Natural Peanut Butter (Half Portion),Nuts and Seeds,Global,1,1 tbsp (16g),55,2.2,1.7,4.4,0.5,0.6,Breakfast,Raw,Energy Booster
+1859,Natural Peanut Butter (With Olive Oil),Nuts and Seeds,Global,1,1 tbsp (16g),124,4.0,3.0,10.7,1.0,1.1,Breakfast,Raw,Energy Booster
+1860,Natural Peanut Butter (Steamed),Nuts and Seeds,Global,1,1 tbsp (16g),91,4.2,3.0,6.9,1.1,1.0,Breakfast,Raw,Energy Booster
+1861,Natural Peanut Butter (Nutrient Dense),Nuts and Seeds,Global,1,1 tbsp (16g),112,4.8,3.3,8.9,1.2,1.1,Breakfast,Raw,Energy Booster
+1862,Natural Peanut Butter (Mild Flavor),Nuts and Seeds,Global,1,1 tbsp (16g),97,3.9,3.1,7.7,1.0,1.1,Breakfast,Raw,Energy Booster
+1863,Natural Peanut Butter (Herb Infused),Nuts and Seeds,Global,1,1 tbsp (16g),105,4.2,3.2,8.4,1.1,1.1,Breakfast,Raw,Energy Booster
+1864,Natural Peanut Butter (Traditional),Nuts and Seeds,Global,1,1 tbsp (16g),106,4.0,3.2,8.6,1.0,1.2,Breakfast,Raw,Energy Booster
+1865,Roasted Peanuts Unsalted,Nuts and Seeds,Indian,1,1 handful (30g),175,7.3,4.7,14.1,2.3,1.2,Snack,Roasted,Energy Booster
+1866,Roasted Peanuts Unsalted (Light Spiced),Nuts and Seeds,Indian,1,1 handful (30g),190,7.6,4.9,15.5,2.5,1.2,Snack,Roasted,Energy Booster
+1867,Roasted Peanuts Unsalted (Homestyle),Nuts and Seeds,Indian,1,1 handful (30g),168,7.6,4.6,13.2,2.5,1.1,Snack,Roasted,Energy Booster
+1868,Roasted Peanuts Unsalted (Low Sodium),Nuts and Seeds,Indian,1,1 handful (30g),175,7.4,4.7,14.1,2.4,1.2,Snack,Roasted,Energy Booster
+1869,Roasted Peanuts Unsalted (Extra Portion),Nuts and Seeds,Indian,1,1 handful (30g),220,9.2,5.9,17.7,2.9,1.5,Snack,Roasted,Energy Booster
+1870,Roasted Peanuts Unsalted (Half Portion),Nuts and Seeds,Indian,1,1 handful (30g),99,4.1,2.6,8.0,1.3,0.7,Snack,Roasted,Energy Booster
+1871,Roasted Peanuts Unsalted (With Olive Oil),Nuts and Seeds,Indian,1,1 handful (30g),227,7.7,4.8,19.7,2.5,1.2,Snack,Roasted,Energy Booster
+1872,Roasted Peanuts Unsalted (Steamed),Nuts and Seeds,Indian,1,1 handful (30g),163,8.0,4.6,12.5,2.7,1.1,Snack,Roasted,Energy Booster
+1873,Roasted Peanuts Unsalted (Nutrient Dense),Nuts and Seeds,Indian,1,1 handful (30g),192,8.7,4.9,15.3,2.8,1.2,Snack,Roasted,Energy Booster
+1874,Roasted Peanuts Unsalted (Mild Flavor),Nuts and Seeds,Indian,1,1 handful (30g),168,7.2,4.7,13.4,2.3,1.1,Snack,Roasted,Energy Booster
+1875,Roasted Peanuts Unsalted (Herb Infused),Nuts and Seeds,Indian,1,1 handful (30g),188,7.9,5.0,15.1,2.6,1.2,Snack,Roasted,Energy Booster
+1876,Roasted Peanuts Unsalted (Traditional),Nuts and Seeds,Indian,1,1 handful (30g),186,7.4,4.9,15.2,2.3,1.2,Snack,Roasted,Energy Booster
+1877,Roasted Makhana (Foxnuts),Snacks and Beverages,Indian,1,1 bowl (30g),95,2.9,19.7,0.5,2.3,0.2,Snack,Roasted,Weight Loss
+1878,Roasted Makhana (Foxnuts) (Light Spiced),Snacks and Beverages,Indian,1,1 bowl (30g),98,3.0,20.5,0.5,2.4,0.2,Snack,Roasted,Weight Loss
+1879,Roasted Makhana (Foxnuts) (Homestyle),Snacks and Beverages,Indian,1,1 bowl (30g),93,2.9,19.2,0.5,2.4,0.2,Snack,Roasted,Weight Loss
+1880,Roasted Makhana (Foxnuts) (Low Sodium),Snacks and Beverages,Indian,1,1 bowl (30g),95,2.9,19.8,0.5,2.3,0.2,Snack,Roasted,Weight Loss
+1881,Roasted Makhana (Foxnuts) (Extra Portion),Snacks and Beverages,Indian,1,1 bowl (30g),118,3.6,24.6,0.6,2.8,0.2,Snack,Roasted,Weight Loss
+1882,Roasted Makhana (Foxnuts) (Half Portion),Snacks and Beverages,Indian,1,1 bowl (30g),52,1.6,10.8,0.3,1.2,0.1,Snack,Roasted,Weight Loss
+1883,Roasted Makhana (Foxnuts) (With Olive Oil),Snacks and Beverages,Indian,1,1 bowl (30g),95,2.9,19.4,0.7,2.3,0.2,Snack,Roasted,Weight Loss
+1884,Roasted Makhana (Foxnuts) (Steamed),Snacks and Beverages,Indian,1,1 bowl (30g),93,3.1,19.3,0.4,2.6,0.2,Snack,Roasted,Weight Loss
+1885,Roasted Makhana (Foxnuts) (Nutrient Dense),Snacks and Beverages,Indian,1,1 bowl (30g),105,3.5,21.5,0.6,2.8,0.2,Snack,Roasted,Weight Loss
+1886,Roasted Makhana (Foxnuts) (Mild Flavor),Snacks and Beverages,Indian,1,1 bowl (30g),97,2.9,20.2,0.5,2.3,0.2,Snack,Roasted,Weight Loss
+1887,Roasted Makhana (Foxnuts) (Herb Infused),Snacks and Beverages,Indian,1,1 bowl (30g),95,2.9,19.8,0.5,2.4,0.2,Snack,Roasted,Weight Loss
+1888,Roasted Makhana (Foxnuts) (Traditional),Snacks and Beverages,Indian,1,1 bowl (30g),97,2.8,20.3,0.5,2.2,0.2,Snack,Roasted,Weight Loss
+1889,Roasted Chana,Snacks and Beverages,Indian,1,1 bowl (40g),138,7.7,21.8,2.2,5.2,1.0,Snack,Roasted,Weight Loss
+1890,Roasted Chana (Light Spiced),Snacks and Beverages,Indian,1,1 bowl (40g),140,7.8,22.1,2.3,5.3,1.0,Snack,Roasted,Weight Loss
+1891,Roasted Chana (Homestyle),Snacks and Beverages,Indian,1,1 bowl (40g),137,8.0,21.7,2.0,5.5,1.0,Snack,Roasted,Weight Loss
+1892,Roasted Chana (Low Sodium),Snacks and Beverages,Indian,1,1 bowl (40g),137,7.8,21.7,2.1,5.2,1.0,Snack,Roasted,Weight Loss
+1893,Roasted Chana (Extra Portion),Snacks and Beverages,Indian,1,1 bowl (40g),171,9.6,27.1,2.7,6.4,1.2,Snack,Roasted,Weight Loss
+1894,Roasted Chana (Half Portion),Snacks and Beverages,Indian,1,1 bowl (40g),78,4.4,12.4,1.2,2.9,0.6,Snack,Roasted,Weight Loss
+1895,Roasted Chana (With Olive Oil),Snacks and Beverages,Indian,1,1 bowl (40g),144,7.8,21.6,2.9,5.4,1.0,Snack,Roasted,Weight Loss
+1896,Roasted Chana (Steamed),Snacks and Beverages,Indian,1,1 bowl (40g),133,8.1,20.8,1.9,5.7,0.9,Snack,Roasted,Weight Loss
+1897,Roasted Chana (Nutrient Dense),Snacks and Beverages,Indian,1,1 bowl (40g),151,9.2,23.1,2.4,6.2,1.0,Snack,Roasted,Weight Loss
+1898,Roasted Chana (Mild Flavor),Snacks and Beverages,Indian,1,1 bowl (40g),136,7.6,21.7,2.1,5.1,1.0,Snack,Roasted,Weight Loss
+1899,Roasted Chana (Herb Infused),Snacks and Beverages,Indian,1,1 bowl (40g),142,8.1,22.3,2.3,5.6,1.0,Snack,Roasted,Weight Loss
+1900,Roasted Chana (Traditional),Snacks and Beverages,Indian,1,1 bowl (40g),142,7.7,22.5,2.3,5.1,1.0,Snack,Roasted,Weight Loss
+1901,Tender Coconut Water,Snacks and Beverages,Tropical,1,1 glass (240ml),48,1.8,9.2,0.5,2.7,6.5,Snack,Raw,Balanced
+1902,Tender Coconut Water (Light Spiced),Snacks and Beverages,Tropical,1,1 glass (240ml),46,1.7,8.8,0.5,2.6,6.2,Snack,Raw,Balanced
+1903,Tender Coconut Water (Homestyle),Snacks and Beverages,Tropical,1,1 glass (240ml),48,1.8,9.0,0.5,2.8,6.2,Snack,Raw,Balanced
+1904,Tender Coconut Water (Low Sodium),Snacks and Beverages,Tropical,1,1 glass (240ml),47,1.7,8.9,0.5,2.6,6.2,Snack,Raw,Balanced
+1905,Tender Coconut Water (Extra Portion),Snacks and Beverages,Tropical,1,1 glass (240ml),58,2.1,11.0,0.6,3.2,7.8,Snack,Raw,Balanced
+1906,Tender Coconut Water (Half Portion),Snacks and Beverages,Tropical,1,1 glass (240ml),26,0.9,4.9,0.3,1.4,3.5,Snack,Raw,Balanced
+1907,Tender Coconut Water (With Olive Oil),Snacks and Beverages,Tropical,1,1 glass (240ml),50,1.8,9.0,0.7,2.8,6.4,Snack,Raw,Balanced
+1908,Tender Coconut Water (Steamed),Snacks and Beverages,Tropical,1,1 glass (240ml),45,1.8,8.6,0.4,2.9,5.9,Snack,Raw,Balanced
+1909,Tender Coconut Water (Nutrient Dense),Snacks and Beverages,Tropical,1,1 glass (240ml),49,2.0,9.1,0.5,3.0,6.3,Snack,Raw,Balanced
+1910,Tender Coconut Water (Mild Flavor),Snacks and Beverages,Tropical,1,1 glass (240ml),47,1.7,9.0,0.5,2.6,6.2,Snack,Raw,Balanced
+1911,Tender Coconut Water (Herb Infused),Snacks and Beverages,Tropical,1,1 glass (240ml),48,1.8,9.0,0.5,2.8,6.4,Snack,Raw,Balanced
+1912,Tender Coconut Water (Traditional),Snacks and Beverages,Tropical,1,1 glass (240ml),48,1.7,9.3,0.5,2.6,6.6,Snack,Raw,Balanced
+1913,Green Tea Unsweetened,Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1914,Green Tea Unsweetened (Light Spiced),Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1915,Green Tea Unsweetened (Homestyle),Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1916,Green Tea Unsweetened (Low Sodium),Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1917,Green Tea Unsweetened (Extra Portion),Snacks and Beverages,Global,1,1 cup (200ml),10,0.3,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1918,Green Tea Unsweetened (Half Portion),Snacks and Beverages,Global,1,1 cup (200ml),10,0.1,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1919,Green Tea Unsweetened (With Olive Oil),Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1920,Green Tea Unsweetened (Steamed),Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1921,Green Tea Unsweetened (Nutrient Dense),Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1922,Green Tea Unsweetened (Mild Flavor),Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1923,Green Tea Unsweetened (Herb Infused),Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1924,Green Tea Unsweetened (Traditional),Snacks and Beverages,Global,1,1 cup (200ml),10,0.2,0.0,0.0,0.0,0.0,Snack,Boiled,Weight Loss
+1925,Vegetable Clear Soup,Snacks and Beverages,Global,1,1 bowl (200ml),46,1.5,8.1,0.8,2.5,2.0,Dinner,Boiled,Weight Loss
+1926,Vegetable Clear Soup (Light Spiced),Snacks and Beverages,Global,1,1 bowl (200ml),45,1.5,7.9,0.8,2.5,2.0,Dinner,Boiled,Weight Loss
+1927,Vegetable Clear Soup (Homestyle),Snacks and Beverages,Global,1,1 bowl (200ml),44,1.5,7.8,0.7,2.6,1.9,Dinner,Boiled,Weight Loss
+1928,Vegetable Clear Soup (Low Sodium),Snacks and Beverages,Global,1,1 bowl (200ml),45,1.5,8.0,0.8,2.5,2.0,Dinner,Boiled,Weight Loss
+1929,Vegetable Clear Soup (Extra Portion),Snacks and Beverages,Global,1,1 bowl (200ml),57,1.9,10.1,1.0,3.2,2.5,Dinner,Boiled,Weight Loss
+1930,Vegetable Clear Soup (Half Portion),Snacks and Beverages,Global,1,1 bowl (200ml),24,0.8,4.3,0.4,1.3,1.1,Dinner,Boiled,Weight Loss
+1931,Vegetable Clear Soup (With Olive Oil),Snacks and Beverages,Global,1,1 bowl (200ml),48,1.5,7.9,1.1,2.6,2.0,Dinner,Boiled,Weight Loss
+1932,Vegetable Clear Soup (Steamed),Snacks and Beverages,Global,1,1 bowl (200ml),44,1.6,7.7,0.7,2.8,1.9,Dinner,Boiled,Weight Loss
+1933,Vegetable Clear Soup (Nutrient Dense),Snacks and Beverages,Global,1,1 bowl (200ml),47,1.7,8.2,0.8,2.9,2.0,Dinner,Boiled,Weight Loss
+1934,Vegetable Clear Soup (Mild Flavor),Snacks and Beverages,Global,1,1 bowl (200ml),44,1.5,7.8,0.7,2.4,1.9,Dinner,Boiled,Weight Loss
+1935,Vegetable Clear Soup (Herb Infused),Snacks and Beverages,Global,1,1 bowl (200ml),46,1.5,8.1,0.8,2.7,2.0,Dinner,Boiled,Weight Loss
+1936,Vegetable Clear Soup (Traditional),Snacks and Beverages,Global,1,1 bowl (200ml),48,1.5,8.4,0.9,2.5,2.1,Dinner,Boiled,Weight Loss
+1937,Homestyle Tomato Soup,Snacks and Beverages,Global,1,1 bowl (200ml),80,2.0,14.0,1.8,2.2,7.5,Dinner,Boiled,Balanced
+1938,Homestyle Tomato Soup (Light Spiced),Snacks and Beverages,Global,1,1 bowl (200ml),82,2.0,14.3,1.9,2.3,7.7,Dinner,Boiled,Balanced
+1939,Homestyle Tomato Soup (Homestyle),Snacks and Beverages,Global,1,1 bowl (200ml),80,2.1,14.0,1.7,2.4,7.3,Dinner,Boiled,Balanced
+1940,Homestyle Tomato Soup (Low Sodium),Snacks and Beverages,Global,1,1 bowl (200ml),78,2.0,13.7,1.7,2.2,7.2,Dinner,Boiled,Balanced
+1941,Homestyle Tomato Soup (Extra Portion),Snacks and Beverages,Global,1,1 bowl (200ml),102,2.5,17.8,2.3,2.8,9.6,Dinner,Boiled,Balanced
+1942,Homestyle Tomato Soup (Half Portion),Snacks and Beverages,Global,1,1 bowl (200ml),44,1.1,7.7,1.0,1.2,4.1,Dinner,Boiled,Balanced
+1943,Homestyle Tomato Soup (With Olive Oil),Snacks and Beverages,Global,1,1 bowl (200ml),88,2.1,14.3,2.5,2.4,7.6,Dinner,Boiled,Balanced
+1944,Homestyle Tomato Soup (Steamed),Snacks and Beverages,Global,1,1 bowl (200ml),77,2.1,13.5,1.6,2.5,7.0,Dinner,Boiled,Balanced
+1945,Homestyle Tomato Soup (Nutrient Dense),Snacks and Beverages,Global,1,1 bowl (200ml),85,2.3,14.6,1.9,2.6,7.6,Dinner,Boiled,Balanced
+1946,Homestyle Tomato Soup (Mild Flavor),Snacks and Beverages,Global,1,1 bowl (200ml),78,1.9,13.7,1.7,2.1,7.2,Dinner,Boiled,Balanced
+1947,Homestyle Tomato Soup (Herb Infused),Snacks and Beverages,Global,1,1 bowl (200ml),84,2.1,14.5,1.9,2.4,7.8,Dinner,Boiled,Balanced
+1948,Homestyle Tomato Soup (Traditional),Snacks and Beverages,Global,1,1 bowl (200ml),80,1.9,14.0,1.8,2.1,7.6,Dinner,Boiled,Balanced
+1949,Vegetable Samosa,Occasional Foods,Indian,1,1 piece (80g),271,3.6,32.9,13.9,2.2,2.5,Snack,Fried,Energy Booster
+1950,Vegetable Samosa (Light Spiced),Occasional Foods,Indian,1,1 piece (80g),276,3.6,32.7,14.5,2.2,2.5,Snack,Fried,Energy Booster
+1951,Vegetable Samosa (Homestyle),Occasional Foods,Indian,1,1 piece (80g),255,3.6,31.8,12.6,2.2,2.3,Snack,Fried,Energy Booster
+1952,Vegetable Samosa (Low Sodium),Occasional Foods,Indian,1,1 piece (80g),267,3.6,32.6,13.6,2.2,2.4,Snack,Fried,Energy Booster
+1953,Vegetable Samosa (Extra Portion),Occasional Foods,Indian,1,1 piece (80g),338,4.5,41.1,17.3,2.7,3.1,Snack,Fried,Energy Booster
+1954,Vegetable Samosa (Half Portion),Occasional Foods,Indian,1,1 piece (80g),148,2.0,17.9,7.6,1.2,1.3,Snack,Fried,Energy Booster
+1955,Vegetable Samosa (With Olive Oil),Occasional Foods,Indian,1,1 piece (80g),304,3.5,31.7,18.1,2.2,2.4,Snack,Fried,Energy Booster
+1956,Vegetable Samosa (Steamed),Occasional Foods,Indian,1,1 piece (80g),244,3.7,30.9,11.7,2.4,2.2,Snack,Fried,Energy Booster
+1957,Vegetable Samosa (Nutrient Dense),Occasional Foods,Indian,1,1 piece (80g),274,4.0,32.6,14.2,2.4,2.4,Snack,Fried,Energy Booster
+1958,Vegetable Samosa (Mild Flavor),Occasional Foods,Indian,1,1 piece (80g),258,3.5,32.1,12.9,2.1,2.4,Snack,Fried,Energy Booster
+1959,Vegetable Samosa (Herb Infused),Occasional Foods,Indian,1,1 piece (80g),266,3.6,32.2,13.7,2.3,2.4,Snack,Fried,Energy Booster
+1960,Vegetable Samosa (Traditional),Occasional Foods,Indian,1,1 piece (80g),274,3.5,33.0,14.2,2.1,2.5,Snack,Fried,Energy Booster
+1961,Potato French Fries,Occasional Foods,Global,1,1 serving (100g),318,3.4,41.8,15.2,3.8,0.3,Snack,Fried,Energy Booster
+1962,Potato French Fries (Light Spiced),Occasional Foods,Global,1,1 serving (100g),322,3.4,41.6,15.8,3.9,0.3,Snack,Fried,Energy Booster
+1963,Potato French Fries (Homestyle),Occasional Foods,Global,1,1 serving (100g),306,3.5,41.4,14.1,4.1,0.3,Snack,Fried,Energy Booster
+1964,Potato French Fries (Low Sodium),Occasional Foods,Global,1,1 serving (100g),318,3.5,42.1,15.1,3.9,0.3,Snack,Fried,Energy Booster
+1965,Potato French Fries (Extra Portion),Occasional Foods,Global,1,1 serving (100g),384,4.2,50.5,18.3,4.6,0.4,Snack,Fried,Energy Booster
+1966,Potato French Fries (Half Portion),Occasional Foods,Global,1,1 serving (100g),170,1.8,22.4,8.1,2.1,0.2,Snack,Fried,Energy Booster
+1967,Potato French Fries (With Olive Oil),Occasional Foods,Global,1,1 serving (100g),352,3.4,40.2,19.7,3.9,0.3,Snack,Fried,Energy Booster
+1968,Potato French Fries (Steamed),Occasional Foods,Global,1,1 serving (100g),293,3.7,40.2,13.0,4.3,0.3,Snack,Fried,Energy Booster
+1969,Potato French Fries (Nutrient Dense),Occasional Foods,Global,1,1 serving (100g),337,4.0,43.6,16.3,4.6,0.3,Snack,Fried,Energy Booster
+1970,Potato French Fries (Mild Flavor),Occasional Foods,Global,1,1 serving (100g),315,3.4,42.4,14.6,3.9,0.3,Snack,Fried,Energy Booster
+1971,Potato French Fries (Herb Infused),Occasional Foods,Global,1,1 serving (100g),313,3.4,41.1,15.0,4.0,0.3,Snack,Fried,Energy Booster
+1972,Potato French Fries (Traditional),Occasional Foods,Global,1,1 serving (100g),314,3.2,41.1,15.2,3.6,0.3,Snack,Fried,Energy Booster
+1973,Vegetable Pakora,Occasional Foods,Indian,1,4 pieces (100g),291,5.3,28.5,17.3,3.3,2.0,Snack,Fried,Energy Booster
+1974,Vegetable Pakora (Light Spiced),Occasional Foods,Indian,1,4 pieces (100g),301,5.3,28.7,18.3,3.3,2.0,Snack,Fried,Energy Booster
+1975,Vegetable Pakora (Homestyle),Occasional Foods,Indian,1,4 pieces (100g),269,5.2,27.1,15.5,3.3,1.9,Snack,Fried,Energy Booster
+1976,Vegetable Pakora (Low Sodium),Occasional Foods,Indian,1,4 pieces (100g),281,5.2,27.6,16.6,3.2,1.9,Snack,Fried,Energy Booster
+1977,Vegetable Pakora (Extra Portion),Occasional Foods,Indian,1,4 pieces (100g),350,6.4,34.2,20.8,3.9,2.4,Snack,Fried,Energy Booster
+1978,Vegetable Pakora (Half Portion),Occasional Foods,Indian,1,4 pieces (100g),161,2.9,15.8,9.6,1.8,1.1,Snack,Fried,Energy Booster
+1979,Vegetable Pakora (With Olive Oil),Occasional Foods,Indian,1,4 pieces (100g),336,5.2,27.7,22.7,3.3,2.0,Snack,Fried,Energy Booster
+1980,Vegetable Pakora (Steamed),Occasional Foods,Indian,1,4 pieces (100g),258,5.5,26.6,14.4,3.5,1.8,Snack,Fried,Energy Booster
+1981,Vegetable Pakora (Nutrient Dense),Occasional Foods,Indian,1,4 pieces (100g),300,6.0,28.7,17.9,3.7,2.0,Snack,Fried,Energy Booster
+1982,Vegetable Pakora (Mild Flavor),Occasional Foods,Indian,1,4 pieces (100g),284,5.3,28.7,16.5,3.3,2.0,Snack,Fried,Energy Booster
+1983,Vegetable Pakora (Herb Infused),Occasional Foods,Indian,1,4 pieces (100g),285,5.2,27.7,17.0,3.4,2.0,Snack,Fried,Energy Booster
+1984,Vegetable Pakora (Traditional),Occasional Foods,Indian,1,4 pieces (100g),293,5.1,28.5,17.6,3.1,2.1,Snack,Fried,Energy Booster
+1985,Cheese Pizza Slice,Occasional Foods,Italian,1,1 slice (107g),291,12.1,32.3,12.6,2.0,3.5,Snack,Baked,Energy Booster
+1986,Cheese Pizza Slice (Light Spiced),Occasional Foods,Italian,1,1 slice (107g),298,12.2,32.5,13.3,2.1,3.6,Snack,Baked,Energy Booster
+1987,Cheese Pizza Slice (Homestyle),Occasional Foods,Italian,1,1 slice (107g),285,12.6,32.2,11.8,2.2,3.4,Snack,Baked,Energy Booster
+1988,Cheese Pizza Slice (Low Sodium),Occasional Foods,Italian,1,1 slice (107g),283,11.9,31.5,12.2,2.0,3.4,Snack,Baked,Energy Booster
+1989,Cheese Pizza Slice (Extra Portion),Occasional Foods,Italian,1,1 slice (107g),366,15.2,40.6,15.9,2.5,4.4,Snack,Baked,Energy Booster
+1990,Cheese Pizza Slice (Half Portion),Occasional Foods,Italian,1,1 slice (107g),155,6.5,17.2,6.7,1.1,1.9,Snack,Baked,Energy Booster
+1991,Cheese Pizza Slice (With Olive Oil),Occasional Foods,Italian,1,1 slice (107g),327,12.2,31.8,16.8,2.1,3.5,Snack,Baked,Energy Booster
+1992,Cheese Pizza Slice (Steamed),Occasional Foods,Italian,1,1 slice (107g),262,12.3,29.7,10.4,2.1,3.1,Snack,Baked,Energy Booster
+1993,Cheese Pizza Slice (Nutrient Dense),Occasional Foods,Italian,1,1 slice (107g),313,14.2,33.6,13.5,2.4,3.6,Snack,Baked,Energy Booster
+1994,Cheese Pizza Slice (Mild Flavor),Occasional Foods,Italian,1,1 slice (107g),281,11.8,31.8,11.8,2.0,3.4,Snack,Baked,Energy Booster
+1995,Cheese Pizza Slice (Herb Infused),Occasional Foods,Italian,1,1 slice (107g),302,12.7,33.2,13.1,2.2,3.6,Snack,Baked,Energy Booster
+1996,Cheese Pizza Slice (Traditional),Occasional Foods,Italian,1,1 slice (107g),286,11.4,31.7,12.6,1.9,3.5,Snack,Baked,Energy Booster
+1997,Dark Chocolate (70%),Occasional Foods,Global,1,30g,168,2.2,12.9,11.9,3.1,6.9,Snack,Raw,Balanced
+1998,Dark Chocolate (70%) (Light Spiced),Occasional Foods,Global,1,30g,174,2.2,13.0,12.6,3.2,7.0,Snack,Raw,Balanced
+1999,Dark Chocolate (70%) (Homestyle),Occasional Foods,Global,1,30g,163,2.3,13.1,11.3,3.3,6.8,Snack,Raw,Balanced
+2000,Dark Chocolate (70%) (Low Sodium),Occasional Foods,Global,1,30g,169,2.2,13.1,12.0,3.2,7.0,Snack,Raw,Balanced
+2001,Dark Chocolate (70%) (Extra Portion),Occasional Foods,Global,1,30g,206,2.7,15.9,14.6,3.8,8.5,Snack,Raw,Balanced
+2002,Dark Chocolate (70%) (Half Portion),Occasional Foods,Global,1,30g,94,1.2,7.2,6.7,1.7,3.9,Snack,Raw,Balanced
+2003,Dark Chocolate (70%) (With Olive Oil),Occasional Foods,Global,1,30g,207,2.2,13.0,16.2,3.3,7.0,Snack,Raw,Balanced
+2004,Dark Chocolate (70%) (Steamed),Occasional Foods,Global,1,30g,155,2.4,12.7,10.5,3.5,6.6,Snack,Raw,Balanced
+2005,Dark Chocolate (70%) (Nutrient Dense),Occasional Foods,Global,1,30g,180,2.6,13.5,12.9,3.7,7.1,Snack,Raw,Balanced
+2006,Dark Chocolate (70%) (Mild Flavor),Occasional Foods,Global,1,30g,162,2.2,12.9,11.3,3.1,6.8,Snack,Raw,Balanced
+2007,Dark Chocolate (70%) (Herb Infused),Occasional Foods,Global,1,30g,168,2.2,12.9,12.0,3.3,6.9,Snack,Raw,Balanced
+2008,Dark Chocolate (70%) (Traditional),Occasional Foods,Global,1,30g,170,2.1,13.0,12.2,2.9,7.0,Snack,Raw,Balanced
+2009,Gulab Jamun (1 piece),Occasional Foods,Indian,1,1 piece (50g),180,2.6,26.5,7.1,0.2,22.5,Snack,Fried,Energy Booster
+2010,Gulab Jamun (1 piece) (Light Spiced),Occasional Foods,Indian,1,1 piece (50g),179,2.5,25.9,7.3,0.2,21.9,Snack,Fried,Energy Booster
+2011,Gulab Jamun (1 piece) (Homestyle),Occasional Foods,Indian,1,1 piece (50g),172,2.6,25.7,6.5,0.2,21.1,Snack,Fried,Energy Booster
+2012,Gulab Jamun (1 piece) (Low Sodium),Occasional Foods,Indian,1,1 piece (50g),176,2.5,26.0,6.9,0.2,21.7,Snack,Fried,Energy Booster
+2013,Gulab Jamun (1 piece) (Extra Portion),Occasional Foods,Indian,1,1 piece (50g),222,3.1,32.7,8.8,0.3,27.7,Snack,Fried,Energy Booster
+2014,Gulab Jamun (1 piece) (Half Portion),Occasional Foods,Indian,1,1 piece (50g),94,1.3,13.9,3.7,0.1,11.8,Snack,Fried,Energy Booster
+2015,Gulab Jamun (1 piece) (With Olive Oil),Occasional Foods,Indian,1,1 piece (50g),202,2.6,26.4,9.6,0.2,22.4,Snack,Fried,Energy Booster
+2016,Gulab Jamun (1 piece) (Steamed),Occasional Foods,Indian,1,1 piece (50g),161,2.6,24.3,5.9,0.2,19.9,Snack,Fried,Energy Booster
+2017,Gulab Jamun (1 piece) (Nutrient Dense),Occasional Foods,Indian,1,1 piece (50g),185,2.9,26.7,7.4,0.2,21.9,Snack,Fried,Energy Booster
+2018,Gulab Jamun (1 piece) (Mild Flavor),Occasional Foods,Indian,1,1 piece (50g),175,2.5,26.1,6.7,0.2,21.6,Snack,Fried,Energy Booster
+2019,Gulab Jamun (1 piece) (Herb Infused),Occasional Foods,Indian,1,1 piece (50g),175,2.5,25.6,7.0,0.2,21.6,Snack,Fried,Energy Booster
+2020,Gulab Jamun (1 piece) (Traditional),Occasional Foods,Indian,1,1 piece (50g),184,2.5,26.9,7.4,0.2,23.0,Snack,Fried,Energy Booster

@@ -1,0 +1,195 @@
+{% extends 'base.html' %}
+
+{% block title %}Your Nutrition & Diet Recommendations{% endblock %}
+
+{% block content %}
+<div class="container">
+    <!-- Header Banner -->
+    <div class="card border-0 shadow-sm rounded-3 mb-4 bg-light">
+        <div class="card-body p-4 text-center">
+            <span class="badge bg-success-subtle text-success border border-success-subtle px-3 py-2 rounded-pill mb-2">
+                <i class="bi bi-check-circle-fill me-1"></i> Analysis Completed Successfully
+            </span>
+            <h2 class="fw-bold text-dark mb-1">Your Personalized Nutrition Summary</h2>
+            <p class="text-secondary mb-0">
+                Calculated based on your physical attributes, fitness goal (<strong>{{ profile.goal }}</strong>), and dietary preference.
+            </p>
+        </div>
+    </div>
+
+    <div class="row g-4 mb-4">
+        <!-- Physical & Energy Summary Card -->
+        <div class="col-lg-4">
+            <div class="card border-0 shadow-sm rounded-3 h-100">
+                <div class="card-header bg-white border-bottom py-3">
+                    <h5 class="card-title mb-0 fw-semibold text-dark">
+                        <i class="bi bi-person-badge text-primary me-2"></i>Physical Profile & Energy
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="p-3 bg-light rounded-3 text-center mb-3">
+                        <div class="text-muted small text-uppercase fw-bold">Body Mass Index (BMI)</div>
+                        <div class="display-6 fw-bold text-dark my-1">{{ results.bmi }}</div>
+                        <span class="badge {% if results.bmi_category == 'Normal weight' %}bg-success{% elif results.bmi_category == 'Underweight' %}bg-warning text-dark{% else %}bg-danger{% endif %} px-3 py-1">
+                            {{ results.bmi_category }}
+                        </span>
+                        <div class="small text-muted mt-2">{{ results.bmi_advice }}</div>
+                    </div>
+
+                    <ul class="list-group list-group-flush small">
+                        <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                            <span class="text-muted">Basal Metabolic Rate (BMR):</span>
+                            <span class="fw-semibold">{{ results.bmr }} kcal</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                            <span class="text-muted">Total Energy Expenditure (TDEE):</span>
+                            <span class="fw-semibold">{{ results.tdee }} kcal</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                            <span class="text-muted">Target Energy Intake:</span>
+                            <span class="fw-bold text-success">{{ results.target_calories }} kcal/day</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                            <span class="text-muted">Dietary Preference:</span>
+                            <span class="fw-semibold">{% if profile.is_veg %}Vegetarian{% else %}Non-Vegetarian{% endif %}</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- ML Classification & Macronutrients Card -->
+        <div class="col-lg-8">
+            <div class="card border-0 shadow-sm rounded-3 h-100">
+                <div class="card-header bg-white border-bottom py-3 d-flex justify-content-between align-items-center">
+                    <h5 class="card-title mb-0 fw-semibold text-dark">
+                        <i class="bi bi-cpu text-success me-2"></i>Machine Learning Dietary Classification
+                    </h5>
+                    <span class="badge bg-secondary">Random Forest Model</span>
+                </div>
+                <div class="card-body">
+                    <!-- ML Output Box -->
+                    <div class="alert alert-light border border-success-subtle rounded-3 p-3 mb-4">
+                        <div class="row align-items-center">
+                            <div class="col-md-7">
+                                <div class="text-uppercase text-muted small fw-bold">Predicted Nutrition Category</div>
+                                <h3 class="fw-bold text-success my-1">{{ results.ml_category }}</h3>
+                                <p class="small text-muted mb-0">
+                                    Classified by evaluating your calculated calorie demand against required protein, fiber, and macronutrient ratios.
+                                </p>
+                            </div>
+                            <div class="col-md-5 text-md-end mt-3 mt-md-0">
+                                <div class="small text-muted mb-1">Model Confidence</div>
+                                <div class="progress" style="height: 12px;">
+                                    <div class="progress-bar bg-success" role="progressbar" style="width: {{ results.confidence }}%;" aria-valuenow="{{ results.confidence }}" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                <div class="small fw-semibold text-secondary mt-1">{{ results.confidence }}% Certainty</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Daily Macronutrient Target Cards -->
+                    <h6 class="text-uppercase text-secondary fw-bold small mb-3">Estimated Daily Macronutrient Targets</h6>
+                    <div class="row g-2 text-center">
+                        <div class="col-6 col-md-3">
+                            <div class="p-3 bg-light rounded-3 border">
+                                <div class="small text-muted">Protein</div>
+                                <div class="h4 fw-bold text-success my-1">{{ results.macros.protein_g }} <span class="fs-6 fw-normal text-muted">g</span></div>
+                                <div class="extra-small text-muted">Muscle repair</div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <div class="p-3 bg-light rounded-3 border">
+                                <div class="small text-muted">Carbohydrates</div>
+                                <div class="h4 fw-bold text-primary my-1">{{ results.macros.carbs_g }} <span class="fs-6 fw-normal text-muted">g</span></div>
+                                <div class="extra-small text-muted">Daily energy</div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <div class="p-3 bg-light rounded-3 border">
+                                <div class="small text-muted">Healthy Fat</div>
+                                <div class="h4 fw-bold text-warning my-1">{{ results.macros.fat_g }} <span class="fs-6 fw-normal text-muted">g</span></div>
+                                <div class="extra-small text-muted">Hormone balance</div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <div class="p-3 bg-light rounded-3 border">
+                                <div class="small text-muted">Dietary Fiber</div>
+                                <div class="h4 fw-bold text-info my-1">{{ results.macros.fiber_g }} <span class="fs-6 fw-normal text-muted">g</span></div>
+                                <div class="extra-small text-muted">Gut health</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Personalized Food Recommendations Section -->
+    <div class="card border-0 shadow-sm rounded-3 mb-4">
+        <div class="card-header bg-white border-bottom py-3 d-flex justify-content-between align-items-center">
+            <div>
+                <h5 class="card-title mb-0 fw-semibold text-dark">
+                    <i class="bi bi-basket text-success me-2"></i>Personalized Recommended Foods
+                </h5>
+                <small class="text-muted">Filtered and scored to match your goal: <strong>{{ profile.goal }}</strong></small>
+            </div>
+            <a href="{{ url_for('food_data') }}" class="btn btn-sm btn-outline-secondary">
+                <i class="bi bi-search me-1"></i>View Full Catalog
+            </a>
+        </div>
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover align-middle mb-0">
+                    <thead class="table-light small text-uppercase">
+                        <tr>
+                            <th class="ps-3">Food Name</th>
+                            <th>Category</th>
+                            <th>Serving Size</th>
+                            <th class="text-end">Calories</th>
+                            <th class="text-end">Protein</th>
+                            <th class="text-end">Carbs</th>
+                            <th class="text-end">Fiber</th>
+                            <th>Meal Type</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% if results.recommendations %}
+                            {% for food in results.recommendations %}
+                            <tr>
+                                <td class="ps-3 fw-semibold text-dark">
+                                    {% if food.Vegetarian == 1 %}
+                                        <span class="badge bg-success-subtle text-success border border-success-subtle me-1"><i class="bi bi-circle-fill" style="font-size: 8px;"></i> Veg</span>
+                                    {% else %}
+                                        <span class="badge bg-danger-subtle text-danger border border-danger-subtle me-1"><i class="bi bi-triangle-fill" style="font-size: 8px;"></i> Non-Veg</span>
+                                    {% endif %}
+                                    {{ food.Food_Name }}
+                                </td>
+                                <td><span class="badge bg-light text-secondary border">{{ food.Food_Category }}</span></td>
+                                <td class="text-muted small">{{ food.Serving_Size }}</td>
+                                <td class="text-end fw-bold">{{ food.Calories }} <span class="small fw-normal text-muted">kcal</span></td>
+                                <td class="text-end text-success fw-semibold">{{ food.Protein }}g</td>
+                                <td class="text-end text-secondary">{{ food.Carbohydrates }}g</td>
+                                <td class="text-end text-info fw-semibold">{{ food.Fiber }}g</td>
+                                <td><span class="badge bg-secondary-subtle text-dark">{{ food.Meal_Type }}</span></td>
+                            </tr>
+                            {% endfor %}
+                        {% else %}
+                            <tr>
+                                <td colspan="8" class="text-center text-muted py-4">No matching foods found for selected parameters.</td>
+                            </tr>
+                        {% endif %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="card-footer bg-white border-top p-3 d-flex justify-content-between align-items-center">
+            <span class="small text-muted">Recommendations generated from curated nutrition dataset using multi-factor content scoring.</span>
+            <a href="{{ url_for('analyze') }}" class="btn btn-outline-success btn-sm">
+                <i class="bi bi-arrow-repeat me-1"></i>New Analysis
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
